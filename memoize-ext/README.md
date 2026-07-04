@@ -1,4 +1,4 @@
-$Id: README.md 11978 2026-06-25 01:01:43Z cfrees $
+$Id: README.md 11982 2026-07-04 23:17:02Z cfrees $
 
 # memoize-ext
 
@@ -62,14 +62,14 @@ This work consists of all files listed in manifest.txt.
 ## Code Repositories
 
 Code for the package is hosted at 
-  https://codeberg.org/cfr/prooftrees
+  https://codeberg.org/cfr/ltx-logic
 For convenience, the repository is mirrored at
-  https://github.com/cfr42/prooftrees
+  https://github.com/cfr42/ltx-logic
 
 ## Contact Details
 
 Bug reports, feature requests etc. should be filed at
-  https://codeberg.org/cfr/prooftrees/issues
+  https://codeberg.org/cfr/ltx-logic/issues
 
 
 Clea F. Rees

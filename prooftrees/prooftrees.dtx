@@ -41,7 +41,7 @@
 % ^^A ref. ateb Max Chernoff: https://tex.stackexchange.com/a/723294/
 % ^^A \def\MakePrivateLetters{\makeatletter\ExplSyntaxOn\endlinechar13}
 % ^^A \ExplSyntaxOff
-\ProvidesFileSVN{$Id: prooftrees.dtx 11666 2026-02-21 01:53:54Z cfrees $}[v0.9.3 \revinfo][\filebase DTX: ]
+\ProvidesFileSVN{$Id: prooftrees.dtx 11982 2026-07-04 23:17:02Z cfrees $}[v0.9.3 \revinfo][\filebase DTX: ]
 \DefineFileInfoSVN[prooftreesdoc]
 \GetFileInfoSVN*
 \let\prooftreesdocversion\fileversion
@@ -441,19 +441,19 @@
 }
 \ExplSyntaxOff
 \prooftreesdocset{%^^A
-  bug={\href{https://codeberg.org/cfr/prooftrees/issues}{\textsc{bugtracker}}},
-  codeberg={\href{https://codeberg.org/cfr/prooftrees}{\textsc{codeberg}}},
-  github={\href{https://github.com/cfr42/prooftrees}{\textsc{github}}},
+  bug={\href{https://codeberg.org/cfr/ltx-logic/issues}{\textsc{bugtracker}}},
+  codeberg={\href{https://codeberg.org/cfr/ltx-logic}{\textsc{codeberg}}},
+  github={\href{https://github.com/cfr42/ltx-logic}{\textsc{github}}},
   ctan={\href{https://ctan.org/}{\textsc{ctan}}},
 }
 \title{\pkg{\filebase}: Typesetting Logical Tableaux}
 \author{Clea F. Rees\thanks{%^^A 
     Bug tracker:
-    \href{https://codeberg.org/cfr/prooftrees/issues}{\url{codeberg.org/cfr/prooftrees/issues}}
+    \href{https://codeberg.org/cfr/ltx-logic/issues}{\url{codeberg.org/cfr/ltx-logic/issues}}
     \textbar{} Code:
-    \href{https://codeberg.org/cfr/prooftrees}{\url{codeberg.org/cfr/prooftrees}}
+    \href{https://codeberg.org/cfr/ltx-logic}{\url{codeberg.org/cfr/ltx-logic}}
     \textbar{} Mirror:
-    \href{https://github.com/cfr42/prooftrees}{\url{github.com/cfr42/prooftrees}}%^^A 
+    \href{https://github.com/cfr42/ltx-logic}{\url{github.com/cfr42/ltx-logic}}%^^A 
 }}
 \date{\prooftreesdocdate}
 \title{\prooftreesdocbase}
@@ -2888,8 +2888,8 @@ for root'={%
 %    \begin{macrocode}
 \NeedsTeXFormat{LaTeX2e}
 \RequirePackage{svn-prov}
-%<!debug>\ProvidesPackageSVN[\filebase.sty]{$Id: prooftrees.dtx 11666 2026-02-21 01:53:54Z cfrees $}[v0.9.3 \revinfo]
-%<debug>\ProvidesPackageSVN[\filebase-debug.sty]{$Id: prooftrees.dtx 11666 2026-02-21 01:53:54Z cfrees $}[v0.9.3 \revinfo\ (debugging)]
+%<!debug>\ProvidesPackageSVN[\filebase.sty]{$Id: prooftrees.dtx 11982 2026-07-04 23:17:02Z cfrees $}[v0.9.3 \revinfo]
+%<debug>\ProvidesPackageSVN[\filebase-debug.sty]{$Id: prooftrees.dtx 11982 2026-07-04 23:17:02Z cfrees $}[v0.9.3 \revinfo\ (debugging)]
 \DefineFileInfoSVN
 %    \end{macrocode}
 % \iffalse
@@ -4798,7 +4798,7 @@ for root'={%
 \RequirePackage{svn-prov}
 \def\GetFileBaseName#1-#2\nil{#1}
 \edef\MyFileBaseName{\expandafter\GetFileBaseName\jobname\nil}
-\ProvidesFileSVN[\MyFileBaseName-doc]{$Id: prooftrees.dtx 11666 2026-02-21 01:53:54Z cfrees $}[v0.9.3 \revinfo]
+\ProvidesFileSVN[\MyFileBaseName-doc]{$Id: prooftrees.dtx 11982 2026-07-04 23:17:02Z cfrees $}[v0.9.3 \revinfo]
 \DefineFileInfoSVN
 \AddToHook{begindocument}{\OnlyDescription}
 %    \end{macrocode}
@@ -4816,7 +4816,7 @@ for root'={%
 \RequirePackage{svn-prov}
 \def\GetFileBaseName#1-#2\nil{#1}
 \edef\MyFileBaseName{\expandafter\GetFileBaseName\jobname\nil}
-\ProvidesFileSVN[\MyFileBaseName-code]{$Id: prooftrees.dtx 11666 2026-02-21 01:53:54Z cfrees $}[v0.9.3 \revinfo]
+\ProvidesFileSVN[\MyFileBaseName-code]{$Id: prooftrees.dtx 11982 2026-07-04 23:17:02Z cfrees $}[v0.9.3 \revinfo]
 \DefineFileInfoSVN
 \AddToHook{begindocument}{\AlsoImplementation}
 %    \end{macrocode}

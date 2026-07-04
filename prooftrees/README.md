@@ -1,9 +1,9 @@
-$Id: README.md 11666 2026-02-21 01:53:54Z cfrees $
+$Id: README.md 11982 2026-07-04 23:17:02Z cfrees $
 
 [![Automatic
-Checks](https://github.com/cfr42/prooftrees/actions/workflows/main.yml/badge.svg)](https://github.com/cfr42/prooftrees/actions/workflows/main.yml)
+Checks](https://github.com/cfr42/ltx-logic/actions/workflows/main.yml/badge.svg)](https://github.com/cfr42/ltx-logic/actions/workflows/main.yml)
 [![Automatic
-Checks](https://github.com/cfr42/prooftrees/actions/workflows/main.yml/badge.svg?branch=devel)](https://github.com/cfr42/prooftrees/actions/workflows/main.yml)
+Checks](https://github.com/cfr42/ltx-logic/actions/workflows/main.yml/badge.svg?branch=devel)](https://github.com/cfr42/ltx-logic/actions/workflows/main.yml)
 
 # prooftrees
 
@@ -60,14 +60,14 @@ is required and that memoize-ext is required if memoize is loaded.
 ## Code Repositories
 
 Code for the package is hosted at 
-	https://codeberg.org/cfr/prooftrees
+	https://codeberg.org/cfr/ltx-logic
 For convenience, the repository is mirrored at
-  https://github.com/cfr42/prooftrees
+  https://github.com/cfr42/ltx-logic
 
 ## Contact Details
 
 Bug reports, feature requests etc. should be filed at
-  https://codeberg.org/cfr/prooftrees/issues
+  https://codeberg.org/cfr/ltx-logic/issues
 
 
 Clea F. Rees

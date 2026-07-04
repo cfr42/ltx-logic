@@ -1,4 +1,4 @@
--- $Id: build.lua 11739 2026-03-06 18:02:54Z cfrees $
+-- $Id: build.lua 11982 2026-07-04 23:17:02Z cfrees $
 -- Build configuration for forest-ext
 --------------------------------------------------------------------------------
 maindir = maindir or ".."
@@ -35,8 +35,8 @@ uploadconfig = {
   update = true,
   summary = "Additional Forest libraries providing bug fixes, extensions and support for tagging",
   description = "Additional Forest libraries providing bug fixes, extensions and support for tagging",
-	bugtracker = "https://codeberg.org/cfr/prooftrees/issues",
-	repository = {"https://codeberg.org/cfr/prooftrees", "https://github.com/cfr42/prooftrees"},
+	bugtracker = "https://codeberg.org/cfr/ltx-logic/issues",
+	repository = {"https://codeberg.org/cfr/ltx-logic", "https://github.com/cfr42/ltx-logic"},
   topic = {"tagged", "logic", "linguistic", "pgf-tikz", "tree"},
   note = "The catalogue description shown in search results for this package appears to be from of my other packages. Could this be corrected, please?",
 }

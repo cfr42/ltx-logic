@@ -1,4 +1,4 @@
-$Id: README.md 11668 2026-02-21 02:34:38Z cfrees $
+$Id: README.md 11982 2026-07-04 23:17:02Z cfrees $
 
 # forest-ext
 
@@ -104,14 +104,14 @@ the structure.)
 ## Code Repositories
 
 Code for the package is hosted at 
-  https://codeberg.org/cfr/prooftrees
+  https://codeberg.org/cfr/ltx-logic
 For convenience, the repository will be mirrored at
-  https://github.com/cfr42/prooftrees
+  https://github.com/cfr42/ltx-logic
 
 ## Contact Details
 
 Bug reports, feature requests etc. should be filed at
-  https://codeberg.org/cfr/prooftrees/issues
+  https://codeberg.org/cfr/ltx-logic/issues
 
 
 Clea F. Rees
