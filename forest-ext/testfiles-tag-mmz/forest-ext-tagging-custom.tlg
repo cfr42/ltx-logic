@@ -1,913 +1,23 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.23)  20 MAY 2016 09:00
-entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
- (./ascii.tcx)
-**\input forest-ext-tagging-custom.lvt
-(./forest-ext-tagging-custom.lvt (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/documentmetadata-support.ltx (/home/runner/texlive/texmf-dist/tex/latex/pdfmanagement/pdfmanagement-init.sty
-Package: pdfmanagement-init 2026-05-26 v0.97c LaTeX PDF management bundle
- (/home/runner/texlive/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty
-Package: tagpdf-base 2026-05-17 v1.0c part of tagpdf - provide base, no-op versions of the user commands 
-\c@g__tag_MCID_abs_int=\count276
-\c@g__tag_struct_abs_int=\count277
-) (/home/runner/texlive/texmf-dist/tex/latex/pdfmanagement/pdfmanagement.ltx
-File: pdfmanagement.ltx 2026-05-26 v0.97c PDF management code
-\g__pdfmanagement_EmbeddedFiles_int=\count278
-\l__pdfmeta_xmp_indent_int=\count279
-\g_pdffile_embed_pdfa_int=\count280
-\g_pdffile_embed_nonpdfa_int=\count281
-\l_pdfoutline_open_int=\count282
-\g__pdfoutline_id_int=\count283
-\g__pdfoutline_current_level_int=\count284
-))) (/home/runner/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
-) (/home/runner/texlive/texmf-dist/tex/latex/pdfmanagement/l3backend-testphase-pdftex.def
-File: l3backend-pdf-pdftex.def 2026-05-26 v0.97c LaTeX PDF management bundle backend support: PDF output (pdfTeX)
-\l__pdf_backend_tmpa_box=\box53
-\l__pdf_backend_tmpb_box=\box54
-\g__pdf_backend_resourceid_int=\count286
-\g__pdf_backend_name_int=\count287
-\g__pdf_backend_page_int=\count288
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-latest.sty
-Package: latex-lab-testphase-latest 2026-05-02 v0.1g latex-lab modules
- (/home/runner/texlive/texmf-dist/tex/latex/tagpdf/tagpdf.sty
-Package: tagpdf 2026-05-17 v1.0c  LaTeX kernel code for PDF tagging 
-\l__tag_tmpa_int=\count289
-\l__tag_tmpa_box=\box55
-\l__tag_tmpb_box=\box56
-\l__tag_loglevel_int=\count290
-\g__tag_unique_cnt_int=\count291
-\l__tag_tag_stop_int=\count292
- (/home/runner/texlive/texmf-dist/tex/latex/tagpdf/tagpdf-mc-code-generic.sty
-Package: tagpdf-mc-code-generic 2026-05-17 v1.0c part of tagpdf - code related to marking chunks - generic mode
-\g__tag_mc_marks=\marks4
-)
-\g__tag_tree_id_pad_int=\count293
-\c@g__tag_parenttree_obj_int=\count294
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf2.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-mathml.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-latex-book.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-latex.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-latex-lab.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf.def
-
-
-Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf2.def
-
-\g__tag_struct_AFobj_int=\count295
-\g__tag_para_begin_int=\count296
-\g__tag_para_end_int=\count297
-\g__tag_para_main_begin_int=\count298
-\g__tag_para_main_end_int=\count299
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-names.sty
-Package: latex-lab-testphase-names 2026-04-28 v0.8k Code related to the names of tags
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-new-or-2.sty
-Package: latex-lab-testphase-new-or-2 2026-01-16 v0.86d Changes to the output routine
- (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-footnotes.ltx
-File: latex-lab-footnotes.ltx 2026-04-28 v0.8p changes to the footnote interfaces
-\footnotemargin=\dimen150
-\g_fnote_id_int=\count300
-)) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-block.sty
-Package: latex-lab-testphase-block 2026-06-10 v1.0c blockenv implementation
-
-LaTeX template Info: Declaring template type 'blockenv' taking 4 argument(s)
-(template)           on line 195.
-
-
-LaTeX template Info: Declaring template type 'list' taking 4 argument(s) on
-(template)           line 196.
-
-
-LaTeX template Info: Declaring template type 'captionedtext' taking 4
-(template)           argument(s) on line 197.
-
-
-LaTeX template Info: Declaring template type 'thmstyle' taking 4 argument(s)
-(template)           on line 198.
-
-
-LaTeX template Info: Declaring template type 'block' taking 1 argument(s) on
-(template)           line 199.
-
-
-LaTeX template Info: Declaring template type 'item' taking 1 argument(s) on
-(template)           line 200.
-
-
-LaTeX template Info: Declaring template type 'para' taking 1 argument(s) on
-(template)           line 201.
-
-\c@maxblocklevels=\count301
-\l_para_begin_skip=\skip49
-\l__block_unchained_skip=\skip50
-\l__block_botsep_skip=\skip51
-\l__block_parbotsep_skip=\skip52
-\l__block_parindent_dim=\dimen151
-\l__block_counter_start_int=\count302
-\l__block_one_label_box=\box57
-\g__block_labels_box=\box58
-\l__block_tmpa_skip=\skip53
-\l__block_effective_top_skip=\skip54
-\l__block_effective_bot_skip=\skip55
-\l__block_caption_before_skip=\skip56
-\l__block_caption_after_skip=\skip57
-
-LaTeX template Info: Declaring instance 'flushleft' of type blockenv on line
-(template)           1489.
-
-
-LaTeX template Info: Declaring instance 'flushright' of type blockenv on line
-(template)           1493.
-
-\@descriptiondepth=\count303
-
-LaTeX template Info: Declaring instance 'remark' of type thmstyle on line
-(template)           1791.
-
-
-LaTeX template Info: Declaring instance 'definition' of type thmstyle on line
-(template)           1796.
-
-
-LaTeX template Info: Declaring instance 'legacy2e' of type thmstyle on line
-(template)           1798.
-
-LaTeX Info: Redefining \centering on input line 1894.
-LaTeX Info: Redefining \raggedleft on input line 1895.
-LaTeX Info: Redefining \raggedright on input line 1896.
-LaTeX Info: Redefining \qed on input line 2238.
- (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-enumitem.sty
-Package: latex-lab-enumitem 2026-04-21 v0.80f Emulating enumitem
-)) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-context.sty
-Package: latex-lab-testphase-context 2026-05-26 v0.6a Providing context for instance, etc.
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-kernel-changes.sty
-Package: latex-lab-kernel-changes 2026-04-27 v0.85j General kernel and class changes
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-sec.sty
-Package: latex-lab-testphase-sec 2026-04-28 v0.84o Code related to the tagging of heading commands
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-sec-template.sty
-Package: latex-lab-testphase-sec-template 2026-05-25 v0.9g heading implementation
-
-LaTeX template Info: Declaring template type 'heading' taking 9 argument(s) on
-(template)           line 177.
-
-
-LaTeX template Info: Declaring template type 'headformat' taking 6 argument(s)
-(template)           on line 178.
-
-\l__head_level_int=\count304
-\l__head_before_skip=\skip58
-\l__head_penalty_int=\count305
-\l__head_after_penalty_skip=\skip59
-\l__head_after_skip=\skip60
-\l__head_heading_indent_dim=\dimen152
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-toc.sty
-Package: latex-lab-testphase-toc 2026-04-28 v0.85k  Code related to the tagging of toc-like lists
-\g__tag_toc_level_int=\count306
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-minipage.sty
-Package: latex-lab-testphase-minipage 2026-04-24 v0.81k Code related to the tagging of minipages and parboxes
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-graphic.sty
-Package: latex-lab-testphase-graphic 2026-04-28 v0.80i Code related to the tagging of graphics
-\g__tag_graphic_int=\count307
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-float.sty
-Package: latex-lab-testphase-float 2026-04-24 v0.81n Code related to the tagging of floats
-\g__tag_float_int=\count308
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-bib.sty
-Package: latex-lab-testphase-bib 2026-05-28 v0.81f Code related to the tagging of bibliography and cite command
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-text.sty
-Package: latex-lab-testphase-text 2026-04-27 v0.85g Code related to the tagging of various small text commands
-LaTeX Info: Redefining \mbox on input line 108.
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-marginpar.sty
-Package: latex-lab-testphase-marginpar 2026-04-24 v0.85i Changes related to the tagging of the margin notes
-\g__kernel_marginpar_int=\count309
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-title.sty
-Package: latex-lab-testphase-title 2026-05-27 v0.85g Changes related to the tagging of the title
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-table.sty
-Package: latex-lab-testphase-table 2026-04-28 v0.85t Code related to the tagging of tables
- (/home/runner/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
-\col@sep=\dimen153
-\ar@mcellbox=\box59
-\extrarowheight=\dimen154
-\NC@list=\toks17
-\extratabsurround=\skip61
-\backup@length=\skip62
-\ar@cellbox=\box60
-)) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-math.sty
-Package: latex-lab-testphase-math 2025-03-10 v0.8d code related to the math tagging
- (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-math.ltx
-File: latex-lab-math.ltx 2026-05-27 v0.7e Grab all the math(s) and tag it
-\l__math_tmpa_skip=\skip63
-\g__math_mathml_total_int=\count310
-\g__math_mathml_int=\count311
-\g__math_math_total_int=\count312
-\g__math_mathml_AF_found_int=\count313
-\g__math_mathml_AF_attached_int=\count314
-\l__math_tmpa_box=\box61
-\l__math_mathstyle_int=\count315
-\g__math_mathchoice_int=\count316
-\l__math_grab_env_int=\count317
-\g__math_postdisplaypenalty_int=\count318
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-mathpkg.ltx
-File: latex-lab-mathpkg.ltx 2026-05-11 v0.1e mathpkg adaptions
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-mathintent.ltx
-File: latex-lab-mathintent.ltx 2026-01-16 v0.1c MathML intent attributes
-)) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-firstaid.sty
-Package: latex-lab-testphase-firstaid 2026-06-08 v0.85x Temporary patches to external packages needed for the tagging project
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-testphase-tikz.sty
-Package: latex-lab-testphase-tikz 2026-05-12 v0.80i Code related to the tagging of tikz pictures
-)) (/home/runner/texlive/texmf-dist/tex/latex/tagpdf/tagpdf-debug.sty
-Package: tagpdf-debug 2026-05-17 v1.0c  debug code for tagpdf 
- (/home/runner/texlive/texmf-dist/tex/latex/tagpdf/tagpdf-debug-generic.sty
-Package: tagpdf-debug-generic 2026-05-17 v1.0c part of tagpdf - debugging code related to marking chunks - generic mode
-)) (/home/runner/texlive/texmf-dist/tex/latex/pdfmanagement/pdfmanagement-firstaid.sty
-Package: pdfmanagement-firstaid 2026-05-26 v0.97c LaTeX PDF management bundle / firstaid-patches
-
-Package pdfmanagement Info: loading pdfmanagement firstaid code for pgf
-
-) (/home/runner/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
-Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
-)
-File: forest-ext-tagging-custom.lvt 2026/06/02 v0.0 (SVN Rev: 11926) forest-ext-tagging-custom: tag support test
- (/home/runner/texlive/texmf-dist/tex/latex/l3build/regression-test.tex
-\gOMITint=\count319
-\gTESTint=\count320
-{/home/runner/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}) (/home/runner/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(/home/runner/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
-)
-\c@part=\count321
-\c@section=\count322
-\c@subsection=\count323
-\c@subsubsection=\count324
-\c@paragraph=\count325
-\c@subparagraph=\count326
-\c@figure=\count327
-\c@table=\count328
-\abovecaptionskip=\skip64
-\belowcaptionskip=\skip65
-\bibindent=\dimen155
-)
-
-LaTeX template Info: Declaring instance 'part' of type heading on line 40.
-
-
-LaTeX template Info: Declaring instance 'part' of type headformat on line 40.
-
-
-
-START-TEST-LOG
-
-
 This is a generated file for the l3build validation system.
-
 Don't change this file in any respect.
-
-
 ============================================================
 TEST 1: tagforest-custom-mem-mmz
 ============================================================
 forest-ext-tagging-custom.mmz:
-
-
 -------- forest-ext-tagging-custom.mmz (start) ---------
-(./forest-ext-tagging-custom.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging-custom.mmz) \mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/FFDF38B558BB4F3291DF2C42AFADC935.memo}[nl]
 \endinput[nl]
 -------- forest-ext-tagging-custom.mmz (end) -----------
 ============================================================
-
-OMIT
-(./memoize-ext-debug.sty
-Package: memoize-ext-debug 2026/06/25 v0.4.3 11978 Extensions for Memoize
- (/home/runner/texlive/texmf-dist/tex/latex/memoize/memoize.sty
-Package: memoize 2024/12/02 v1.4.1 Fast and flexible externalization
- (/home/runner/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count329
-) (/home/runner/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/home/runner/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/home/runner/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
-) (/home/runner/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-) (/home/runner/texlive/texmf-dist/tex/latex/advice/advice.sty
-Package: advice 2024/03/15 v1.1.1 Extend commands and environments
- (/home/runner/texlive/texmf-dist/tex/latex/collargs/collargs.sty
-Package: collargs 2024/03/15 v1.2.0 Collect arguments of any command
- (/home/runner/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/home/runner/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks18
-\pgfkeys@temptoks=\toks19
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks20
-)))
-\collargsArgs=\toks21
-\collargsArg=\toks22
-\collargs@begins=\count330
-) (/home/runner/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/home/runner/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-06-18 L3 programming layer (loader) 
-)
-Package: xparse 2025-10-09 L3 Experimental document command parser
-))
-\mmz@temptoks=\toks23
-\mmz@box=\box62
-\mmz@out=\write3
-\mmz@mdfive@source=\toks24
-\mmz@exec@source=\toks25
-\mmzContext=\toks26
-\mmzContextExtra=\toks27
-\mmzSalt=\toks28
-\mmzCMemo=\toks29
-\mmzCCMemo=\toks30
-\mmz@seq=\count331
-\mmz@ccmemo@resources=\toks31
-\mmz@tbe@box=\box63
-\mmzExternPages=\count332
-\mmzExtraPages=\count333
- (./memoize.cfg
-File: memoize.cfg 2026/01/18 v0.0 (SVN Rev: 11521) memoize: memoize config for forest-ext testing
-)
-\openout0 = `forest-ext-tagging-custom.mmz.log'.
-
-runsystem(memoize-extract.pl  -F latex forest-ext-tagging-custom )...executed safely (allowed).
-
- (./forest-ext-tagging-custom.mmz.log
-Package memoize (perl-based extraction) Info: Extracting new externs listed in 'forest-ext-tagging-custom.mmz' from 'forest-ext-tagging-custom.pdf' using Perl module PDF::API2 on input line 1.
-Package memoize (perl-based extraction) Info: Done (there was nothing to extract) on input line 2.
-))
-==> First Aid for memoize.sty applied!
-\l__mmzx_tmpa_int=\count334
-(./memoize-ext-tag-debug.sty
-Package: memoize-ext-tag-debug 2026/06/25 v0.4.3 11978 Extensions for Memoize for tagged tikz pictures
-\g__mmzx_tagpic_int=\count335
-\mmzxtagtoks=\toks32
-
--> The generic hook 'package/tikz/after':
-> Code chunks:
->     latex-lab-testphase-tikz -> \AddToHookWithArguments {cmd/tikz@picture/before}{\tag_socket_use:nn {tikz/picture/init}{##1}\tag_socket_use:n {tikz/picture/begin}}\AddToHookWithArguments {cmd/pgfpicture/before}{\tag_suspend:n {\pgfpicture }}\AddToHook {cmd/endpgfpicture/after}{\tag_resume:n {\pgfpicture }\tag_socket_use:n {tikz/picture/end}}\pgfqkeys {/tikz}{tagging-setup/.is family,alt/.forward to=/tikz/tagging-setup/alt,alt/.belongs to family=/tikz/tagging-setup,actualtext/.forward to=/tikz/tagging-setup/actualtext,actualtext/.belongs to family=/tikz/tagging-setup,artifact/.forward to=/tikz/tagging-setup/artifact,artifact/.belongs to family=/tikz/tagging-setup,tagging-setup/.code=\pgfqkeys {/tikz/tagging-setup}{##1},tagging-setup/.belongs to family=/tikz/tagging-setup,tagging-setup/text/.code={\AssignTaggingSocketPlug {tikz/picture/begin}{text}\AssignTaggingSocketPlug {tikz/picture/end}{text}},tagging-setup/text/.belongs to family=/tikz/tagging-setup,tagging-setup/alt/.code={\tl_if_eq:nnF {##1}{\pgfkeysnovalue }{\pdf_purify:nN {##1}\l__tikz_tagging_alt_tl }\AssignTaggingSocketPlug {tikz/picture/begin}{alt}\AssignTaggingSocketPlug {tikz/picture/end}{alt}\def \pgfsys@begin@text {}\def \pgfsys@end@text {}},tagging-setup/alt/.belongs to family=/tikz/tagging-setup,tagging-setup/tag/.code={\AssignStructureRole {graphic}{##1}\AssignTaggingSocketPlug {tikz/picture/begin}{alt}\AssignTaggingSocketPlug {tikz/picture/end}{alt}\def \pgfsys@begin@text {}\def \pgfsys@end@text {}},tagging-setup/tag/.belongs to family=/tikz/tagging-setup,tagging-setup/actualtext/.code={\tl_if_eq:nnF {##1}{\pgfkeysnovalue }{\pdf_purify:nN {##1}\l__tikz_tagging_actualtext_tl }\AssignTaggingSocketPlug {tikz/picture/begin}{actualtext}\AssignTaggingSocketPlug {tikz/picture/end}{actualtext}\def \pgfsys@begin@text {}\def \pgfsys@end@text {}},tagging-setup/actualtext/.belongs to family=/tikz/tagging-setup,tagging-setup/artifact/.code={\AssignTaggingSocketPlug {tikz/picture/begin}{artifact}\AssignTaggingSocketPlug {tikz/picture/end}{artifact}\def \pgfsys@begin@text {}\def \pgfsys@end@text {}},tagging-setup/artifact/.belongs to family=/tikz/tagging-setup,tagging-setup/off/.code={\AssignTaggingSocketPlug {tikz/picture/begin}{noop}\AssignTaggingSocketPlug {tikz/picture/end}{noop}\def \pgfsys@begin@text {}\def \pgfsys@end@text {}},tagging-setup/off/.belongs to family=/tikz/tagging-setup,}
->     memoize-ext -> \pgfqkeys {/tikz}{alt/.forward to=/mmz/alt,actualtext/.forward to=/mmz/actualtext,artifact/.forward to=/mmz/artifact,tagging-setup/.forward to=/mmz/tagging-setup,}\mmzset {alt/.code={\pgfqkeys {/tikz/tagging-setup}{alt={##1}}\bool_set_true:N \l__mmzx_ok_bool \str_gset:Nn \g__mmzx_plug_orig_str {alt}\exp_args:Ne \mmzxtagtoks {\text_purify:n {##1}}\socket_assign_plug:nn {tagsupport/memoize/include/extern/before}{mmzx/alt}\socket_assign_plug:nn {tagsupport/memoize/include/extern/after}{mmzx/alt}\tl_log:e {\exp_args:No \exp_not:n {\the \mmzCCMemo }}},actualtext/.code={\pgfqkeys {/tikz/tagging-setup}{actualtext={##1}}\bool_set_true:N \l__mmzx_ok_bool \str_gset:Nn \g__mmzx_plug_orig_str {actualtext}\exp_args:Ne \mmzxtagtoks {\text_purify:n {##1}}\socket_assign_plug:nn {tagsupport/memoize/include/extern/before}{mmzx/actualtext}\socket_assign_plug:nn {tagsupport/memoize/include/extern/after}{mmzx/actualtext}\tl_log:e {\exp_args:No \exp_not:n {\the \mmzCCMemo }}},artifact/.code={\pgfqkeys {/tikz/tagging-setup}{artifact}\bool_set_true:N \l__mmzx_ok_bool \str_gset:Nn \g__mmzx_plug_orig_str {artifact}\mmzxtagtoks {}\socket_assign_plug:nn {tagsupport/memoize/include/extern/before}{mmzx/artifact}\socket_assign_plug:nn {tagsupport/memoize/include/extern/after}{mmzx/artifact}\tl_log:e {\exp_args:No \exp_not:n {\the \mmzCCMemo }}},tagging-setup/.is choice,tagging-setup/alt/.forward to=/mmz/alt,tagging-setup/actualtext/.forward to=/mmz/actualtext,tagging-setup/artifact/.forward to=/mmz/artifact,tagging-setup/.unknown/.code={\exp_args:Nno \pgfqkeys {/tikz/tagging-setup}{\pgfkeyscurrentname ={##1}}},alt/.belongs to family=/tikz/tagging-setup,actualtext/.belongs to family=/tikz/tagging-setup,artifact/.belongs to family=/tikz/tagging-setup,tagging-setup/.belongs to family=/tikz/tagging-setup,tagging-setup/alt/.belongs to family=/tikz/tagging-setup,tagging-setup/actualtext/.belongs to family=/tikz/tagging-setup,tagging-setup/artifact/.belongs to family=/tikz/tagging-setup,}
-> Document-level (top-level) code (executed first):
->     ---
-> Extra code for next invocation:
->     ---
-> Rules:
->     memoize-ext|latex-lab-testphase-tikz with relation >
-> Execution order (after reversal and applying rules):
->     latex-lab-testphase-tikz, memoize-ext.
-)) (/home/runner/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (/home/runner/texlive/texmf-dist/tex/latex/forest/forest.sty
-Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
- (/home/runner/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/home/runner/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/home/runner/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/home/runner/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks33
-\pgfutil@tempdima=\dimen156
-\pgfutil@tempdimb=\dimen157
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box64
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/home/runner/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
-))
-Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/home/runner/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (/home/runner/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
-\KV@toks@=\toks34
-) (/home/runner/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
- (/home/runner/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (/home/runner/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 106.
- (/home/runner/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
-) (/home/runner/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/home/runner/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@x=\dimen160
-\pgf@y=\dimen161
-\pgf@xa=\dimen162
-\pgf@ya=\dimen163
-\pgf@xb=\dimen164
-\pgf@yb=\dimen165
-\pgf@xc=\dimen166
-\pgf@yc=\dimen167
-\pgf@xd=\dimen168
-\pgf@yd=\dimen169
-\w@pgf@writea=\write4
-\r@pgf@reada=\read2
-\c@pgf@counta=\count336
-\c@pgf@countb=\count337
-\c@pgf@countc=\count338
-\c@pgf@countd=\count339
-\t@pgf@toka=\toks35
-\t@pgf@tokb=\toks36
-\t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count340
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
-)
-Driver file for pgf: pgfsys-pdftex.def
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-))) (/home/runner/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count341
-\pgfsyssoftpath@bigbuffer@items=\count342
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (/home/runner/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (/home/runner/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 274.
- (/home/runner/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (/home/runner/texlive/texmf-dist/tex/latex/pdfmanagement/xcolor-patches-tmp-ltx.sty
-Package: xcolor-patches-tmp-ltx 2026-05-26 v0.97c patch xcolor for l3color
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen170
-\pgfmath@count=\count343
-\pgfmath@box=\box65
-\pgfmath@toks=\toks38
-\pgfmath@stack@operand=\toks39
-\pgfmath@stack@operation=\toks40
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count344
-)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen171
-\pgf@picmaxx=\dimen172
-\pgf@picminy=\dimen173
-\pgf@picmaxy=\dimen174
-\pgf@pathminx=\dimen175
-\pgf@pathmaxx=\dimen176
-\pgf@pathminy=\dimen177
-\pgf@pathmaxy=\dimen178
-\pgf@xx=\dimen179
-\pgf@xy=\dimen180
-\pgf@yx=\dimen181
-\pgf@yy=\dimen182
-\pgf@zx=\dimen183
-\pgf@zy=\dimen184
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen185
-\pgf@path@lasty=\dimen186
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen187
-\pgf@shorten@start@additional=\dimen188
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfpic=\box66
-\pgf@hbox=\box67
-\pgf@layerbox@main=\box68
-\pgf@picture@serial@count=\count345
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen189
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen190
-\pgf@pt@y=\dimen191
-\pgf@pt@temp=\dimen192
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen193
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen194
-\pgf@sys@shading@range@num=\count346
-\pgf@shadingcount=\count347
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfexternal@startupbox=\box69
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (/home/runner/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfnodeparttextbox=\box70
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen195
-\pgf@nodesepend=\dimen196
-) (/home/runner/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-)) (/home/runner/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/home/runner/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/home/runner/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen197
-\pgffor@skip=\dimen198
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
-)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count348
-\pgfplotmarksize=\dimen199
-)
-\tikz@lastx=\dimen256
-\tikz@lasty=\dimen257
-\tikz@lastxsaved=\dimen258
-\tikz@lastysaved=\dimen259
-\tikz@lastmovetox=\dimen260
-\tikz@lastmovetoy=\dimen261
-\tikzleveldistance=\dimen262
-\tikzsiblingdistance=\dimen263
-\tikz@figbox=\box71
-\tikz@figbox@bg=\box72
-\tikz@tempbox=\box73
-\tikz@tempbox@bg=\box74
-\tikztreelevel=\count349
-\tikznumberofchildren=\count350
-\tikznumberofcurrentchild=\count351
-\tikz@fig@count=\count352
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count353
-\pgfmatrixcurrentcolumn=\count354
-\pgf@matrix@numberofcolumns=\count355
-)
-\tikz@expandcount=\count356
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
-File: tikzlibraryshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
-File: pgflibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
- (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfnodepartlowerbox=\box75
-\pgfnodeparttwobox=\box76
-\pgfnodepartthreebox=\box77
-\pgfnodepartfourbox=\box78
-\pgfnodeparttwentybox=\box79
-\pgfnodepartnineteenbox=\box80
-\pgfnodeparteighteenbox=\box81
-\pgfnodepartseventeenbox=\box82
-\pgfnodepartsixteenbox=\box83
-\pgfnodepartfifteenbox=\box84
-\pgfnodepartfourteenbox=\box85
-\pgfnodepartthirteenbox=\box86
-\pgfnodeparttwelvebox=\box87
-\pgfnodepartelevenbox=\box88
-\pgfnodeparttenbox=\box89
-\pgfnodepartninebox=\box90
-\pgfnodeparteightbox=\box91
-\pgfnodepartsevenbox=\box92
-\pgfnodepartsixbox=\box93
-\pgfnodepartfivebox=\box94
-))) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
-File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (/home/runner/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count357
-) (/home/runner/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
-Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks43
-\pgfopts@list@add@b@toks=\toks44
-) (/home/runner/texlive/texmf-dist/tex/latex/elocalloc/elocalloc.sty
-Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
-) (/home/runner/texlive/texmf-dist/tex/latex/environ/environ.sty
-Package: environ 2014/05/04 v0.3 A new way to define environments
- (/home/runner/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)
-\@envbody=\toks45
-) (/home/runner/texlive/texmf-dist/tex/latex/inlinedef/inlinedef.sty
-Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
-\ID@toks=\toks46
-\ID@count=\count358
-)
-\ID@usercommands=\toks47
-\safeloop@depth=\count359
-\safeRKloop@depth=\count360
-\forest@temp@dimen=\dimen264
-\forest@temp@count=\count361
-\forest@n=\count362
-\forest@temp@global@count=\count363
-\forest@temp@toks=\toks48
-\forest@temparray@M=\count364
-\forest@temparray@N=\count365
-\forest@global@temparray@M=\count366
-\forest@global@temparray@N=\count367
-\forest@isnum@count=\count368
-\forest@isdim@nonintpart=\count369
-\forest@isdim@dimen=\dimen265
-\forest@sort@m=\count370
-\forest@sort@k=\count371
-\forest@sort@p=\count372
-\bracket@content=\toks49
-\bracket@afterthought=\toks50
-\forest@node@maxid=\count373
-\forest@process@left@M=\count374
-\forest@process@left@N=\count375
-\forest@process@right@M=\count376
-\forest@process@right@N=\count377
-\forest@process@saved@M=\count378
-\forest@process@saved@N=\count379
-\forest@process@result@M=\count380
-\forest@process@result@N=\count381
-\forest@process@n=\count382
-\forest@nodewalk@branch@toks=\toks51
-\forest@nodewalk@shortsteps@resolution=\toks52
-\forest@do@dynamics=\toks53
-\forest@box=\box95
-\forest@xg=\dimen266
-\forest@yg=\dimen267
-\forest@xs=\dimen268
-\forest@ys=\dimen269
-\forest@pi@toks=\toks54
-\forest@segment@toks=\toks55
-\forest@PIi@toks=\toks56
-\forest@PIii@toks=\toks57
-\forest@copy@in=\read3
-\forest@copy@out=\write5
-\forest@externalize@max@outer@n=\count383
-\forest@externalize@inner@n=\count384
-) (./forest-lib-ext.tagging-debug.sty
-Package: forest-lib-ext.tagging-debug v0.1
- (./forest-lib-ext.utils-debug.sty
-Package: forest-lib-ext.utils-debug 2025-12-05 v0.1
-\forestext@toksa=\toks58
-)
-\tagforest@toks=\toks59
-\tagforest@id=\count385
-
-[Forest ext.utils debug]:: Declaring tagging keylist tag nodes
-[Forest ext.utils debug]:: with default .
-[Forest ext.utils debug]:: Declare tag nodes with .
-[Forest ext.utils debug]:: Processing  for tag nodes.
-[tagforext debug]:: tag nodes: 
-The property list \l__forestext_tag nodes_prop is empty
-> .
-
-[tagforext debug]:: tag nodes: 
-The property list \l__forestext_tag nodes_prop is empty
-> .
-
-[Forest ext.utils debug]:: forestext@toksa:
-declare keylist/.process={_x{tag nodes}{\forestext@prop@to@keylist {tag nodes}}}, 
-[Forest ext.utils debug]:: Setting processing order for tag nodes to unique=tree.
-[Forest ext.utils debug]:: Declaring tagging keylist collate tags
-[Forest ext.utils debug]:: with default .
-[Forest ext.utils debug]:: Declare collate tags with .
-[Forest ext.utils debug]:: Processing  for collate tags.
-[tagforext debug]:: collate tags: 
-The property list \l__forestext_collate tags_prop is empty
-> .
-declare keylist/.process={_x{tag nodes}{\forestext@prop@to@keylist {tag nodes}}}, 
-[tagforext debug]:: collate tags: 
-The property list \l__forestext_collate tags_prop is empty
-> .
-declare keylist/.process={_x{tag nodes}{\forestext@prop@to@keylist {tag nodes}}}, 
-[Forest ext.utils debug]:: forestext@toksa:
-declare keylist/.process={_x{tag nodes}{\forestext@prop@to@keylist {tag nodes}}}, declare keylist/.process={_x{collate tags}{\forestext@prop@to@keylist {collate tags}}}, 
-[Forest ext.utils debug]:: Setting processing order for collate tags to unique=tree.
-) (/home/runner/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2026/05/19 v2.18d AMS math features
-\@mathmargin=\skip66
-
-For additional information on amsmath, use the `?' option.
-(/home/runner/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2024/11/17 v2.01 AMS text
- (/home/runner/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks60
-\ex@=\dimen270
-)) (/home/runner/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen271
-) (/home/runner/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count386
-LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count387
-\leftroot@=\count388
-LaTeX Info: Redefining \overline on input line 398.
-LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count389
-\DOTSCASE@=\count390
-LaTeX Info: Redefining \ldots on input line 495.
-LaTeX Info: Redefining \dots on input line 498.
-LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box96
-\strutbox@=\box97
-LaTeX Info: Redefining \big on input line 721.
-LaTeX Info: Redefining \Big on input line 722.
-LaTeX Info: Redefining \bigg on input line 723.
-LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen272
-LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count391
-LaTeX Info: Redefining \bmod on input line 904.
-LaTeX Info: Redefining \pmod on input line 909.
-LaTeX Info: Redefining \smash on input line 939.
-LaTeX Info: Redefining \relbar on input line 969.
-LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count392
-\dotsspace@=\muskip17
-\c@parentequation=\count393
-\dspbrk@lvl=\count394
-\tag@help=\toks61
-\row@=\count395
-\column@=\count396
-\maxfields@=\count397
-\andhelp@=\toks62
-\eqnshift@=\dimen273
-\alignsep@=\dimen274
-\tagshift@=\dimen275
-\tagwidth@=\dimen276
-\totwidth@=\dimen277
-\lineht@=\dimen278
-\@envbody=\toks63
-\multlinegap=\skip67
-\multlinetaggap=\skip68
-\mathdisplay@stack=\toks64
-LaTeX Info: Redefining \[ on input line 2965.
-LaTeX Info: Redefining \] on input line 2966.
-) (/home/runner/texlive/texmf-dist/tex/latex/latex-lab/latex-lab-amsmath.ltx
-File: latex-lab-amsmath.ltx 2026-04-25 v0.1j amsmath adaptions
-LaTeX Info: Redefining \eqref on input line 58.
-\l__luamml_struct_tmpa_int=\count398
-) (/home/runner/texlive/texmf-dist/tex/generic/advice/advice-tikz.code.tex)
-Package advice (/mmz) Info: Activated environment "tikzpicture" on input line 60.
-Package advice (/mmz) Info: Activated command "\tikz" on input line 60.
-Package advice (/mmz) Info: Activated environment "forest" on input line 60.
-Package advice (/mmz) Info: Activated command "\Forest" on input line 60.
- (./forest-ext-tagging-custom.aux)
-\openout1 = `forest-ext-tagging-custom.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-
-Info: mathml file forest-ext-tagging-custom-mathml does not exist
-Info: mathml file forest-ext-tagging-custom-luamml-mathml does not exist
-runsystem(memoize-extract.pl --mkdir "memos/")...executed safely (allowed).
-
-\mmz@mmzout=\write6
-\openout6 = `forest-ext-tagging-custom.mmz'.
-
-(/home/runner/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count399
-\scratchdimen=\dimen279
-\scratchbox=\box98
-\nofMPsegments=\count400
-\nofMParguments=\count401
-\everyMPshowfont=\toks65
-\MPscratchCnt=\count402
-\MPscratchDim=\dimen280
-\MPnumerator=\count403
-\makeMPintoPDFobject=\count404
-\everyMPtoPDFconversion=\toks66
-) (/home/runner/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (/home/runner/texlive/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (/home/runner/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (/home/runner/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/home/runner/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
- (/home/runner/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-Package advice (/mmz) Info: Activated command "\begin" on input line 60.
-Package advice (/mmz) Info: Activated command "\pdfsavepos" on input line 60.
-Package advice (/mmz) Info: Activated command "\errmessage" on input line 60.
-Package advice (/mmz) Info: Activated command "\ref" on input line 60.
-Package advice (/mmz) Info: Activated command "\pageref" on input line 60.
-Package advice (/mmz) Info: Activated command "\label" on input line 60.
-Package advice (/mmz) Info: Activated command "\index" on input line 60.
-Package advice (/mmz) Info: Activated command "\DiscardShipoutBox" on input line 60.
-
--> The generic hook 'cmd/tikz@picture/before' (1 argument):
-> Code chunks:
->     mmzx -> \tag_if_active:T {\__mmzx_debug:n {Executing mmzx code in hook cmd/tikz@picture/before.}\socket_assign_plug:nn {tagsupport/tikz/picture/init}{mmzx}}
->     tikz -> \tag_socket_use:nn {tikz/picture/init}{#1}\tag_socket_use:n {tikz/picture/begin}
-> Document-level (top-level) code (executed last):
->     ---
-> Extra code for next invocation:
->     ---
-> Rules:
->     ---
-> Execution order:
->     mmzx, tikz.
-
--> The generic hook 'cmd/endpgfpicture/after':
-> Code chunks:
->     tikz -> \tag_resume:n {\pgfpicture }\tag_socket_use:n {tikz/picture/end}
-> Document-level (top-level) code (executed first):
->     ---
-> Extra code for next invocation:
->     ---
-> Rules:
->     ---
-> Execution order (after reversal):
->     tikz.
-
-TIMO
 ============================================================
 TEST 2: tagforest-custom-mem
 ============================================================
-[tracing memoize] Entering \Memoize (enabled, normal mode) on line 82
+[tracing memoize] Entering \Memoize (enabled, normal mode) on line ...
 [tracing memoize]   Code: \begin {forest} typeout={tagging should be 1:}, typeout/.register=tagging, [VP [DP[John]] [V^^e2^^80^^99, alt text=V prime, [V[sent]] [DP[Mary]] [DP[D[a]][NP[letter]]] ] ] \end {forest}
 [tracing memoize]   Code md5sum: FFDF38B558BB4F3291DF2C42AFADC935
 [tracing memoize]   Attempting to utilize c-memo memos/FFDF38B558BB4F3291DF2C42AFADC935.memo
-(./memos/FFDF38B558BB4F3291DF2C42AFADC935.memo)
+(memos/FFDF38B558BB4F3291DF2C42AFADC935.memo)
 [tracing memoize]   This code was marked as unmemoizable
 [tracing memoize]   Compiling
 [tagforest debug]:: Tagging active.
@@ -916,741 +26,371 @@ TEST 2: tagforest-custom-mem
 declare keylist/.process={_x{tag nodes}{\forestext@prop@to@keylist {tag nodes}}}, declare keylist/.process={_x{collate tags}{\forestext@prop@to@keylist {collate tags}}}, 
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagging should be 1:
 1
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 Package tagpdf Warning: there is no mc to end at 85
-
 [tagforest debug]:: Process keylist: before tagging nodes ...
 [tagforest debug]:: Process keylist: tag nodes ...
 [tagforest debug]:: Process keylist: before collating tags ...
@@ -1660,86 +400,100 @@ Package tagpdf Warning: there is no mc to end at 85
 [tagforest debug]:: Completed all tagging stages!
 [mmzx debug]:: Executing mmzx code in hook cmd/tikz@picture/before.
 [mmzx debug]:: Executing plug mmzx in socket tagsupport/tikz/picture/init.
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line 82]
-
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: \pgfpicture  [on line ...]
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line 82]
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: \pgfpicture  [on line ...]
 ============================================================
-
 ============================================================
 TEST 3: Show PDF Tags
 ============================================================
-
-
 -------- forest-ext-tagging-custom.xml (start) ---------
---INSERT-PDF-TAGS forest-ext-tagging-custom.pdf 
+<PDF>
+ <StructTreeRoot>
+  <Document xmlns="http://iso.org/pdf2/ssn"
+     id="ID.02"
+    >
+   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+      id="ID.05"
+      rolemaps-to="Part"
+     >
+    <text xmlns="https://www.latex-project.org/ns/dflt"
+       id="ID.06"
+       xmlns:Layout="http://iso.org/pdf/ssn/Layout"
+       Layout:TextAlign="Justify"
+       rolemaps-to="P"
+      >
+     <?MarkedContent page="1" ?>ABC apple banana pearVPDPJohnV’VsentDPMaryDPDaNPletterABC apple ba-nana pear
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>VP
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>DP
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>John
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>V’
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>V
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>sent
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>DP
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>Mary
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>DP
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>D
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>a
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>NP
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>letter
+     <?MarkedContent page="1" ?>
+     <?MarkedContent page="1" ?>
+    </text>
+   </text-unit>
+  </Document>
+ </StructTreeRoot>
+</PDF>
 -------- forest-ext-tagging-custom.xml (end) -----------
-
-
 ============================================================
-
-
 tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: l3build [on line 84]
-
+(tagpdf DEBUG)     level: 0 ==> 1, label: l3build [on line ...]
 ============================================================
 TEST 4: tagforest-custom-mem-cmemo
 ============================================================
 memos/FFDF38B558BB4F3291DF2C42AFADC935.memo:
-
-
 -------- memos/FFDF38B558BB4F3291DF2C42AFADC935.memo (start) ---------
-(./memos/FFDF38B558BB4F3291DF2C42AFADC935.memo) \mmzMemo[nl]
+(memos/FFDF38B558BB4F3291DF2C42AFADC935.memo) \mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 \global \mmzUnmemoizabletrue %[nl]
 \mmzSource[nl]
 \begin {forest} typeout={tagging should be 1:}, typeout/.register=tagging, [VP [DP[John]] [V^^e2^^80^^99, alt text=V prime, [V[sent]] [DP[Mary]] [DP[D[a]][NP[letter]]] ] ] \end {forest}[nl]
 -------- memos/FFDF38B558BB4F3291DF2C42AFADC935.memo (end) -----------
 ============================================================
-
-
 tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: l3build [on line 103]
-
-OMIT
-
-Package tagpdf Warning: there is no mc to end at 86
-
-
-tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: headfoot [on line 105]
-
-
-tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: headfoot [on line 105]
-
-
-tagpdf DEBUG Info: Tagging suspended
-(tagpdf DEBUG)     level: 0 ==> 1, label: headfoot [on line 105]
-
-
-tagpdf DEBUG Info: Tagging resumed
-(tagpdf DEBUG)     level: 1 ==> 0, label: headfoot [on line 105]
-
-[1
-
-{/home/runner/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]<<latex-list-css.html>><<latex-align-css.html>> (./forest-ext-tagging-custom.aux)
- ***********
-LaTeX2e <2026-06-01>
-L3 programming layer <2026/06/25>
- ***********
-
-TIMO
-
+(tagpdf DEBUG)     level: 1 ==> 0, label: l3build [on line ...]
 Package tagpdf Info: Finalizing the tagging structure:
 (tagpdf)             Writing out ~6 structure objects
 (tagpdf)             with ~88 'MC' leaf nodes.
 (tagpdf)             Be patient if there are lots of objects!
-
 Package tagpdf Info: writing ParentTree
 Package tagpdf Info: writing IDTree
 Package tagpdf Info: writing RoleMap
@@ -1747,22 +501,8 @@ Package tagpdf Info: writing ClassMap
 Package tagpdf Info: writing NameSpaces
 Package tagpdf Info: writing StructElems
 Package tagpdf Info: writing Root
-
-END-TEST-LOG
-
- ) 
-Here is how much of TeX's memory you used:
- 34946 strings out of 469004
- 908879 string characters out of 5455494
- 1539114 words of memory out of 5000000
- 63483 multiletter control sequences out of 15000+600000
- 649669 words of font info for 46 fonts, out of 8000000 for 9000
- 81 hyphenation exceptions out of 8191
- 135i,9n,136p,1640b,2106s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/runner/texlive/texmf-dist/fonts/type1/public/pdftex/pdftexspace.pfb></home/runner/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on forest-ext-tagging-custom.pdf (1 page, 53161 bytes).
-PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+***************
+Compilation 1 of test file completed with exit status 0
+Compilation 2 of test file completed with exit status 0
+Compilation 3 of test file completed with exit status 0
+Compilation 4 of test file completed with exit status 0
