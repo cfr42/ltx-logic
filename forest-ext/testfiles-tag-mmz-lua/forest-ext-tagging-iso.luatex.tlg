@@ -95,6 +95,17 @@ padding=(1in,1in,1in,1in),[nl]
 ============================================================
 tagpdf DEBUG Info: Tagging resumed
 (tagpdf DEBUG)     level: 1 ==> 0, label: l3build [on line ...]
+Package tagpdf Info: Finalizing the tagging structure:
+(tagpdf)             Writing out ~8 structure objects
+(tagpdf)             with ~5 'MC' leaf nodes.
+(tagpdf)             Be patient if there are lots of objects!
+Package tagpdf Info: writing ParentTree
+Package tagpdf Info: writing IDTree
+Package tagpdf Info: writing RoleMap
+Package tagpdf Info: writing ClassMap
+Package tagpdf Info: writing NameSpaces
+Package tagpdf Info: writing StructElems
+Package tagpdf Info: writing Root
 ***************
 Compilation 1 of test file completed with exit status 0
 Compilation 2 of test file completed with exit status 0
