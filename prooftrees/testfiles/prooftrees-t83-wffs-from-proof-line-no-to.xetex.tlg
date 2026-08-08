@@ -17,7 +17,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ...\special{pdf:code q }
 ...\special{pdf:code 0 G }
 ...\special{pdf:code 0 g }
-...\special{pdf:code 0.3985 w }
+...\special{pdf:code 0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\special{pdf:code q }
 ....\glue 0.0
@@ -31,7 +31,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.76431 0.0}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.76317 0.0}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -50,7 +50,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(9.913+3.017)x180.58777
 .........\special{pdf:code 0 G }
@@ -170,7 +170,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -17.93298}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -17.93275}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -189,7 +189,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.66+0.0)x12.78
 .........\special{pdf:code 0 G }
@@ -234,7 +234,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -29.8883}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -29.88792}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -253,7 +253,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.66+0.0)x12.78
 .........\special{pdf:code 0 G }
@@ -298,7 +298,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -41.84363}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -41.8431}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -317,7 +317,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.66+0.21999)x12.78
 .........\special{pdf:code 0 G }
@@ -362,7 +362,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -53.79895}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -53.79826}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -381,7 +381,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.77+0.0)x12.78
 .........\special{pdf:code 0 G }
@@ -426,7 +426,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -81.48436}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -81.48332}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -445,7 +445,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.66+0.21999)x12.78
 .........\special{pdf:code 0 G }
@@ -490,7 +490,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -109.16978}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -109.16838}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -509,7 +509,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.66+0.21999)x12.78
 .........\special{pdf:code 0 G }
@@ -554,7 +554,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56506 -136.8552}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -90.56392 -136.85344}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -573,7 +573,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.5198 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 3.51978 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.76+0.21999)x12.78
 .........\special{pdf:code 0 G }
@@ -618,7 +618,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -17.93298}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -17.93275}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -637,7 +637,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -30.46733 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -30.46695 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(7.5+2.5)x61.16238
 .........\special{pdf:code 0 G }
@@ -691,7 +691,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -29.8883}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -29.88792}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -710,7 +710,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.67351 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.6733 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.39098)x35.47913
 .........\special{pdf:code 0 G }
@@ -759,7 +759,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -41.84363}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -41.8431}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -782,7 +782,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.72157 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.72136 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+1.94444)x35.57564
 .........\special{pdf:code 0 0 1 RG }
@@ -832,7 +832,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -53.79895}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -53.79826}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -855,7 +855,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -11.56963 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -11.56949 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.0)x23.22575
 .........\special{pdf:code 0 0 1 RG }
@@ -902,7 +902,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -37.23334 -81.48436}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -37.23286 -81.48332}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -925,7 +925,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.88997 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.88994 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.0)x7.80904
 .........\special{pdf:code 0 0 1 RG }
@@ -968,7 +968,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.80353 -109.16978}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.80287 -109.16838}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -987,7 +987,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.76439 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.7643 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.0)x15.58684
 .........\special{pdf:code 0 G }
@@ -1030,7 +1030,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.80353 -121.1251}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.80287 -121.12355}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1049,7 +1049,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87442 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87437 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(5.83333+0.83333)x7.7778
 .........\special{pdf:code 0 G }
@@ -1089,7 +1089,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.80353 -130.0916}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.80287 -130.08994}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1108,7 +1108,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67563 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67558 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(4.648+1.35799)x11.3937
 .........\special{pdf:code 0 G }
@@ -1148,7 +1148,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -22.66315 -109.16978}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -22.66287 -109.16838}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1167,7 +1167,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.6952 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.69511 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.0)x15.44795
 .........\special{pdf:code 0 G }
@@ -1210,7 +1210,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -22.66315 -121.1251}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -22.66287 -121.12355}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1229,7 +1229,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87442 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87437 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(5.83333+0.83333)x7.7778
 .........\special{pdf:code 0 G }
@@ -1269,7 +1269,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -22.66315 -130.0916}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -22.66287 -130.08994}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1288,7 +1288,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67563 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67558 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(4.718+1.35799)x11.3937
 .........\special{pdf:code 0 G }
@@ -1328,7 +1328,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 37.23332 -81.48436}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 37.23285 -81.48332}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1351,7 +1351,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.16809 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.16788 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+1.94444)x34.46452
 .........\special{pdf:code 0 0 1 RG }
@@ -1400,7 +1400,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 17.30763 -109.16978}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 17.30742 -109.16838}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1419,7 +1419,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.93805 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.93802 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+1.94444)x7.90555
 .........\special{pdf:code 0 G }
@@ -1459,7 +1459,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.71242 -136.8552}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.7124 -136.85344}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1478,7 +1478,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.81247 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.8124 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+1.94444)x15.68335
 .........\special{pdf:code 0 G }
@@ -1520,7 +1520,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.71242 -148.81052}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.7124 -148.80861}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1539,7 +1539,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87442 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87437 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(5.83333+0.83333)x7.7778
 .........\special{pdf:code 0 G }
@@ -1579,7 +1579,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.71242 -157.77701}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.7124 -157.775}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1598,7 +1598,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67563 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67558 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(4.732+1.35799)x11.3937
 .........\special{pdf:code 0 G }
@@ -1638,7 +1638,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 31.90282 -136.8552}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 31.90242 -136.85344}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1657,7 +1657,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.6952 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.69511 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.0)x15.44795
 .........\special{pdf:code 0 G }
@@ -1700,7 +1700,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 31.90282 -148.81052}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 31.90242 -148.80861}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1719,7 +1719,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87442 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87437 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(5.83333+0.83333)x7.7778
 .........\special{pdf:code 0 G }
@@ -1759,7 +1759,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 31.90282 -157.77701}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 31.90242 -157.775}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1778,7 +1778,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67563 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67558 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(4.732+1.35799)x11.3937
 .........\special{pdf:code 0 G }
@@ -1818,7 +1818,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 57.159 -109.16978}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 57.15826 -109.16838}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1837,7 +1837,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.6952 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.69511 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.83331+0.0)x15.44795
 .........\special{pdf:code 0 G }
@@ -1880,7 +1880,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 57.159 -121.1251}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 57.15826 -121.12355}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1899,7 +1899,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87442 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.87437 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(5.83333+0.83333)x7.7778
 .........\special{pdf:code 0 G }
@@ -1939,7 +1939,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 57.159 -130.0916}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 57.15826 -130.08994}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1958,7 +1958,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67563 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.67558 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(4.718+1.35799)x11.3937
 .........\special{pdf:code 0 G }
@@ -2045,33 +2045,15 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -57.31876 m }
-....\special{pdf:code -37.23334 -71.15666 l }
+....\special{pdf:code 0.0 -57.31804 m }
+....\special{pdf:code -37.23286 -71.15576 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -37.23334 -85.00418 m }
-....\special{pdf:code -51.80353 -98.84209 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code -37.23334 -85.00418 m }
-....\special{pdf:code -22.66315 -98.84209 l }
+....\special{pdf:code -37.23286 -85.0031 m }
+....\special{pdf:code -51.80287 -98.84082 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2088,22 +2070,8 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -57.31876 m }
-....\special{pdf:code 37.23332 -71.15666 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 37.23332 -86.94138 m }
-....\special{pdf:code 17.30763 -98.84209 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 17.30763 -114.62679 m }
-....\special{pdf:code 2.71242 -126.5275 l }
+....\special{pdf:code -37.23286 -85.0031 m }
+....\special{pdf:code -22.66287 -98.84082 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2120,8 +2088,22 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 17.30763 -114.62679 m }
-....\special{pdf:code 31.90282 -126.5275 l }
+....\special{pdf:code 0.0 -57.31804 m }
+....\special{pdf:code 37.23285 -71.15576 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 37.23285 -86.94026 m }
+....\special{pdf:code 17.30742 -98.84082 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 17.30742 -114.62532 m }
+....\special{pdf:code 2.7124 -126.52588 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2138,8 +2120,26 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 37.23332 -86.94138 m }
-....\special{pdf:code 57.159 -98.84209 l }
+....\special{pdf:code 17.30742 -114.62532 m }
+....\special{pdf:code 31.90242 -126.52588 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 37.23285 -86.94026 m }
+....\special{pdf:code 57.15826 -98.84082 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2230,17 +2230,17 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\special{pdf:code q }
 ......\special{pdf:code 0 1 0 0 K }
 ......\special{pdf:code 1 0.5 0 RG }
-......\special{pdf:code 64.38892 -98.84209 m }
-......\special{pdf:code -59.10265 -98.84209 l }
-......\special{pdf:code -61.30359 -98.84209 -63.08775 -100.62625 -63.08775 -102.8272 c }
-......\special{pdf:code -63.08775 -158.66464 l }
-......\special{pdf:code -63.08775 -160.86559 -61.30359 -162.64975 -59.10265 -162.64975 c }
-......\special{pdf:code 64.38892 -162.64975 l }
-......\special{pdf:code 66.58986 -162.64975 68.37402 -160.86559 68.37402 -158.66464 c }
-......\special{pdf:code 68.37402 -102.8272 l }
-......\special{pdf:code 68.37402 -100.62625 66.58986 -98.84209 64.38892 -98.84209 c }
+......\special{pdf:code 64.38809 -98.84082 m }
+......\special{pdf:code -59.1019 -98.84082 l }
+......\special{pdf:code -61.30281 -98.84082 -63.08694 -100.62497 -63.08694 -102.82588 c }
+......\special{pdf:code -63.08694 -158.66261 l }
+......\special{pdf:code -63.08694 -160.86353 -61.30281 -162.64766 -59.1019 -162.64766 c }
+......\special{pdf:code 64.38809 -162.64766 l }
+......\special{pdf:code 66.58902 -162.64766 68.37315 -160.86353 68.37315 -158.66261 c }
+......\special{pdf:code 68.37315 -102.82588 l }
+......\special{pdf:code 68.37315 -100.62497 66.58902 -98.84082 64.38809 -98.84082 c }
 ......\special{pdf:code h }
-......\special{pdf:code -63.08775 -162.64975 m }
+......\special{pdf:code -63.08694 -162.64766 m }
 ......\special{pdf:code S }
 ......\glue 0.0
 ......\special{pdf:code Q }
@@ -2254,7 +2254,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\special{pdf:code 0 J [] 0 d}
 ......\special{pdf:bcolor [1]}
 ......\special{pdf:bcolor [0]}
-......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -63.08775 -130.74591}
+......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -63.08694 -130.74425}
 ......\hbox(0.0+0.0)x0.0
 .......\hbox(32.02306+32.02306)x131.95306
 ........\special{pdf:code 0 G }
@@ -2304,17 +2304,17 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\special{pdf:code q }
 ......\special{pdf:code 0 1 0 0 K }
 ......\special{pdf:code 1 0.5 0 RG }
-......\special{pdf:code 17.25629 -19.56061 m }
-......\special{pdf:code -17.25629 -19.56061 l }
-......\special{pdf:code -19.45723 -19.56061 -21.2414 -21.34477 -21.2414 -23.54572 c }
-......\special{pdf:code -21.2414 -53.33365 l }
-......\special{pdf:code -21.2414 -55.53459 -19.45723 -57.31876 -17.25629 -57.31876 c }
-......\special{pdf:code 17.25629 -57.31876 l }
-......\special{pdf:code 19.45723 -57.31876 21.2414 -55.53459 21.2414 -53.33365 c }
-......\special{pdf:code 21.2414 -23.54572 l }
-......\special{pdf:code 21.2414 -21.34477 19.45723 -19.56061 17.25629 -19.56061 c }
+......\special{pdf:code 17.25609 -19.56036 m }
+......\special{pdf:code -17.25609 -19.56036 l }
+......\special{pdf:code -19.457 -19.56036 -21.24113 -21.34451 -21.24113 -23.54543 c }
+......\special{pdf:code -21.24113 -53.33298 l }
+......\special{pdf:code -21.24113 -55.53389 -19.457 -57.31804 -17.25609 -57.31804 c }
+......\special{pdf:code 17.25609 -57.31804 l }
+......\special{pdf:code 19.457 -57.31804 21.24113 -55.53389 21.24113 -53.33298 c }
+......\special{pdf:code 21.24113 -23.54543 l }
+......\special{pdf:code 21.24113 -21.34451 19.457 -19.56036 17.25609 -19.56036 c }
 ......\special{pdf:code h }
-......\special{pdf:code -21.2414 -57.31876 m }
+......\special{pdf:code -21.24113 -57.31804 m }
 ......\special{pdf:code S }
 ......\glue 0.0
 ......\special{pdf:code Q }
@@ -2328,7 +2328,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\special{pdf:code 0 J [] 0 d}
 ......\special{pdf:bcolor [1]}
 ......\special{pdf:bcolor [0]}
-......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -21.2414 -38.43968}
+......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -21.24113 -38.43921}
 ......\hbox(0.0+0.0)x0.0
 .......\hbox(18.94963+18.94963)x42.64157
 ........\special{pdf:code 0 G }

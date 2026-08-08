@@ -16,7 +16,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -44,6 +44,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(9.913+3.017)x180.58777, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OMS/cmsy/m/n/10 f
 ..............\OML/cmm/m/it/10 P
@@ -127,6 +128,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..............\OML/cmm/m/it/10 R
 ..............\kern0.07726 (italic)
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -165,6 +167,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.66+0.0)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.66+0.0)x12.78, direction TLT
 ...............\hbox(6.66+0.0)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -179,6 +182,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -217,6 +221,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.66+0.0)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.66+0.0)x12.78, direction TLT
 ...............\hbox(6.66+0.0)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -231,6 +236,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -269,6 +275,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.66+0.22)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.66+0.22)x12.78, direction TLT
 ...............\hbox(6.66+0.22)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -283,6 +290,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -321,6 +329,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.77+0.0)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.77+0.0)x12.78, direction TLT
 ...............\hbox(6.77+0.0)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -335,6 +344,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -373,6 +383,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.66+0.22)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.66+0.22)x12.78, direction TLT
 ...............\hbox(6.66+0.22)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -387,6 +398,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -425,6 +437,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.66+0.22)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.66+0.22)x12.78, direction TLT
 ...............\hbox(6.66+0.22)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -439,6 +452,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -477,6 +491,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.76+0.22)x12.78, direction TLT
+..............\begindir TLT
 ..............\vbox(6.76+0.22)x12.78, direction TLT
 ...............\hbox(6.76+0.22)x12.78, glue set 5.0fil, direction TLT
 ................\localpar
@@ -491,6 +506,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ................\penalty 10000
 ................\glue(\parfillskip) 0.0 plus 1.0fil
 ................\glue(\rightskip) 0.0 plus 20.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -529,6 +545,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.5+2.5)x61.16238, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OML/cmm/m/it/10 P
 ..............\kern1.3889 (italic)
@@ -546,6 +563,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..............\kern0.07726 (italic)
 ..............\OT1/cmr/m/n/10 )
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -584,6 +602,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+0.39098)x35.47913, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OML/cmm/m/it/10 P
 ..............\kern1.3889 (italic)
@@ -596,6 +615,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..............\OML/cmm/m/it/10 R
 ..............\kern0.07726 (italic)
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -638,6 +658,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 0 1 RG }
 .............\pdfliteral origin{0 0 1 rg }
 .............\hbox(6.83331+1.94444)x35.57564, direction TLT
+..............\begindir TLT
 ..............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ..............\mathon
 ..............\OML/cmm/m/it/10 Q
@@ -651,6 +672,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..............\kern0.07726 (italic)
 ..............\mathoff
 ..............\pdfcolorstack 0 pop
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -693,6 +715,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 0 1 RG }
 .............\pdfliteral origin{0 0 1 rg }
 .............\hbox(6.83331+0.0)x23.22575, direction TLT
+..............\begindir TLT
 ..............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ..............\mathon
 ..............\hbox(3.66875+0.0)x7.7778, direction TLT
@@ -703,6 +726,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..............\kern0.07726 (italic)
 ..............\mathoff
 ..............\pdfcolorstack 0 pop
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -745,12 +769,14 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 0 1 RG }
 .............\pdfliteral origin{0 0 1 rg }
 .............\hbox(6.83331+0.0)x7.80904, direction TLT
+..............\begindir TLT
 ..............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ..............\mathon
 ..............\OML/cmm/m/it/10 P
 ..............\kern1.3889 (italic)
 ..............\mathoff
 ..............\pdfcolorstack 0 pop
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -789,12 +815,14 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+0.0)x15.58684, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\hbox(3.66875+0.0)x7.7778, direction TLT
 ...............\OMS/cmsy/m/n/10 ^^X
 ..............\OML/cmm/m/it/10 P
 ..............\kern1.3889 (italic)
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -833,9 +861,11 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(5.83333+0.83333)x7.7778, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OMS/cmsy/m/n/10 
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -874,10 +904,12 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(4.648+1.358)x11.3937, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/7 5
 ..............\TU/lmr/m/n/7 ,
 ..............\kern1.1667
 ..............\TU/lmr/m/n/7 6
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -916,12 +948,14 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+0.0)x15.44795, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\hbox(3.66875+0.0)x7.7778, direction TLT
 ...............\OMS/cmsy/m/n/10 ^^X
 ..............\OML/cmm/m/it/10 R
 ..............\kern0.07726 (italic)
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -960,9 +994,11 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(5.83333+0.83333)x7.7778, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OMS/cmsy/m/n/10 
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1001,10 +1037,12 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(4.718+1.358)x11.3937, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/7 4
 ..............\TU/lmr/m/n/7 ,
 ..............\kern1.1667
 ..............\TU/lmr/m/n/7 6
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1047,6 +1085,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 0 1 RG }
 .............\pdfliteral origin{0 0 1 rg }
 .............\hbox(6.83331+1.94444)x34.46452, direction TLT
+..............\begindir TLT
 ..............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ..............\mathon
 ..............\OML/cmm/m/it/10 Q
@@ -1059,6 +1098,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..............\kern0.07726 (italic)
 ..............\mathoff
 ..............\pdfcolorstack 0 pop
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1097,9 +1137,11 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+1.94444)x7.90555, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OML/cmm/m/it/10 Q
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1138,11 +1180,13 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+1.94444)x15.68335, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\hbox(3.66875+0.0)x7.7778, direction TLT
 ...............\OMS/cmsy/m/n/10 ^^X
 ..............\OML/cmm/m/it/10 Q
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1181,9 +1225,11 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(5.83333+0.83333)x7.7778, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OMS/cmsy/m/n/10 
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1222,10 +1268,12 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(4.732+1.358)x11.3937, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/7 6
 ..............\TU/lmr/m/n/7 ,
 ..............\kern1.1667
 ..............\TU/lmr/m/n/7 7
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1264,12 +1312,14 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+0.0)x15.44795, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\hbox(3.66875+0.0)x7.7778, direction TLT
 ...............\OMS/cmsy/m/n/10 ^^X
 ..............\OML/cmm/m/it/10 R
 ..............\kern0.07726 (italic)
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1308,9 +1358,11 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(5.83333+0.83333)x7.7778, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OMS/cmsy/m/n/10 
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1349,10 +1401,12 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(4.732+1.358)x11.3937, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/7 4
 ..............\TU/lmr/m/n/7 ,
 ..............\kern1.1667
 ..............\TU/lmr/m/n/7 7
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1391,12 +1445,14 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83331+0.0)x15.44795, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\hbox(3.66875+0.0)x7.7778, direction TLT
 ...............\OMS/cmsy/m/n/10 ^^X
 ..............\OML/cmm/m/it/10 R
 ..............\kern0.07726 (italic)
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1435,9 +1491,11 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(5.83333+0.83333)x7.7778, direction TLT
+..............\begindir TLT
 ..............\mathon
 ..............\OMS/cmsy/m/n/10 
 ..............\mathoff
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1476,10 +1534,12 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(4.718+1.358)x11.3937, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/7 4
 ..............\TU/lmr/m/n/7 ,
 ..............\kern1.1667
 ..............\TU/lmr/m/n/7 6
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1551,33 +1611,15 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -57.31876 m }
-....\pdfliteral origin{-37.23334 -71.15666 l }
+....\pdfliteral origin{0.0 -57.31804 m }
+....\pdfliteral origin{-37.23286 -71.15576 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-37.23334 -85.00418 m }
-....\pdfliteral origin{-51.80353 -98.84209 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-37.23334 -85.00418 m }
-....\pdfliteral origin{-22.66315 -98.84209 l }
+....\pdfliteral origin{-37.23286 -85.0031 m }
+....\pdfliteral origin{-51.80287 -98.84082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1594,22 +1636,8 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -57.31876 m }
-....\pdfliteral origin{37.23332 -71.15666 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{37.23332 -86.94138 m }
-....\pdfliteral origin{17.30763 -98.84209 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{17.30763 -114.62679 m }
-....\pdfliteral origin{2.71242 -126.5275 l }
+....\pdfliteral origin{-37.23286 -85.0031 m }
+....\pdfliteral origin{-22.66287 -98.84082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1626,8 +1654,22 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{17.30763 -114.62679 m }
-....\pdfliteral origin{31.90282 -126.5275 l }
+....\pdfliteral origin{0.0 -57.31804 m }
+....\pdfliteral origin{37.23285 -71.15576 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{37.23285 -86.94026 m }
+....\pdfliteral origin{17.30742 -98.84082 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{17.30742 -114.62532 m }
+....\pdfliteral origin{2.7124 -126.52588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1644,8 +1686,26 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{37.23332 -86.94138 m }
-....\pdfliteral origin{57.159 -98.84209 l }
+....\pdfliteral origin{17.30742 -114.62532 m }
+....\pdfliteral origin{31.90242 -126.52588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{37.23285 -86.94026 m }
+....\pdfliteral origin{57.15826 -98.84082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1736,17 +1796,17 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\pdfliteral origin{q }
 ......\pdfliteral origin{0 1 0 0 K }
 ......\pdfliteral origin{1 0.5 0 RG }
-......\pdfliteral origin{64.38892 -98.84209 m }
-......\pdfliteral origin{-59.10265 -98.84209 l }
-......\pdfliteral origin{-61.30359 -98.84209 -63.08775 -100.62625 -63.08775 -102.8272 c }
-......\pdfliteral origin{-63.08775 -158.66467 l }
-......\pdfliteral origin{-63.08775 -160.86562 -61.30359 -162.64978 -59.10265 -162.64978 c }
-......\pdfliteral origin{64.38892 -162.64978 l }
-......\pdfliteral origin{66.58986 -162.64978 68.37402 -160.86562 68.37402 -158.66467 c }
-......\pdfliteral origin{68.37402 -102.8272 l }
-......\pdfliteral origin{68.37402 -100.62625 66.58986 -98.84209 64.38892 -98.84209 c }
+......\pdfliteral origin{64.38809 -98.84082 m }
+......\pdfliteral origin{-59.1019 -98.84082 l }
+......\pdfliteral origin{-61.30281 -98.84082 -63.08694 -100.62497 -63.08694 -102.82588 c }
+......\pdfliteral origin{-63.08694 -158.66264 l }
+......\pdfliteral origin{-63.08694 -160.86356 -61.30281 -162.64769 -59.1019 -162.64769 c }
+......\pdfliteral origin{64.38809 -162.64769 l }
+......\pdfliteral origin{66.58902 -162.64769 68.37315 -160.86356 68.37315 -158.66264 c }
+......\pdfliteral origin{68.37315 -102.82588 l }
+......\pdfliteral origin{68.37315 -100.62497 66.58902 -98.84082 64.38809 -98.84082 c }
 ......\pdfliteral origin{h }
-......\pdfliteral origin{-63.08775 -162.64978 m }
+......\pdfliteral origin{-63.08694 -162.64769 m }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1761,6 +1821,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(32.02307+32.02307)x131.95306, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x131.95306, direction TLT
 ............\hbox(0.0+0.0)x131.95306, glue set 65.97653fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -1774,6 +1835,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1807,17 +1869,17 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\pdfliteral origin{q }
 ......\pdfliteral origin{0 1 0 0 K }
 ......\pdfliteral origin{1 0.5 0 RG }
-......\pdfliteral origin{17.25629 -19.56061 m }
-......\pdfliteral origin{-17.25629 -19.56061 l }
-......\pdfliteral origin{-19.45723 -19.56061 -21.2414 -21.34477 -21.2414 -23.54572 c }
-......\pdfliteral origin{-21.2414 -53.33365 l }
-......\pdfliteral origin{-21.2414 -55.53459 -19.45723 -57.31876 -17.25629 -57.31876 c }
-......\pdfliteral origin{17.25629 -57.31876 l }
-......\pdfliteral origin{19.45723 -57.31876 21.2414 -55.53459 21.2414 -53.33365 c }
-......\pdfliteral origin{21.2414 -23.54572 l }
-......\pdfliteral origin{21.2414 -21.34477 19.45723 -19.56061 17.25629 -19.56061 c }
+......\pdfliteral origin{17.25609 -19.56036 m }
+......\pdfliteral origin{-17.25609 -19.56036 l }
+......\pdfliteral origin{-19.457 -19.56036 -21.24113 -21.34451 -21.24113 -23.54543 c }
+......\pdfliteral origin{-21.24113 -53.33298 l }
+......\pdfliteral origin{-21.24113 -55.53389 -19.457 -57.31804 -17.25609 -57.31804 c }
+......\pdfliteral origin{17.25609 -57.31804 l }
+......\pdfliteral origin{19.457 -57.31804 21.24113 -55.53389 21.24113 -53.33298 c }
+......\pdfliteral origin{21.24113 -23.54543 l }
+......\pdfliteral origin{21.24113 -21.34451 19.457 -19.56036 17.25609 -19.56036 c }
 ......\pdfliteral origin{h }
-......\pdfliteral origin{-21.2414 -57.31876 m }
+......\pdfliteral origin{-21.24113 -57.31804 m }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1832,6 +1894,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(18.94963+18.94963)x42.64157, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x42.64157, direction TLT
 ............\hbox(0.0+0.0)x42.64157, glue set 21.32079fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -1845,6 +1908,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

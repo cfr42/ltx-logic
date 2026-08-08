@@ -16,7 +16,7 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -1576,33 +1576,15 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -57.31876 m }
-....\pdfliteral{-37.23334 -71.05594 l }
+....\pdfliteral{0.0 -57.31804 m }
+....\pdfliteral{-37.23286 -71.05504 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-37.23334 -84.90346 m }
-....\pdfliteral{-51.80353 -98.64063 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{-37.23334 -84.90346 m }
-....\pdfliteral{-22.66315 -98.64063 l }
+....\pdfliteral{-37.23286 -84.90237 m }
+....\pdfliteral{-51.80287 -98.63937 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1619,22 +1601,8 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -57.31876 m }
-....\pdfliteral{37.23332 -71.05594 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{37.23332 -86.84064 m }
-....\pdfliteral{17.30763 -98.64063 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{17.30763 -114.42532 m }
-....\pdfliteral{2.71242 -126.22531 l }
+....\pdfliteral{-37.23286 -84.90237 m }
+....\pdfliteral{-22.66287 -98.63937 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1651,8 +1619,22 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{17.30763 -114.42532 m }
-....\pdfliteral{31.90282 -126.22531 l }
+....\pdfliteral{0.0 -57.31804 m }
+....\pdfliteral{37.23285 -71.05504 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{37.23285 -86.83954 m }
+....\pdfliteral{17.30742 -98.63937 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{17.30742 -114.42387 m }
+....\pdfliteral{2.7124 -126.22371 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1669,8 +1651,26 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{37.23332 -86.84064 m }
-....\pdfliteral{57.159 -98.64063 l }
+....\pdfliteral{17.30742 -114.42387 m }
+....\pdfliteral{31.90242 -126.22371 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{37.23285 -86.83954 m }
+....\pdfliteral{57.15826 -98.63937 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1761,17 +1761,17 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\pdfliteral{q }
 ......\pdfliteral{0 1 0 0 K }
 ......\pdfliteral{1 0.5 0 RG }
-......\pdfliteral{64.38892 -98.64063 m }
-......\pdfliteral{-59.10265 -98.64063 l }
-......\pdfliteral{-61.30359 -98.64063 -63.08775 -100.42479 -63.08775 -102.62573 c }
-......\pdfliteral{-63.08775 -158.36555 l }
-......\pdfliteral{-63.08775 -160.5665 -61.30359 -162.35066 -59.10265 -162.35066 c }
-......\pdfliteral{64.38892 -162.35066 l }
-......\pdfliteral{66.58986 -162.35066 68.37402 -160.5665 68.37402 -158.36555 c }
-......\pdfliteral{68.37402 -102.62573 l }
-......\pdfliteral{68.37402 -100.42479 66.58986 -98.64063 64.38892 -98.64063 c }
+......\pdfliteral{64.38809 -98.63937 m }
+......\pdfliteral{-59.1019 -98.63937 l }
+......\pdfliteral{-61.30281 -98.63937 -63.08694 -100.42351 -63.08694 -102.62444 c }
+......\pdfliteral{-63.08694 -158.36353 l }
+......\pdfliteral{-63.08694 -160.56444 -61.30281 -162.34859 -59.1019 -162.34859 c }
+......\pdfliteral{64.38809 -162.34859 l }
+......\pdfliteral{66.58902 -162.34859 68.37315 -160.56444 68.37315 -158.36353 c }
+......\pdfliteral{68.37315 -102.62444 l }
+......\pdfliteral{68.37315 -100.42351 66.58902 -98.63937 64.38809 -98.63937 c }
 ......\pdfliteral{h }
-......\pdfliteral{-63.08775 -162.35066 m }
+......\pdfliteral{-63.08694 -162.34859 m }
 ......\pdfliteral{S }
 ......\glue 0.0
 ......\pdfliteral{Q }
@@ -1828,17 +1828,17 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 ......\pdfliteral{q }
 ......\pdfliteral{0 1 0 0 K }
 ......\pdfliteral{1 0.5 0 RG }
-......\pdfliteral{17.25629 -19.56061 m }
-......\pdfliteral{-17.25629 -19.56061 l }
-......\pdfliteral{-19.45723 -19.56061 -21.2414 -21.34477 -21.2414 -23.54572 c }
-......\pdfliteral{-21.2414 -53.33365 l }
-......\pdfliteral{-21.2414 -55.53459 -19.45723 -57.31876 -17.25629 -57.31876 c }
-......\pdfliteral{17.25629 -57.31876 l }
-......\pdfliteral{19.45723 -57.31876 21.2414 -55.53459 21.2414 -53.33365 c }
-......\pdfliteral{21.2414 -23.54572 l }
-......\pdfliteral{21.2414 -21.34477 19.45723 -19.56061 17.25629 -19.56061 c }
+......\pdfliteral{17.25609 -19.56036 m }
+......\pdfliteral{-17.25609 -19.56036 l }
+......\pdfliteral{-19.457 -19.56036 -21.24113 -21.34451 -21.24113 -23.54543 c }
+......\pdfliteral{-21.24113 -53.33298 l }
+......\pdfliteral{-21.24113 -55.53389 -19.457 -57.31804 -17.25609 -57.31804 c }
+......\pdfliteral{17.25609 -57.31804 l }
+......\pdfliteral{19.457 -57.31804 21.24113 -55.53389 21.24113 -53.33298 c }
+......\pdfliteral{21.24113 -23.54543 l }
+......\pdfliteral{21.24113 -21.34451 19.457 -19.56036 17.25609 -19.56036 c }
 ......\pdfliteral{h }
-......\pdfliteral{-21.2414 -57.31876 m }
+......\pdfliteral{-21.24113 -57.31804 m }
 ......\pdfliteral{S }
 ......\glue 0.0
 ......\pdfliteral{Q }
