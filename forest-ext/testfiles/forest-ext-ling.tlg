@@ -24,7 +24,7 @@ TEST 1: multi
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -174,16 +174,16 @@ TEST 1: multi
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{0.0 -18.79407 l }
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{0.0 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -44.81168 m }
-....\pdfliteral{0.0 -32.69362 l }
+....\pdfliteral{0.0 -44.81111 m }
+....\pdfliteral{0.0 -32.69322 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -294,7 +294,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -880,62 +880,15 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{-42.9485 -18.79407 l }
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{-42.94797 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-42.9485 -37.78738 m }
-....\pdfliteral{-51.17126 -49.47581 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{-11.71745 -75.49342 m }
-....\pdfliteral{-4.93536 -68.71133 -49.73059 -31.0053 -42.9485 -37.78738 c }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{-17.44986 -18.79407 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{-17.44986 -37.78738 m }
-....\pdfliteral{-17.44986 -49.47581 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{-17.44986 -75.49342 m }
-....\pdfliteral{-17.44986 -63.37538 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{10.40173 -18.79407 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{10.40173 -37.78738 m }
-....\pdfliteral{2.31734 -49.47581 l }
+....\pdfliteral{-42.94797 -37.78691 m }
+....\pdfliteral{-51.17062 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -944,8 +897,45 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{37.33978 -49.47581 m }
-....\pdfliteral{40.17088 -38.90999 -25.18457 -30.05266 -17.44986 -37.78738 c }
+....\pdfliteral{-11.71732 -75.49246 m }
+....\pdfliteral{-4.93532 -68.71046 -49.72997 -31.00491 -42.94797 -37.78691 c }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{-17.44965 -18.79384 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{-17.44965 -37.78691 m }
+....\pdfliteral{-17.44965 -49.47519 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{-17.44965 -75.49246 m }
+....\pdfliteral{-17.44965 -63.37459 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{10.40161 -18.79384 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{10.40161 -37.78691 m }
+....\pdfliteral{2.31732 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -954,15 +944,8 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-37.46535 -18.79407 m }
-....\pdfliteral{-29.40608 -4.83495 31.55095 -26.38983 42.9485 -37.78738 c }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{42.9485 -18.79407 l }
+....\pdfliteral{37.33931 -49.47519 m }
+....\pdfliteral{40.17038 -38.9095 -25.18427 -30.05229 -17.44965 -37.78691 c }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -971,8 +954,15 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{40.94234 -55.42311 m }
-....\pdfliteral{43.9437 -53.69028 40.49791 -35.33679 42.9485 -37.78738 c }
+....\pdfliteral{-37.46487 -18.79384 m }
+....\pdfliteral{-29.40572 -4.8349 31.55057 -26.38951 42.94797 -37.78691 c }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{42.94797 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -981,8 +971,18 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{8.32642 -49.47581 m }
-....\pdfliteral{13.37498 -44.42726 37.89993 -32.73882 42.9485 -37.78738 c }
+....\pdfliteral{40.94183 -55.42241 m }
+....\pdfliteral{43.94315 -53.6896 40.4974 -35.33635 42.94797 -37.78691 c }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{8.32632 -49.47519 m }
+....\pdfliteral{13.37483 -44.4267 37.89946 -32.73842 42.94797 -37.78691 c }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1020,7 +1020,7 @@ TEST 3: pretty nice empty nodes
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -1617,86 +1617,86 @@ TEST 3: pretty nice empty nodes
 ....\glue 0.0
 ....\glue 0.0
 ....\pdfliteral{0.0 -0.69739 m }
-....\pdfliteral{-20.44171 -29.89235 l }
+....\pdfliteral{-20.44147 -29.89197 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\pdfliteral{0.0 -0.69739 m }
-....\pdfliteral{-7.09454 -53.15512 l }
+....\pdfliteral{-7.09447 -53.15445 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-7.09454 -53.15512 m }
-....\pdfliteral{-7.09454 -80.67986 l }
+....\pdfliteral{-7.09447 -53.15445 m }
+....\pdfliteral{-7.09447 -80.67883 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-7.09454 -80.67986 m }
-....\pdfliteral{-25.3902 -108.20459 l }
+....\pdfliteral{-7.09447 -80.67883 m }
+....\pdfliteral{-25.3899 -108.2032 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-7.09454 -80.67986 m }
-....\pdfliteral{-7.09639 -95.6195 l }
+....\pdfliteral{-7.09447 -80.67883 m }
+....\pdfliteral{-7.09631 -95.61829 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-7.09454 -80.67986 m }
-....\pdfliteral{11.20113 -108.20459 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{11.20113 -108.20459 m }
-....\pdfliteral{11.20113 -124.65137 l }
+....\pdfliteral{-7.09447 -80.67883 m }
+....\pdfliteral{11.201 -108.2032 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{11.20113 -150.66898 m }
-....\pdfliteral{11.20113 -138.55093 l }
+....\pdfliteral{11.201 -108.2032 m }
+....\pdfliteral{11.201 -124.64978 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{11.201 -150.66705 m }
+....\pdfliteral{11.201 -138.54916 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\pdfliteral{0.0 -0.69739 m }
-....\pdfliteral{20.44168 -29.89235 l }
+....\pdfliteral{20.44144 -29.89197 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{20.44168 -48.88567 m }
-....\pdfliteral{12.25768 -60.5741 l }
+....\pdfliteral{20.44144 -48.88506 m }
+....\pdfliteral{12.25754 -60.57333 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{20.44168 -48.88567 m }
-....\pdfliteral{36.46083 -73.15918 l }
+....\pdfliteral{20.44144 -48.88506 m }
+....\pdfliteral{36.46037 -73.15825 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{36.46083 -73.15918 m }
-....\pdfliteral{36.46083 -100.68391 l }
+....\pdfliteral{36.46037 -73.15825 m }
+....\pdfliteral{36.46037 -100.68263 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1745,7 +1745,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -2291,43 +2291,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-47.55072 -75.4877 m }
-....\pdfliteral{-47.55072 -59.17004 -11.53833 4.4327 0.0 -7.10562 c }
+....\pdfliteral{-47.55013 -75.48674 m }
+....\pdfliteral{-47.55013 -59.1693 -11.5382 4.43265 0.0 -7.10555 c }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-47.55072 -94.48102 m }
-....\pdfliteral{-66.83989 -106.16945 l }
+....\pdfliteral{-47.55013 -94.47981 m }
+....\pdfliteral{-66.83904 -106.1681 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-47.55072 -94.48102 m }
-....\pdfliteral{-28.26155 -106.16945 l }
+....\pdfliteral{-47.55013 -94.47981 m }
+....\pdfliteral{-28.2612 -106.1681 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{33.37732 -18.79407 l }
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{33.3769 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{33.37732 -37.78738 m }
-....\pdfliteral{21.17798 -49.47581 l }
+....\pdfliteral{33.3769 -37.78691 m }
+....\pdfliteral{21.17772 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{33.37732 -37.78738 m }
-....\pdfliteral{45.57666 -49.47581 l }
+....\pdfliteral{33.3769 -37.78691 m }
+....\pdfliteral{45.5761 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2336,22 +2336,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-36.83813 -84.98436 m }
-....\pdfliteral{-20.38431 -84.98436 33.94205 -56.83452 45.57666 -68.46915 c }
+....\pdfliteral{-36.83768 -84.98328 m }
+....\pdfliteral{-20.38406 -84.98328 33.94162 -56.8338 45.5761 -68.46828 c }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{45.57666 -68.46915 m }
-....\pdfliteral{54.98264 -80.15758 l }
+....\pdfliteral{45.5761 -68.46828 m }
+....\pdfliteral{54.98193 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{54.98264 -99.1509 m }
-....\pdfliteral{54.98264 -110.83934 l }
+....\pdfliteral{54.98193 -99.14963 m }
+....\pdfliteral{54.98193 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2419,7 +2419,7 @@ TEST 5: other multidom parents
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -2985,60 +2985,43 @@ TEST 5: other multidom parents
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-47.55072 -75.4877 m }
-....\pdfliteral{-47.55072 -59.17004 -11.53833 4.4327 0.0 -7.10562 c }
+....\pdfliteral{-47.55013 -75.48674 m }
+....\pdfliteral{-47.55013 -59.1693 -11.5382 4.43265 0.0 -7.10555 c }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-47.55072 -94.48102 m }
-....\pdfliteral{-66.83989 -106.16945 l }
+....\pdfliteral{-47.55013 -94.47981 m }
+....\pdfliteral{-66.83904 -106.1681 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-47.55072 -94.48102 m }
-....\pdfliteral{-28.26155 -106.16945 l }
+....\pdfliteral{-47.55013 -94.47981 m }
+....\pdfliteral{-28.2612 -106.1681 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{33.37732 -18.79407 l }
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{33.3769 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{33.37732 -37.78738 m }
-....\pdfliteral{21.17798 -49.47581 l }
+....\pdfliteral{33.3769 -37.78691 m }
+....\pdfliteral{21.17772 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{33.37732 -37.78738 m }
-....\pdfliteral{45.57666 -49.47581 l }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{-36.83813 -84.98436 m }
-....\pdfliteral{-20.38431 -84.98436 33.94205 -56.83452 45.57666 -68.46915 c }
-....\pdfliteral{S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\pdfliteral{45.57666 -68.46915 m }
-....\pdfliteral{54.98264 -80.15758 l }
+....\pdfliteral{33.3769 -37.78691 m }
+....\pdfliteral{45.5761 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -3047,16 +3030,33 @@ TEST 5: other multidom parents
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\glue 0.0
-....\pdfliteral{-36.83813 -94.48102 m }
-....\pdfliteral{-24.12885 -107.1903 42.27333 -86.4416 54.98264 -99.1509 c }
+....\pdfliteral{-36.83768 -84.98328 m }
+....\pdfliteral{-20.38406 -84.98328 33.94162 -56.8338 45.5761 -68.46828 c }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{54.98264 -99.1509 m }
-....\pdfliteral{69.45946 -110.83934 l }
+....\pdfliteral{45.5761 -68.46828 m }
+....\pdfliteral{54.98193 -80.15656 l }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{-36.83768 -94.47981 m }
+....\pdfliteral{-24.12856 -107.18895 42.27281 -86.4405 54.98193 -99.14963 c }
+....\pdfliteral{S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\pdfliteral{54.98193 -99.14963 m }
+....\pdfliteral{69.45857 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0

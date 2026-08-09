@@ -12,7 +12,7 @@ TEST 1: utils: align middle child(ren)
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -40,9 +40,11 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.15+1.94)x14.45, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 t
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 p
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -81,7 +83,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -120,7 +124,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -159,6 +165,7 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x68.34, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
 ..............\TU/lmr/m/n/10 D
 ..............\discretionary (penalty 50)
@@ -170,6 +177,7 @@ TEST 1: utils: align middle child(ren)
 ..............\TU/lmr/m/n/10 D
 ..............\TU/lmr/m/n/10 D
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -208,7 +216,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -247,7 +257,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -286,7 +298,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -325,7 +339,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.64, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -364,7 +380,9 @@ TEST 1: utils: align middle child(ren)
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 E
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -381,8 +399,8 @@ TEST 1: utils: align middle child(ren)
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-10.71791 -2.7347 m }
-....\pdfliteral origin{-42.65077 -17.14185 l }
+....\pdfliteral origin{-10.71777 -2.73466 m }
+....\pdfliteral origin{-42.65024 -17.14165 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -390,8 +408,8 @@ TEST 1: utils: align middle child(ren)
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -5.45259 m }
-....\pdfliteral origin{0.0 -17.47064 l }
+....\pdfliteral origin{0.0 -5.45253 m }
+....\pdfliteral origin{0.0 -17.47043 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -399,43 +417,43 @@ TEST 1: utils: align middle child(ren)
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{10.71791 -1.79349 m }
-....\pdfliteral origin{53.29886 -17.25145 l }
+....\pdfliteral origin{10.71777 -1.79349 m }
+....\pdfliteral origin{53.29819 -17.25125 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{110.5246 -31.01616 m }
-....\pdfliteral origin{76.03009 -48.28395 l }
+....\pdfliteral origin{110.52318 -31.01578 m }
+....\pdfliteral origin{76.02913 -48.28334 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{110.5246 -31.01616 m }
-....\pdfliteral origin{96.55704 -45.15605 l }
+....\pdfliteral origin{110.52318 -31.01578 m }
+....\pdfliteral origin{96.5558 -45.15549 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{110.5246 -31.01616 m }
-....\pdfliteral origin{110.5246 -44.93687 l }
+....\pdfliteral origin{110.52318 -31.01578 m }
+....\pdfliteral origin{110.52318 -44.93631 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{110.5246 -31.01616 m }
-....\pdfliteral origin{124.68385 -45.15605 l }
+....\pdfliteral origin{110.52318 -31.01578 m }
+....\pdfliteral origin{124.68227 -45.15549 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{110.5246 -31.01616 m }
-....\pdfliteral origin{145.58218 -48.62343 l }
+....\pdfliteral origin{110.52318 -31.01578 m }
+....\pdfliteral origin{145.58032 -48.62282 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -464,7 +482,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -492,6 +510,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.58333, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.58333, direction TLT
 ...............\vbox(8.39996+3.60004)x6.58333, direction TLT
 ................\hbox(8.39996+3.60004)x6.58333, direction TLT
@@ -506,6 +525,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -544,6 +564,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x5.95836, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x5.95836, direction TLT
 ...............\vbox(8.39996+3.60004)x5.95836, direction TLT
 ................\hbox(8.39996+3.60004)x5.95836, direction TLT
@@ -557,6 +578,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -595,6 +617,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x4.97224, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x4.97224, direction TLT
 ...............\vbox(8.39996+3.60004)x4.97224, direction TLT
 ................\hbox(8.39996+3.60004)x4.97224, direction TLT
@@ -609,6 +632,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -647,6 +671,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.22002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.22002, direction TLT
 ...............\vbox(8.39996+3.60004)x7.22002, direction TLT
 ................\hbox(8.39996+3.60004)x7.22002, direction TLT
@@ -658,6 +683,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 C
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -696,6 +722,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.64001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.64001, direction TLT
 ...............\vbox(8.39996+3.60004)x7.64001, direction TLT
 ................\hbox(8.39996+3.60004)x7.64001, direction TLT
@@ -707,6 +734,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 D
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -745,6 +773,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x9.31001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x9.31001, direction TLT
 ...............\vbox(8.39996+3.60004)x9.31001, direction TLT
 ................\hbox(8.39996+3.60004)x9.31001, direction TLT
@@ -757,6 +786,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 l
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -795,6 +825,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.81001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.81001, direction TLT
 ...............\vbox(8.39996+3.60004)x6.81001, direction TLT
 ................\hbox(8.39996+3.60004)x6.81001, direction TLT
@@ -806,6 +837,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 E
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -844,6 +876,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.25693, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.25693, direction TLT
 ...............\vbox(8.39996+3.60004)x6.25693, direction TLT
 ................\hbox(8.39996+3.60004)x6.25693, direction TLT
@@ -857,6 +890,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -895,6 +929,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.78001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.78001, direction TLT
 ...............\vbox(8.39996+3.60004)x7.78001, direction TLT
 ................\hbox(8.39996+3.60004)x7.78001, direction TLT
@@ -906,6 +941,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 O
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -944,6 +980,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x11.11002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x11.11002, direction TLT
 ...............\vbox(8.39996+3.60004)x11.11002, direction TLT
 ................\hbox(8.39996+3.60004)x11.11002, direction TLT
@@ -957,6 +994,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 e
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -995,6 +1033,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.53001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.53001, direction TLT
 ...............\vbox(8.39996+3.60004)x6.53001, direction TLT
 ................\hbox(8.39996+3.60004)x6.53001, direction TLT
@@ -1006,6 +1045,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 F
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1044,6 +1084,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x20.28001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x20.28001, direction TLT
 ...............\vbox(8.39996+3.60004)x20.28001, direction TLT
 ................\hbox(8.39996+3.60004)x20.28001, direction TLT
@@ -1058,6 +1099,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 )
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1096,6 +1138,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x9.17001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x9.17001, direction TLT
 ...............\vbox(8.39996+3.60004)x9.17001, direction TLT
 ................\hbox(8.39996+3.60004)x9.17001, direction TLT
@@ -1107,6 +1150,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 M
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1145,6 +1189,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.18404, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.18404, direction TLT
 ...............\vbox(8.39996+3.60004)x6.18404, direction TLT
 ................\hbox(8.39996+3.60004)x6.18404, direction TLT
@@ -1159,6 +1204,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1197,6 +1243,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x5.73286, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x5.73286, direction TLT
 ...............\vbox(8.39996+3.60004)x5.73286, direction TLT
 ................\hbox(8.39996+3.60004)x5.73286, direction TLT
@@ -1211,6 +1258,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1249,6 +1297,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x10.28001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x10.28001, direction TLT
 ...............\vbox(8.39996+3.60004)x10.28001, direction TLT
 ................\hbox(8.39996+3.60004)x10.28001, direction TLT
@@ -1260,6 +1309,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 W
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1298,6 +1348,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.07292, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.07292, direction TLT
 ...............\vbox(8.39996+3.60004)x6.07292, direction TLT
 ................\hbox(8.39996+3.60004)x6.07292, direction TLT
@@ -1312,6 +1363,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1350,6 +1402,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.50002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.50002, direction TLT
 ...............\vbox(8.39996+3.60004)x7.50002, direction TLT
 ................\hbox(8.39996+3.60004)x7.50002, direction TLT
@@ -1361,6 +1414,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 V
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1399,6 +1453,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.11002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.11002, direction TLT
 ...............\vbox(8.39996+3.60004)x6.11002, direction TLT
 ................\hbox(8.39996+3.60004)x6.11002, direction TLT
@@ -1410,6 +1465,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 Z
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1448,6 +1504,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x19.58002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x19.58002, direction TLT
 ...............\vbox(8.39996+3.60004)x19.58002, direction TLT
 ................\hbox(8.39996+3.60004)x19.58002, direction TLT
@@ -1462,6 +1519,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 )
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1500,6 +1558,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x4.82292, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x4.82292, direction TLT
 ...............\vbox(8.39996+3.60004)x4.82292, direction TLT
 ................\hbox(8.39996+3.60004)x4.82292, direction TLT
@@ -1514,6 +1573,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1552,6 +1612,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x4.6632, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x4.6632, direction TLT
 ...............\vbox(8.39996+3.60004)x4.6632, direction TLT
 ................\hbox(8.39996+3.60004)x4.6632, direction TLT
@@ -1565,6 +1626,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1603,6 +1665,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x6.81001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x6.81001, direction TLT
 ...............\vbox(8.39996+3.60004)x6.81001, direction TLT
 ................\hbox(8.39996+3.60004)x6.81001, direction TLT
@@ -1614,6 +1677,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 P
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1652,6 +1716,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.50002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.50002, direction TLT
 ...............\vbox(8.39996+3.60004)x7.50002, direction TLT
 ................\hbox(8.39996+3.60004)x7.50002, direction TLT
@@ -1663,6 +1728,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 U
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1701,6 +1767,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x5.3241, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x5.3241, direction TLT
 ...............\vbox(8.39996+3.60004)x5.3241, direction TLT
 ................\hbox(8.39996+3.60004)x5.3241, direction TLT
@@ -1715,6 +1782,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\mathoff
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1753,6 +1821,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.36002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.36002, direction TLT
 ...............\vbox(8.39996+3.60004)x7.36002, direction TLT
 ................\hbox(8.39996+3.60004)x7.36002, direction TLT
@@ -1764,6 +1833,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 R
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1802,6 +1872,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x7.22002, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x7.22002, direction TLT
 ...............\vbox(8.39996+3.60004)x7.22002, direction TLT
 ................\hbox(8.39996+3.60004)x7.22002, direction TLT
@@ -1813,6 +1884,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 T
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1851,6 +1923,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x5.56001, direction TLT
+..............\begindir TLT
 ..............\hbox(8.39996+3.60004)x5.56001, direction TLT
 ...............\vbox(8.39996+3.60004)x5.56001, direction TLT
 ................\hbox(8.39996+3.60004)x5.56001, direction TLT
@@ -1862,6 +1935,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ..................\TU/lmr/m/n/10 S
 ..................\glue 0.0 plus 1.0fil
 .................\glue(\tabskip) 0.0
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1878,190 +1952,190 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -7.10645 m }
-....\pdfliteral origin{-67.26067 -18.7957 l }
+....\pdfliteral origin{0.0 -7.10637 m }
+....\pdfliteral origin{-67.25981 -18.79547 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-67.26067 -37.79066 m }
-....\pdfliteral origin{-115.22621 -49.47992 l }
+....\pdfliteral origin{-67.25981 -37.79019 m }
+....\pdfliteral origin{-115.22475 -49.4793 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-115.22621 -68.47488 m }
-....\pdfliteral origin{-167.80545 -80.16414 l }
+....\pdfliteral origin{-115.22475 -68.47401 m }
+....\pdfliteral origin{-167.8033 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-115.22621 -68.47488 m }
-....\pdfliteral origin{-146.72232 -80.16414 l }
+....\pdfliteral origin{-115.22475 -68.47401 m }
+....\pdfliteral origin{-146.72044 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-115.22621 -68.47488 m }
-....\pdfliteral origin{-124.5981 -80.16414 l }
+....\pdfliteral origin{-115.22475 -68.47401 m }
+....\pdfliteral origin{-124.59651 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-115.22621 -68.47488 m }
-....\pdfliteral origin{-102.88733 -80.16414 l }
+....\pdfliteral origin{-115.22475 -68.47401 m }
+....\pdfliteral origin{-102.88602 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-115.22621 -68.47488 m }
-....\pdfliteral origin{-82.69742 -80.16414 l }
+....\pdfliteral origin{-115.22475 -68.47401 m }
+....\pdfliteral origin{-82.69637 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-82.69742 -99.1591 m }
-....\pdfliteral origin{-94.24272 -110.84836 l }
+....\pdfliteral origin{-82.69637 -99.15784 m }
+....\pdfliteral origin{-94.24153 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-82.69742 -99.1591 m }
-....\pdfliteral origin{-71.15211 -110.84836 l }
+....\pdfliteral origin{-82.69637 -99.15784 m }
+....\pdfliteral origin{-71.1512 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-115.22621 -68.47488 m }
-....\pdfliteral origin{-62.64699 -80.16414 l }
+....\pdfliteral origin{-115.22475 -68.47401 m }
+....\pdfliteral origin{-62.6462 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-67.26067 -37.79066 m }
-....\pdfliteral origin{-67.26067 -49.47992 l }
+....\pdfliteral origin{-67.25981 -37.79019 m }
+....\pdfliteral origin{-67.25981 -49.4793 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-67.26067 -37.79066 m }
-....\pdfliteral origin{-17.20403 -49.47992 l }
+....\pdfliteral origin{-67.25981 -37.79019 m }
+....\pdfliteral origin{-17.20381 -49.4793 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -7.10645 m }
-....\pdfliteral origin{67.26065 -18.7957 l }
+....\pdfliteral origin{0.0 -7.10637 m }
+....\pdfliteral origin{67.2598 -18.79547 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{67.26065 -37.79066 m }
-....\pdfliteral origin{25.6061 -49.47992 l }
+....\pdfliteral origin{67.2598 -37.79019 m }
+....\pdfliteral origin{25.60579 -49.4793 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{25.6061 -68.47488 m }
-....\pdfliteral origin{3.77931 -80.16414 l }
+....\pdfliteral origin{25.60579 -68.47401 m }
+....\pdfliteral origin{3.77928 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{25.6061 -68.47488 m }
-....\pdfliteral origin{25.6061 -80.16414 l }
+....\pdfliteral origin{25.60579 -68.47401 m }
+....\pdfliteral origin{25.60579 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{25.6061 -99.1591 m }
-....\pdfliteral origin{15.37587 -110.84836 l }
+....\pdfliteral origin{25.60579 -99.15784 m }
+....\pdfliteral origin{15.37569 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{25.6061 -99.1591 m }
-....\pdfliteral origin{35.83632 -110.84836 l }
+....\pdfliteral origin{25.60579 -99.15784 m }
+....\pdfliteral origin{35.83586 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{25.6061 -68.47488 m }
-....\pdfliteral origin{52.06558 -80.16414 l }
+....\pdfliteral origin{25.60579 -68.47401 m }
+....\pdfliteral origin{52.06493 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{67.26065 -37.79066 m }
-....\pdfliteral origin{108.91518 -49.47992 l }
+....\pdfliteral origin{67.2598 -37.79019 m }
+....\pdfliteral origin{108.91379 -49.4793 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{108.91518 -68.47488 m }
-....\pdfliteral origin{99.5285 -80.16414 l }
+....\pdfliteral origin{108.91379 -68.47401 m }
+....\pdfliteral origin{99.52724 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{99.5285 -99.1591 m }
-....\pdfliteral origin{78.71936 -110.84836 l }
+....\pdfliteral origin{99.52724 -99.15784 m }
+....\pdfliteral origin{78.71837 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{99.5285 -99.1591 m }
-....\pdfliteral origin{99.5285 -110.84836 l }
+....\pdfliteral origin{99.52724 -99.15784 m }
+....\pdfliteral origin{99.52724 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{99.5285 -99.1591 m }
-....\pdfliteral origin{119.59746 -110.84836 l }
+....\pdfliteral origin{99.52724 -99.15784 m }
+....\pdfliteral origin{119.59593 -110.84695 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{119.59746 -129.84332 m }
-....\pdfliteral origin{109.12563 -141.53258 l }
+....\pdfliteral origin{119.59593 -129.84167 m }
+....\pdfliteral origin{109.12424 -141.53078 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{119.59746 -129.84332 m }
-....\pdfliteral origin{130.06927 -141.53258 l }
+....\pdfliteral origin{119.59593 -129.84167 m }
+....\pdfliteral origin{130.06761 -141.53078 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{108.91518 -68.47488 m }
-....\pdfliteral origin{118.30183 -80.16414 l }
+....\pdfliteral origin{108.91379 -68.47401 m }
+....\pdfliteral origin{118.30032 -80.16313 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2087,7 +2161,7 @@ TEST 3: utils: outer label
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -2115,7 +2189,9 @@ TEST 3: utils: outer label
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2154,7 +2230,9 @@ TEST 3: utils: outer label
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2193,7 +2271,9 @@ TEST 3: utils: outer label
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.64, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2232,7 +2312,9 @@ TEST 3: utils: outer label
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2251,8 +2333,8 @@ TEST 3: utils: outer label
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-2.64638 -3.5198 m }
-....\pdfliteral origin{-7.81763 -17.36104 l }
+....\pdfliteral origin{-2.64636 -3.51978 m }
+....\pdfliteral origin{-7.81754 -17.36082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2260,8 +2342,8 @@ TEST 3: utils: outer label
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-10.40263 -31.20523 m }
-....\pdfliteral origin{-10.40263 -45.04645 l }
+....\pdfliteral origin{-10.40251 -31.20485 m }
+....\pdfliteral origin{-10.40251 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2269,8 +2351,8 @@ TEST 3: utils: outer label
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{2.64638 -3.5198 m }
-....\pdfliteral origin{7.73576 -17.14185 l }
+....\pdfliteral origin{2.64636 -3.51978 m }
+....\pdfliteral origin{7.73567 -17.14165 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\hbox(0.0+0.0)x0.0, direction TLT
@@ -2297,7 +2379,9 @@ TEST 3: utils: outer label
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x5.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2323,6 +2407,7 @@ TEST 3: utils: outer label
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(6.94+1.25)x51.67, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\TU/lmss/m/n/10 c
 ...........\TU/lmss/m/n/10 ,
@@ -2341,6 +2426,7 @@ TEST 3: utils: outer label
 ...........\TU/lmss/m/n/10 e
 ...........\TU/lmss/m/n/10 l
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2371,7 +2457,7 @@ TEST 4: utils: outer labels at
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -2399,7 +2485,9 @@ TEST 4: utils: outer labels at
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2438,7 +2526,9 @@ TEST 4: utils: outer labels at
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2477,7 +2567,9 @@ TEST 4: utils: outer labels at
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.64, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2516,7 +2608,9 @@ TEST 4: utils: outer labels at
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2535,8 +2629,8 @@ TEST 4: utils: outer labels at
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-2.64638 -3.5198 m }
-....\pdfliteral origin{-7.81763 -17.36104 l }
+....\pdfliteral origin{-2.64636 -3.51978 m }
+....\pdfliteral origin{-7.81754 -17.36082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2544,8 +2638,8 @@ TEST 4: utils: outer labels at
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-10.40263 -31.20523 m }
-....\pdfliteral origin{-10.40263 -45.04645 l }
+....\pdfliteral origin{-10.40251 -31.20485 m }
+....\pdfliteral origin{-10.40251 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2553,8 +2647,8 @@ TEST 4: utils: outer labels at
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{2.64638 -3.5198 m }
-....\pdfliteral origin{7.73576 -17.14185 l }
+....\pdfliteral origin{2.64636 -3.51978 m }
+....\pdfliteral origin{7.73567 -17.14165 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2582,9 +2676,11 @@ TEST 4: utils: outer labels at
 ..........\pdfliteral origin{0 1 0 0 K }
 ..........\pdfliteral origin{0 1 0 0 k }
 ..........\hbox(6.94+0.11)x5.56, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 1 0 0 k 0 1 0 0 K}
 ...........\TU/lmr/m/n/10 d
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2610,6 +2706,7 @@ TEST 4: utils: outer labels at
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(6.94+1.25)x51.67, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\TU/lmss/m/n/10 c
 ...........\TU/lmss/m/n/10 ,
@@ -2628,6 +2725,7 @@ TEST 4: utils: outer labels at
 ...........\TU/lmss/m/n/10 e
 ...........\TU/lmss/m/n/10 l
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

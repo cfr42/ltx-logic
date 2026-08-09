@@ -25,7 +25,7 @@ TEST 1: multi
 ...\special{pdf:code q }
 ...\special{pdf:code 0 G }
 ...\special{pdf:code 0 g }
-...\special{pdf:code 0.3985 w }
+...\special{pdf:code 0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\special{pdf:code q }
 ....\glue 0.0
@@ -58,7 +58,7 @@ TEST 1: multi
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.73604 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.736 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x7.50002
 .........\special{pdf:code 0 G }
@@ -106,7 +106,7 @@ TEST 1: multi
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -29.1786}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -29.17825}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -125,7 +125,7 @@ TEST 1: multi
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.73604 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.736 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.88875+0.0)x7.5
 .........\special{pdf:code 0 G }
@@ -163,7 +163,7 @@ TEST 1: multi
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -56.70778}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 0.0 -56.70706}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -182,7 +182,7 @@ TEST 1: multi
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49069 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49066 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.00002
 .........\special{pdf:code 0 G }
@@ -223,16 +223,16 @@ TEST 1: multi
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code 0.0 -18.7957 l }
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code 0.0 -18.79547 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -44.81927 m }
-....\special{pdf:code 0.0 -32.69843 l }
+....\special{pdf:code 0.0 -44.81871 m }
+....\special{pdf:code 0.0 -32.69803 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -345,7 +345,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ...\special{pdf:code q }
 ...\special{pdf:code 0 G }
 ...\special{pdf:code 0 g }
-...\special{pdf:code 0.3985 w }
+...\special{pdf:code 0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\special{pdf:code q }
 ....\glue 0.0
@@ -378,7 +378,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.73604 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.736 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x7.50002
 .........\special{pdf:code 0 G }
@@ -426,7 +426,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -42.95859 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -42.95805 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -445,7 +445,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49069 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49066 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.00002
 .........\special{pdf:code 0 G }
@@ -493,7 +493,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.18327 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -51.18263 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -512,7 +512,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.76741 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.76738 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.55551
 .........\special{pdf:code 0 G }
@@ -560,7 +560,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -34.73393 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -34.73349 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -589,7 +589,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.45377 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.45355 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -608,7 +608,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.76741 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.76738 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.55551
 .........\special{pdf:code 0 G }
@@ -656,7 +656,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.45377 -59.86282}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.45355 -59.86208}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -675,7 +675,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.59753 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.5975 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.88875+0.0)x7.222
 .........\special{pdf:code 0 G }
@@ -713,7 +713,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.45377 -87.392}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.45355 -87.39088}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -732,7 +732,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.21397 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.21396 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x4.44452
 .........\special{pdf:code 0 G }
@@ -780,7 +780,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 10.40414 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 10.40404 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -799,7 +799,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -1.52206 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -1.52205 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x3.05551
 .........\special{pdf:code 0 G }
@@ -847,7 +847,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.31786 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 2.31784 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -866,7 +866,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49069 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49066 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.00002
 .........\special{pdf:code 0 G }
@@ -914,7 +914,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 18.49043 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 18.4902 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -943,7 +943,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 25.6179 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 25.6176 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -972,7 +972,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 42.95857 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 42.95804 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -991,7 +991,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.62917 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.62914 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.278
 .........\special{pdf:code 0 G }
@@ -1039,7 +1039,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 34.80304 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 34.8026 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1058,7 +1058,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.62917 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.62914 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.278
 .........\special{pdf:code 0 G }
@@ -1106,7 +1106,7 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 51.11412 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 51.11348 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1127,62 +1127,15 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code -42.95859 -18.7957 l }
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code -42.95805 -18.79547 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -42.95859 -37.79066 m }
-....\special{pdf:code -51.18327 -49.47992 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code -11.71996 -75.5035 m }
-....\special{pdf:code -4.93665 -68.72018 -49.7419 -31.00735 -42.95859 -37.79066 c }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code -17.45377 -18.7957 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code -17.45377 -37.79066 m }
-....\special{pdf:code -17.45377 -49.47992 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code -17.45377 -75.5035 m }
-....\special{pdf:code -17.45377 -63.38264 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code 10.40414 -18.7957 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 10.40414 -37.79066 m }
-....\special{pdf:code 2.31786 -49.47992 l }
+....\special{pdf:code -42.95805 -37.79019 m }
+....\special{pdf:code -51.18263 -49.4793 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1191,8 +1144,45 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 37.34813 -49.47992 m }
-....\special{pdf:code 40.17986 -38.91174 -25.1902 -30.05423 -17.45377 -37.79066 c }
+....\special{pdf:code -11.71982 -75.50253 m }
+....\special{pdf:code -4.9366 -68.71931 -49.74127 -31.00697 -42.95805 -37.79019 c }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code -17.45355 -18.79547 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code -17.45355 -37.79019 m }
+....\special{pdf:code -17.45355 -49.4793 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code -17.45355 -75.50253 m }
+....\special{pdf:code -17.45355 -63.38185 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code 10.40404 -18.79547 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 10.40404 -37.79019 m }
+....\special{pdf:code 2.31784 -49.4793 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1201,15 +1191,8 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -37.47496 -18.7957 m }
-....\special{pdf:code -29.41373 -4.83318 31.55824 -26.39032 42.95857 -37.79066 c }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code 42.95857 -18.7957 l }
+....\special{pdf:code 37.34766 -49.4793 m }
+....\special{pdf:code 40.17935 -38.91125 -25.1899 -30.05385 -17.45355 -37.79019 c }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1218,8 +1201,15 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 40.95203 -55.42712 m }
-....\special{pdf:code 43.9535 -53.69421 40.50789 -35.33997 42.95857 -37.79066 c }
+....\special{pdf:code -37.4745 -18.79547 m }
+....\special{pdf:code -29.41336 -4.83313 31.55785 -26.39 42.95804 -37.79019 c }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code 42.95804 -18.79547 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1228,8 +1218,18 @@ TEST 2: curve to also parent, curve to also parent+, multidom, multi, also paren
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 8.32837 -49.47992 m }
-....\special{pdf:code 13.3781 -44.43019 37.90884 -32.74094 42.95857 -37.79066 c }
+....\special{pdf:code 40.9515 -55.42642 m }
+....\special{pdf:code 43.95296 -53.69354 40.50737 -35.33952 42.95804 -37.79019 c }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 8.32828 -49.4793 m }
+....\special{pdf:code 13.37794 -44.42963 37.90837 -32.74052 42.95804 -37.79019 c }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -1269,7 +1269,7 @@ TEST 3: pretty nice empty nodes
 ...\special{pdf:code q }
 ...\special{pdf:code 0 G }
 ...\special{pdf:code 0 g }
-...\special{pdf:code 0.3985 w }
+...\special{pdf:code 0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\special{pdf:code q }
 ....\glue 0.0
@@ -1341,7 +1341,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -20.4438 -41.78381}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -20.44354 -41.7833}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1360,7 +1360,7 @@ TEST 3: pretty nice empty nodes
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49069 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49066 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.00002
 .........\special{pdf:code 0 G }
@@ -1408,7 +1408,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.09364 -52.45924}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.09357 -52.45857}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1466,7 +1466,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.09364 -79.9884}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.09357 -79.9874}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1524,7 +1524,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -25.39243 -107.51758}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -25.3921 -107.5162}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1582,7 +1582,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.0954 -107.51758}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.09532 -107.5162}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1601,7 +1601,7 @@ TEST 3: pretty nice empty nodes
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.76741 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.76738 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.55551
 .........\special{pdf:code 0 G }
@@ -1649,7 +1649,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 11.20505 -107.51758}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 11.20493 -107.5162}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1707,7 +1707,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 11.20505 -135.04675}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 11.20493 -135.04503}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1726,7 +1726,7 @@ TEST 3: pretty nice empty nodes
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.59753 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.5975 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(6.88875+0.0)x7.222
 .........\special{pdf:code 0 G }
@@ -1764,7 +1764,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 11.20505 -162.57593}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 11.20493 -162.57384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1783,7 +1783,7 @@ TEST 3: pretty nice empty nodes
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.21397 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.21396 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x4.44452
 .........\special{pdf:code 0 G }
@@ -1831,7 +1831,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 20.44408 -41.78381}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 20.44383 -41.7833}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1850,7 +1850,7 @@ TEST 3: pretty nice empty nodes
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -1.52206 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -1.52205 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x3.05551
 .........\special{pdf:code 0 G }
@@ -1898,7 +1898,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 12.2595 -72.46803}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 12.25937 -72.46712}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -1917,7 +1917,7 @@ TEST 3: pretty nice empty nodes
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49069 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -2.49066 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x5.00002
 .........\special{pdf:code 0 G }
@@ -1965,7 +1965,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.46419 -72.46803}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.46373 -72.46712}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2023,7 +2023,7 @@ TEST 3: pretty nice empty nodes
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.46419 -99.99721}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.46373 -99.99593}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2074,86 +2074,86 @@ TEST 3: pretty nice empty nodes
 ....\glue 0.0
 ....\glue 0.0
 ....\special{pdf:code 0.0 -0.69739 m }
-....\special{pdf:code -20.4438 -29.89531 l }
+....\special{pdf:code -20.44354 -29.89494 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\special{pdf:code 0.0 -0.69739 m }
-....\special{pdf:code -7.09364 -53.15663 l }
+....\special{pdf:code -7.09357 -53.15596 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -7.09364 -53.15663 m }
-....\special{pdf:code -7.09364 -80.6858 l }
+....\special{pdf:code -7.09357 -53.15596 m }
+....\special{pdf:code -7.09357 -80.68477 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -7.09364 -80.6858 m }
-....\special{pdf:code -25.39243 -108.21497 l }
+....\special{pdf:code -7.09357 -80.68477 m }
+....\special{pdf:code -25.3921 -108.2136 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -7.09364 -80.6858 m }
-....\special{pdf:code -7.0954 -95.62907 l }
+....\special{pdf:code -7.09357 -80.68477 m }
+....\special{pdf:code -7.09532 -95.62785 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -7.09364 -80.6858 m }
-....\special{pdf:code 11.20505 -108.21497 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 11.20505 -108.21497 m }
-....\special{pdf:code 11.20505 -124.66385 l }
+....\special{pdf:code -7.09357 -80.68477 m }
+....\special{pdf:code 11.20493 -108.2136 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 11.20505 -150.68741 m }
-....\special{pdf:code 11.20505 -138.56657 l }
+....\special{pdf:code 11.20493 -108.2136 m }
+....\special{pdf:code 11.20493 -124.66226 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 11.20493 -150.68549 m }
+....\special{pdf:code 11.20493 -138.5648 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\special{pdf:code 0.0 -0.69739 m }
-....\special{pdf:code 20.44408 -29.89531 l }
+....\special{pdf:code 20.44383 -29.89494 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 20.44408 -48.89027 m }
-....\special{pdf:code 12.2595 -60.57953 l }
+....\special{pdf:code 20.44383 -48.88965 m }
+....\special{pdf:code 12.25937 -60.57877 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 20.44408 -48.89027 m }
-....\special{pdf:code 36.46419 -73.16542 l }
+....\special{pdf:code 20.44383 -48.88965 m }
+....\special{pdf:code 36.46373 -73.1645 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 36.46419 -73.16542 m }
-....\special{pdf:code 36.46419 -100.6946 l }
+....\special{pdf:code 36.46373 -73.1645 m }
+....\special{pdf:code 36.46373 -100.69331 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2204,7 +2204,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ...\special{pdf:code q }
 ...\special{pdf:code 0 G }
 ...\special{pdf:code 0 g }
-...\special{pdf:code 0.3985 w }
+...\special{pdf:code 0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\special{pdf:code q }
 ....\glue 0.0
@@ -2237,7 +2237,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.98763 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.98755 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x14.02751
 .........\special{pdf:code 0 G }
@@ -2286,7 +2286,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -47.55774 -87.37785}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -47.55714 -87.37674}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2305,7 +2305,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.19536 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.19528 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x14.44452
 .........\special{pdf:code 0 G }
@@ -2354,7 +2354,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -66.8516 -118.06207}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -66.85074 -118.06056}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2373,7 +2373,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.91864 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.91856 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+15.60004)x13.88902
 .........\special{pdf:code 0 G }
@@ -2433,7 +2433,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -28.2639 -118.06207}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -28.26355 -118.06056}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2452,7 +2452,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.98825 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.98804 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+15.60004)x36.11096
 .........\special{pdf:code 0 G }
@@ -2518,7 +2518,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 33.38434 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 33.38393 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2537,7 +2537,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -4.9951 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -4.99506 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x10.02757
 .........\special{pdf:code 0 G }
@@ -2589,7 +2589,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 21.18211 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 21.18185 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2608,7 +2608,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.59755 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.59752 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x7.22202
 .........\special{pdf:code 0 G }
@@ -2656,7 +2656,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 45.58658 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 45.586 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2675,7 +2675,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.12611 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.12604 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x14.30551
 .........\special{pdf:code 0 G }
@@ -2724,7 +2724,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.17859 -92.05266}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.17813 -92.05148}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2753,7 +2753,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 54.99457 -92.05266}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 54.99387 -92.05148}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2772,7 +2772,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.13359 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.13354 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x10.30557
 .........\special{pdf:code 0 G }
@@ -2824,7 +2824,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 54.99457 -122.73688}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 54.99387 -122.7353}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -2843,7 +2843,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -15.27625 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -15.27606 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+15.60004)x30.66669
 .........\special{pdf:code 0 G }
@@ -2903,43 +2903,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -47.55774 -75.48933 m }
-....\special{pdf:code -47.55774 -59.1715 -11.53847 4.432 0.0 -7.10645 c }
+....\special{pdf:code -47.55714 -75.48837 m }
+....\special{pdf:code -47.55714 -59.17075 -11.53833 4.43196 0.0 -7.10637 c }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -47.55774 -94.4843 m }
-....\special{pdf:code -66.8516 -106.17355 l }
+....\special{pdf:code -47.55714 -94.4831 m }
+....\special{pdf:code -66.85074 -106.17221 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -47.55774 -94.4843 m }
-....\special{pdf:code -28.2639 -106.17355 l }
+....\special{pdf:code -47.55714 -94.4831 m }
+....\special{pdf:code -28.26355 -106.17221 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code 33.38434 -18.7957 l }
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code 33.38393 -18.79547 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 33.38434 -37.79066 m }
-....\special{pdf:code 21.18211 -49.47992 l }
+....\special{pdf:code 33.38393 -37.79019 m }
+....\special{pdf:code 21.18185 -49.4793 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 33.38434 -37.79066 m }
-....\special{pdf:code 45.58658 -49.47992 l }
+....\special{pdf:code 33.38393 -37.79019 m }
+....\special{pdf:code 45.586 -49.4793 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2948,22 +2948,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -36.84254 -84.98682 m }
-....\special{pdf:code -20.38586 -84.98682 33.94994 -56.83824 45.58658 -68.47488 c }
+....\special{pdf:code -36.84209 -84.98573 m }
+....\special{pdf:code -20.38562 -84.98573 33.94951 -56.83752 45.586 -68.47401 c }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 45.58658 -68.47488 m }
-....\special{pdf:code 54.99457 -80.16414 l }
+....\special{pdf:code 45.586 -68.47401 m }
+....\special{pdf:code 54.99387 -80.16313 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 54.99457 -99.1591 m }
-....\special{pdf:code 54.99457 -110.84836 l }
+....\special{pdf:code 54.99387 -99.15784 m }
+....\special{pdf:code 54.99387 -110.84695 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -3033,7 +3033,7 @@ TEST 5: other multidom parents
 ...\special{pdf:code q }
 ...\special{pdf:code 0 G }
 ...\special{pdf:code 0 g }
-...\special{pdf:code 0.3985 w }
+...\special{pdf:code 0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\special{pdf:code q }
 ....\glue 0.0
@@ -3066,7 +3066,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.98763 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.98755 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x14.02751
 .........\special{pdf:code 0 G }
@@ -3115,7 +3115,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -47.55774 -87.37785}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -47.55714 -87.37674}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3134,7 +3134,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.19536 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.19528 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x14.44452
 .........\special{pdf:code 0 G }
@@ -3183,7 +3183,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -66.8516 -118.06207}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -66.85074 -118.06056}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3202,7 +3202,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.91864 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -6.91856 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+15.60004)x13.88902
 .........\special{pdf:code 0 G }
@@ -3262,7 +3262,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -28.2639 -118.06207}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -28.26355 -118.06056}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3281,7 +3281,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.98825 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -17.98804 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+15.60004)x36.11096
 .........\special{pdf:code 0 G }
@@ -3347,7 +3347,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 33.38434 -30.68422}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 33.38393 -30.68384}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3366,7 +3366,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -4.9951 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -4.99506 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x10.02757
 .........\special{pdf:code 0 G }
@@ -3418,7 +3418,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 21.18211 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 21.18185 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3437,7 +3437,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.59755 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -3.59752 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x7.22202
 .........\special{pdf:code 0 G }
@@ -3485,7 +3485,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 45.58658 -61.36844}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 45.586 -61.36766}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3504,7 +3504,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.12611 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -7.12604 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x14.30551
 .........\special{pdf:code 0 G }
@@ -3553,7 +3553,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.17859 -92.05266}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 36.17813 -92.05148}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3582,7 +3582,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 54.99457 -92.05266}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 54.99387 -92.05148}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3601,7 +3601,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.13359 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -5.13354 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+3.60004)x10.30557
 .........\special{pdf:code 0 G }
@@ -3653,7 +3653,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 40.51465 -122.73688}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 40.51414 -122.7353}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3682,7 +3682,7 @@ TEST 5: other multidom parents
 ....\special{pdf:code 0 J [] 0 d}
 ....\special{pdf:bcolor [1]}
 ....\special{pdf:bcolor [0]}
-....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 69.47446 -122.73688}
+....\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 69.47359 -122.7353}
 ....\hbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0
 ......\special{pdf:bcontent}
@@ -3701,7 +3701,7 @@ TEST 5: other multidom parents
 .......\special{pdf:code 0 J [] 0 d}
 .......\special{pdf:bcolor [1]}
 .......\special{pdf:bcolor [0]}
-.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -15.27625 0.0}
+.......\special{pdf:btrans matrix 1.0 0.0 0.0 1.0 -15.27606 0.0}
 .......\hbox(0.0+0.0)x0.0
 ........\hbox(8.39996+15.60004)x30.66669
 .........\special{pdf:code 0 G }
@@ -3761,60 +3761,43 @@ TEST 5: other multidom parents
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -47.55774 -75.48933 m }
-....\special{pdf:code -47.55774 -59.1715 -11.53847 4.432 0.0 -7.10645 c }
+....\special{pdf:code -47.55714 -75.48837 m }
+....\special{pdf:code -47.55714 -59.17075 -11.53833 4.43196 0.0 -7.10637 c }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -47.55774 -94.4843 m }
-....\special{pdf:code -66.8516 -106.17355 l }
+....\special{pdf:code -47.55714 -94.4831 m }
+....\special{pdf:code -66.85074 -106.17221 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code -47.55774 -94.4843 m }
-....\special{pdf:code -28.2639 -106.17355 l }
+....\special{pdf:code -47.55714 -94.4831 m }
+....\special{pdf:code -28.26355 -106.17221 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 0.0 -7.10645 m }
-....\special{pdf:code 33.38434 -18.7957 l }
+....\special{pdf:code 0.0 -7.10637 m }
+....\special{pdf:code 33.38393 -18.79547 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 33.38434 -37.79066 m }
-....\special{pdf:code 21.18211 -49.47992 l }
+....\special{pdf:code 33.38393 -37.79019 m }
+....\special{pdf:code 21.18185 -49.4793 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 33.38434 -37.79066 m }
-....\special{pdf:code 45.58658 -49.47992 l }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code -36.84254 -84.98682 m }
-....\special{pdf:code -20.38586 -84.98682 33.94994 -56.83824 45.58658 -68.47488 c }
-....\special{pdf:code S }
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\glue 0.0
-....\special{pdf:code 45.58658 -68.47488 m }
-....\special{pdf:code 54.99457 -80.16414 l }
+....\special{pdf:code 33.38393 -37.79019 m }
+....\special{pdf:code 45.586 -49.4793 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
@@ -3823,16 +3806,33 @@ TEST 5: other multidom parents
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\glue 0.0
-....\special{pdf:code -36.84254 -94.4843 m }
-....\special{pdf:code -24.131 -107.19586 42.283 -86.44754 54.99457 -99.1591 c }
+....\special{pdf:code -36.84209 -84.98573 m }
+....\special{pdf:code -20.38562 -84.98573 33.94951 -56.83752 45.586 -68.47401 c }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\special{pdf:code 54.99457 -99.1591 m }
-....\special{pdf:code 69.47446 -110.84836 l }
+....\special{pdf:code 45.586 -68.47401 m }
+....\special{pdf:code 54.99387 -80.16313 l }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code -36.84209 -94.4831 m }
+....\special{pdf:code -24.13069 -107.19449 42.28247 -86.44644 54.99387 -99.15784 c }
+....\special{pdf:code S }
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\glue 0.0
+....\special{pdf:code 54.99387 -99.15784 m }
+....\special{pdf:code 69.47359 -110.84695 l }
 ....\special{pdf:code S }
 ....\glue 0.0
 ....\glue 0.0

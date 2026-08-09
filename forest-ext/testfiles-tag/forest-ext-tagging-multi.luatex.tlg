@@ -87,7 +87,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -115,7 +115,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -154,7 +156,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -212,7 +216,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.64, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -251,7 +257,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -290,7 +298,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 E
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -329,7 +339,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.53, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 F
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -368,7 +380,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.85, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 G
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -426,7 +440,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x5.14, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 J
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -465,7 +481,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 H
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -504,7 +522,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x3.61, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 I
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -543,7 +563,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.78, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 K
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -582,7 +604,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x6.25, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 L
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -640,7 +664,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 N
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -679,7 +705,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x9.17, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 M
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -698,8 +726,8 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-7.25584 0.57547 m }
-....\pdfliteral origin{-60.48477 -21.37968 l }
+....\pdfliteral origin{-7.25577 0.57547 m }
+....\pdfliteral origin{-60.48401 -21.37943 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -711,67 +739,8 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-50.40173 -45.04645 m }
-....\pdfliteral origin{-43.63055 -31.42441 l }
-....\pdfliteral origin{S }
-....\hbox(0.0+0.0)x0.0, direction TLT
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-57.26447 -45.04645 m }
-......\pdfliteral origin{-64.10933 -31.20523 l }
-......\pdfliteral origin{S }
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-7.25584 -1.47386 m }
-....\pdfliteral origin{-32.96533 -19.34155 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.233 -3.5198 m }
-....\pdfliteral origin{0.6893 -17.39091 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{-26.33023 -47.84752 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{-7.72752 -44.82727 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{7.89832 -74.66174 m }
-....\pdfliteral origin{29.61765 -56.4307 l }
+....\pdfliteral origin{-50.4011 -45.04588 m }
+....\pdfliteral origin{-43.63 -31.42403 l }
 ....\pdfliteral origin{S }
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, direction TLT
@@ -781,32 +750,8 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-4.26216 -74.92746 m }
-......\pdfliteral origin{-26.33023 -57.36908 l }
-......\pdfliteral origin{S }
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-1.7426 -72.73187 m }
-......\pdfliteral origin{-8.64143 -59.10983 l }
-......\pdfliteral origin{S }
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{5.3351 -72.73187 m }
-......\pdfliteral origin{12.25844 -58.89064 l }
+......\pdfliteral origin{-57.26373 -45.04588 m }
+......\pdfliteral origin{-64.10852 -31.20485 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -815,16 +760,9 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{10.78616 -45.04645 l }
-....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{29.61765 -48.72322 l }
+....\pdfliteral origin{-7.25577 -1.47385 m }
+....\pdfliteral origin{-32.96492 -19.34131 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -832,8 +770,24 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{7.25584 0.57613 m }
-....\pdfliteral origin{60.13606 -21.23602 l }
+....\pdfliteral origin{0.23302 -3.51978 m }
+....\pdfliteral origin{0.6893 -17.39072 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{-26.32991 -47.84692 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{-7.72743 -44.8267 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -841,20 +795,11 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{64.03076 -31.20523 m }
-....\pdfliteral origin{57.0288 -45.04645 l }
-....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{66.80374 -72.73187 m }
-....\pdfliteral origin{76.62457 -58.89064 l }
+....\pdfliteral origin{7.89822 -74.6608 m }
+....\pdfliteral origin{29.61728 -56.42998 l }
 ....\pdfliteral origin{S }
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, direction TLT
@@ -862,8 +807,91 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{66.80374 -72.73187 m }
-......\pdfliteral origin{57.95311 -58.89064 l }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-4.26212 -74.92651 m }
+......\pdfliteral origin{-26.32991 -57.36836 l }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-1.74258 -72.73094 m }
+......\pdfliteral origin{-8.64134 -59.10909 l }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{5.33504 -72.73094 m }
+......\pdfliteral origin{12.2583 -58.88991 l }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{10.78604 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{29.61728 -48.7226 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{7.25577 0.57614 m }
+....\pdfliteral origin{60.13531 -21.23576 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{64.02995 -31.20485 m }
+....\pdfliteral origin{57.02808 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{66.8029 -72.73094 m }
+....\pdfliteral origin{76.6236 -58.88991 l }
+....\pdfliteral origin{S }
+....\hbox(0.0+0.0)x0.0, direction TLT
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{66.8029 -72.73094 m }
+......\pdfliteral origin{57.95238 -58.88991 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -873,8 +901,8 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{71.03206 -31.20523 m }
-....\pdfliteral origin{78.03401 -45.04645 l }
+....\pdfliteral origin{71.03116 -31.20485 m }
+....\pdfliteral origin{78.03302 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -893,7 +921,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -940,12 +968,14 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x20.56, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 C
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 l
 ..............\TU/lmr/m/n/10 l
 ..............\TU/lmr/m/n/10 a
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -984,6 +1014,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x29.59, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 E
 ..............\TU/lmr/m/n/10 u
@@ -993,6 +1024,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 c
 ..............\TU/lmr/m/n/10 e
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1031,6 +1063,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x77.54, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 A
 ..............\TU/lmr/m/n/10 b
@@ -1053,6 +1086,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ..............\TU/lmr/m/n/10 m
 ..............\TU/lmr/m/n/10 a
 ..............\TU/lmr/m/n/10 n
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1091,11 +1125,13 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x21.26, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 J
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 h
 ..............\TU/lmr/m/n/10 n
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1134,11 +1170,13 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x18.47, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 L
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 z
 ..............\TU/lmr/m/n/10 a
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1177,12 +1215,14 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x24.58, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 D
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 c
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 y
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1221,12 +1261,14 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x26.85, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 J
 ..............\TU/lmr/m/n/10 a
 ..............\TU/lmr/m/n/10 m
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 s
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1265,6 +1307,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x38.9, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 M
 ..............\TU/lmr/m/n/10 a
@@ -1277,6 +1320,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 t
 ..............\TU/lmr/m/n/10 h
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1315,6 +1359,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x32.22, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 S
 ..............\TU/lmr/m/n/10 a
@@ -1322,6 +1367,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ..............\TU/lmr/m/n/10 m
 ..............\kern-0.28 (font)
 ..............\TU/lmr/m/n/10 y
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1360,6 +1406,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x73.92, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 F
 ..............\kern-0.83 (font)
@@ -1386,6 +1433,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ..............\kern-0.28 (font)
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 r
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1500,6 +1548,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x31.39, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 S
 ..............\TU/lmr/m/n/10 a
@@ -1508,6 +1557,7 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ..............\TU/lmr/m/n/10 u
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 l
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1546,11 +1596,13 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x21.26, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 J
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 h
 ..............\TU/lmr/m/n/10 n
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1624,125 +1676,80 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{0.0 -4.98138 l }
-....\pdfliteral origin{-73.83228 -4.98138 l }
-....\pdfliteral origin{-73.83228 -15.7969 l }
+....\pdfliteral origin{0.0 -4.98132 l }
+....\pdfliteral origin{-73.83134 -4.98132 l }
+....\pdfliteral origin{-73.83134 -15.7967 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-73.83228 -34.79187 m }
-....\pdfliteral origin{-73.83228 -39.77325 l }
-....\pdfliteral origin{-73.83228 -39.77325 l }
-....\pdfliteral origin{-73.83228 -46.48112 l }
+....\pdfliteral origin{-73.83134 -34.79143 m }
+....\pdfliteral origin{-73.83134 -39.77275 l }
+....\pdfliteral origin{-73.83134 -39.77275 l }
+....\pdfliteral origin{-73.83134 -46.48053 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{0.0 -4.98138 l }
-....\pdfliteral origin{73.83228 -4.98138 l }
-....\pdfliteral origin{73.83228 -15.7969 l }
+....\pdfliteral origin{0.0 -4.98132 l }
+....\pdfliteral origin{73.83134 -4.98132 l }
+....\pdfliteral origin{73.83134 -15.7967 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{73.83228 -34.79187 m }
-....\pdfliteral origin{73.83228 -39.77325 l }
-....\pdfliteral origin{-34.82117 -39.77325 l }
-....\pdfliteral origin{-34.82117 -46.48112 l }
+....\pdfliteral origin{73.83134 -34.79143 m }
+....\pdfliteral origin{73.83134 -39.77275 l }
+....\pdfliteral origin{-34.82074 -39.77275 l }
+....\pdfliteral origin{-34.82074 -46.48053 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{73.83228 -34.79187 m }
-....\pdfliteral origin{73.83228 -39.77325 l }
-....\pdfliteral origin{-1.34937 -39.77325 l }
-....\pdfliteral origin{-1.34937 -46.48112 l }
+....\pdfliteral origin{73.83134 -34.79143 m }
+....\pdfliteral origin{73.83134 -39.77275 l }
+....\pdfliteral origin{-1.34937 -39.77275 l }
+....\pdfliteral origin{-1.34937 -46.48053 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{-68.77026 -70.45747 l }
-....\pdfliteral origin{-68.77026 -77.16534 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{-68.7694 -70.45657 l }
+....\pdfliteral origin{-68.7694 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{-29.47023 -70.45747 l }
-....\pdfliteral origin{-29.47023 -77.16534 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{-29.46986 -70.45657 l }
+....\pdfliteral origin{-29.46986 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{16.96313 -70.45747 l }
-....\pdfliteral origin{16.96313 -77.16534 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{16.96294 -70.45657 l }
+....\pdfliteral origin{16.96294 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{66.07152 -70.45747 l }
-....\pdfliteral origin{66.07152 -77.16534 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-68.77026 -77.16534 m }
-....\pdfliteral origin{-68.77026 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-29.47023 -77.16534 m }
-....\pdfliteral origin{-29.47023 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{16.96313 -77.16534 m }
-....\pdfliteral origin{16.96313 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{66.07152 -77.16534 m }
-....\pdfliteral origin{66.07152 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{73.83228 -34.79187 m }
-....\pdfliteral origin{73.83228 -39.77325 l }
-....\pdfliteral origin{182.48573 -39.77325 l }
-....\pdfliteral origin{182.48573 -46.48112 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{66.07068 -70.45657 l }
+....\pdfliteral origin{66.07068 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1750,26 +1757,71 @@ Overfull \hbox (169.21144pt too wide) in paragraph at lines ...
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-34.82117 -46.48112 m }
-....\pdfliteral origin{-34.82117 -39.77325 l }
-....\pdfliteral origin{225.53535 -39.77325 l }
-....\pdfliteral origin{225.53535 -34.79187 l }
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{-68.7694 -77.16437 m }
+....\pdfliteral origin{-68.7694 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -46.48112 m }
-....\pdfliteral origin{-1.34937 -39.77325 l }
-....\pdfliteral origin{225.53535 -39.77325 l }
-....\pdfliteral origin{225.53535 -34.79187 l }
+....\pdfliteral origin{-29.46986 -77.16437 m }
+....\pdfliteral origin{-29.46986 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{182.48573 -46.48112 m }
-....\pdfliteral origin{182.48573 -39.77325 l }
-....\pdfliteral origin{225.53535 -39.77325 l }
-....\pdfliteral origin{225.53535 -34.79187 l }
+....\pdfliteral origin{16.96294 -77.16437 m }
+....\pdfliteral origin{16.96294 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{66.07068 -77.16437 m }
+....\pdfliteral origin{66.07068 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{73.83134 -34.79143 m }
+....\pdfliteral origin{73.83134 -39.77275 l }
+....\pdfliteral origin{182.48338 -39.77275 l }
+....\pdfliteral origin{182.48338 -46.48053 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{-34.82074 -46.48053 m }
+....\pdfliteral origin{-34.82074 -39.77275 l }
+....\pdfliteral origin{225.53247 -39.77275 l }
+....\pdfliteral origin{225.53247 -34.79143 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{-1.34937 -46.48053 m }
+....\pdfliteral origin{-1.34937 -39.77275 l }
+....\pdfliteral origin{225.53247 -39.77275 l }
+....\pdfliteral origin{225.53247 -34.79143 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{182.48338 -46.48053 m }
+....\pdfliteral origin{182.48338 -39.77275 l }
+....\pdfliteral origin{225.53247 -39.77275 l }
+....\pdfliteral origin{225.53247 -34.79143 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0

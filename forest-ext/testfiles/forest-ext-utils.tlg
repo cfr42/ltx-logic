@@ -12,7 +12,7 @@ TEST 1: utils: align middle child(ren)
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -397,8 +397,8 @@ TEST 1: utils: align middle child(ren)
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-10.71257 -2.7346 m }
-....\pdfliteral{-42.64755 -17.14417 l }
+....\pdfliteral{-10.71245 -2.73457 m }
+....\pdfliteral{-42.64702 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -406,8 +406,8 @@ TEST 1: utils: align middle child(ren)
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -5.45572 m }
-....\pdfliteral{0.0 -17.14417 l }
+....\pdfliteral{0.0 -5.45567 m }
+....\pdfliteral{0.0 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -415,43 +415,43 @@ TEST 1: utils: align middle child(ren)
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{10.71257 -1.74976 m }
-....\pdfliteral{53.58745 -17.14417 l }
+....\pdfliteral{10.71245 -1.74974 m }
+....\pdfliteral{53.58678 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{110.49371 -30.71518 m }
-....\pdfliteral{76.0057 -47.98642 l }
+....\pdfliteral{110.49231 -30.7148 m }
+....\pdfliteral{76.00475 -47.98582 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{110.49371 -30.71518 m }
-....\pdfliteral{96.60669 -44.6689 l }
+....\pdfliteral{110.49231 -30.7148 m }
+....\pdfliteral{96.60547 -44.66833 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{110.49371 -30.71518 m }
-....\pdfliteral{110.49371 -44.6689 l }
+....\pdfliteral{110.49231 -30.7148 m }
+....\pdfliteral{110.49231 -44.66833 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{110.49371 -30.71518 m }
-....\pdfliteral{124.56548 -44.6689 l }
+....\pdfliteral{110.49231 -30.7148 m }
+....\pdfliteral{124.56389 -44.66833 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{110.49371 -30.71518 m }
-....\pdfliteral{145.53508 -48.17729 l }
+....\pdfliteral{110.49231 -30.7148 m }
+....\pdfliteral{145.53322 -48.1767 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -480,7 +480,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -1950,190 +1950,190 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{-67.25208 -18.79407 l }
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{-67.25122 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-67.25208 -37.78738 m }
-....\pdfliteral{-115.21242 -49.47581 l }
+....\pdfliteral{-67.25122 -37.78691 m }
+....\pdfliteral{-115.21094 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-115.21242 -68.46915 m }
-....\pdfliteral{-167.77472 -80.15758 l }
+....\pdfliteral{-115.21094 -68.46828 m }
+....\pdfliteral{-167.77258 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-115.21242 -68.46915 m }
-....\pdfliteral{-146.69615 -80.15758 l }
+....\pdfliteral{-115.21094 -68.46828 m }
+....\pdfliteral{-146.69427 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-115.21242 -68.46915 m }
-....\pdfliteral{-124.58003 -80.15758 l }
+....\pdfliteral{-115.21094 -68.46828 m }
+....\pdfliteral{-124.57845 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-115.21242 -68.46915 m }
-....\pdfliteral{-102.87894 -80.15758 l }
+....\pdfliteral{-115.21094 -68.46828 m }
+....\pdfliteral{-102.87762 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-115.21242 -68.46915 m }
-....\pdfliteral{-82.69534 -80.15758 l }
+....\pdfliteral{-115.21094 -68.46828 m }
+....\pdfliteral{-82.6943 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-82.69534 -99.1509 m }
-....\pdfliteral{-94.2376 -110.83934 l }
+....\pdfliteral{-82.6943 -99.14963 m }
+....\pdfliteral{-94.23639 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-82.69534 -99.1509 m }
-....\pdfliteral{-71.1531 -110.83934 l }
+....\pdfliteral{-82.6943 -99.14963 m }
+....\pdfliteral{-71.1522 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-115.21242 -68.46915 m }
-....\pdfliteral{-62.6501 -80.15758 l }
+....\pdfliteral{-115.21094 -68.46828 m }
+....\pdfliteral{-62.6493 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-67.25208 -37.78738 m }
-....\pdfliteral{-67.25208 -49.47581 l }
+....\pdfliteral{-67.25122 -37.78691 m }
+....\pdfliteral{-67.25122 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-67.25208 -37.78738 m }
-....\pdfliteral{-17.20343 -49.47581 l }
+....\pdfliteral{-67.25122 -37.78691 m }
+....\pdfliteral{-17.20323 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{0.0 -7.10562 m }
-....\pdfliteral{67.25208 -18.79407 l }
+....\pdfliteral{0.0 -7.10555 m }
+....\pdfliteral{67.25122 -18.79384 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{67.25208 -37.78738 m }
-....\pdfliteral{25.60226 -49.47581 l }
+....\pdfliteral{67.25122 -37.78691 m }
+....\pdfliteral{25.60196 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{25.60226 -68.46915 m }
-....\pdfliteral{3.78111 -80.15758 l }
+....\pdfliteral{25.60196 -68.46828 m }
+....\pdfliteral{3.78108 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{25.60226 -68.46915 m }
-....\pdfliteral{25.60226 -80.15758 l }
+....\pdfliteral{25.60196 -68.46828 m }
+....\pdfliteral{25.60196 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{25.60226 -99.1509 m }
-....\pdfliteral{15.37424 -110.83934 l }
+....\pdfliteral{25.60196 -99.14963 m }
+....\pdfliteral{15.37405 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{25.60226 -99.1509 m }
-....\pdfliteral{35.83029 -110.83934 l }
+....\pdfliteral{25.60196 -99.14963 m }
+....\pdfliteral{35.82985 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{25.60226 -68.46915 m }
-....\pdfliteral{52.05774 -80.15758 l }
+....\pdfliteral{25.60196 -68.46828 m }
+....\pdfliteral{52.05708 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{67.25208 -37.78738 m }
-....\pdfliteral{108.90187 -49.47581 l }
+....\pdfliteral{67.25122 -37.78691 m }
+....\pdfliteral{108.90048 -49.47519 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{108.90187 -68.46915 m }
-....\pdfliteral{99.51828 -80.15758 l }
+....\pdfliteral{108.90048 -68.46828 m }
+....\pdfliteral{99.51701 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{99.51828 -99.1509 m }
-....\pdfliteral{78.71638 -110.83934 l }
+....\pdfliteral{99.51701 -99.14963 m }
+....\pdfliteral{78.71538 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{99.51828 -99.1509 m }
-....\pdfliteral{99.51828 -110.83934 l }
+....\pdfliteral{99.51701 -99.14963 m }
+....\pdfliteral{99.51701 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{99.51828 -99.1509 m }
-....\pdfliteral{119.58304 -110.83934 l }
+....\pdfliteral{99.51701 -99.14963 m }
+....\pdfliteral{119.58151 -110.83792 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{119.58304 -129.83266 m }
-....\pdfliteral{109.11292 -141.52109 l }
+....\pdfliteral{119.58151 -129.831 m }
+....\pdfliteral{109.11153 -141.51929 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{119.58304 -129.83266 m }
-....\pdfliteral{130.05316 -141.52109 l }
+....\pdfliteral{119.58151 -129.831 m }
+....\pdfliteral{130.0515 -141.51929 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{108.90187 -68.46915 m }
-....\pdfliteral{118.28545 -80.15758 l }
+....\pdfliteral{108.90048 -68.46828 m }
+....\pdfliteral{118.28394 -80.15656 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2159,7 +2159,7 @@ TEST 3: utils: outer label
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -2331,8 +2331,8 @@ TEST 3: utils: outer label
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-2.62587 -3.519 m }
-....\pdfliteral{-7.77495 -17.14417 l }
+....\pdfliteral{-2.62585 -3.51897 m }
+....\pdfliteral{-7.77487 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2340,8 +2340,8 @@ TEST 3: utils: outer label
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-10.40094 -31.04373 m }
-....\pdfliteral{-10.40094 -44.6689 l }
+....\pdfliteral{-10.40082 -31.04333 m }
+....\pdfliteral{-10.40082 -44.66833 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2349,8 +2349,8 @@ TEST 3: utils: outer label
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{2.62587 -3.519 m }
-....\pdfliteral{7.77495 -17.14417 l }
+....\pdfliteral{2.62585 -3.51897 m }
+....\pdfliteral{7.77487 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\hbox(0.0+0.0)x0.0
@@ -2451,7 +2451,7 @@ TEST 4: utils: outer labels at
 ...\pdfliteral{q }
 ...\pdfliteral{0 G }
 ...\pdfliteral{0 g }
-...\pdfliteral{0.3985 w }
+...\pdfliteral{0.39851 w }
 ...\hbox(0.0+0.0)x0.0
 ....\pdfliteral{q }
 ....\glue 0.0
@@ -2623,8 +2623,8 @@ TEST 4: utils: outer labels at
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-2.62587 -3.519 m }
-....\pdfliteral{-7.77495 -17.14417 l }
+....\pdfliteral{-2.62585 -3.51897 m }
+....\pdfliteral{-7.77487 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2632,8 +2632,8 @@ TEST 4: utils: outer labels at
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{-10.40094 -31.04373 m }
-....\pdfliteral{-10.40094 -44.6689 l }
+....\pdfliteral{-10.40082 -31.04333 m }
+....\pdfliteral{-10.40082 -44.66833 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0
@@ -2641,8 +2641,8 @@ TEST 4: utils: outer labels at
 ....\glue 0.0
 ....\glue 0.0
 ....\glue 0.0
-....\pdfliteral{2.62587 -3.519 m }
-....\pdfliteral{7.77495 -17.14417 l }
+....\pdfliteral{2.62585 -3.51897 m }
+....\pdfliteral{7.77487 -17.14395 l }
 ....\pdfliteral{S }
 ....\glue 0.0
 ....\glue 0.0

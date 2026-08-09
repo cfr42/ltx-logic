@@ -11,7 +11,7 @@ TEST 1: multi-1
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -39,7 +39,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -78,7 +80,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -136,7 +140,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.64, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -175,7 +181,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -214,7 +222,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 E
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -253,7 +263,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.53, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 F
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -292,7 +304,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.85, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 G
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -350,7 +364,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x5.14, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 J
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -389,7 +405,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 H
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -428,7 +446,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x3.61, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 I
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -467,7 +487,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.78, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 K
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -506,7 +528,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x6.25, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 L
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -564,7 +588,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 N
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -603,7 +629,9 @@ TEST 1: multi-1
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x9.17, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 M
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -622,8 +650,8 @@ TEST 1: multi-1
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-7.25584 0.57547 m }
-....\pdfliteral origin{-60.48477 -21.37968 l }
+....\pdfliteral origin{-7.25577 0.57547 m }
+....\pdfliteral origin{-60.48401 -21.37943 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -635,67 +663,8 @@ TEST 1: multi-1
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-50.40173 -45.04645 m }
-....\pdfliteral origin{-43.63055 -31.42441 l }
-....\pdfliteral origin{S }
-....\hbox(0.0+0.0)x0.0, direction TLT
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-57.26447 -45.04645 m }
-......\pdfliteral origin{-64.10933 -31.20523 l }
-......\pdfliteral origin{S }
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-7.25584 -1.47386 m }
-....\pdfliteral origin{-32.96533 -19.34155 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.233 -3.5198 m }
-....\pdfliteral origin{0.6893 -17.39091 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{-26.33023 -47.84752 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{-7.72752 -44.82727 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{7.89832 -74.66174 m }
-....\pdfliteral origin{29.61765 -56.4307 l }
+....\pdfliteral origin{-50.4011 -45.04588 m }
+....\pdfliteral origin{-43.63 -31.42403 l }
 ....\pdfliteral origin{S }
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, direction TLT
@@ -705,32 +674,8 @@ TEST 1: multi-1
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-4.26216 -74.92746 m }
-......\pdfliteral origin{-26.33023 -57.36908 l }
-......\pdfliteral origin{S }
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-1.7426 -72.73187 m }
-......\pdfliteral origin{-8.64143 -59.10983 l }
-......\pdfliteral origin{S }
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{5.3351 -72.73187 m }
-......\pdfliteral origin{12.25844 -58.89064 l }
+......\pdfliteral origin{-57.26373 -45.04588 m }
+......\pdfliteral origin{-64.10852 -31.20485 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -739,16 +684,9 @@ TEST 1: multi-1
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{10.78616 -45.04645 l }
-....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.91641 -31.20523 m }
-....\pdfliteral origin{29.61765 -48.72322 l }
+....\pdfliteral origin{-7.25577 -1.47385 m }
+....\pdfliteral origin{-32.96492 -19.34131 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -756,8 +694,24 @@ TEST 1: multi-1
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{7.25584 0.57613 m }
-....\pdfliteral origin{60.13606 -21.23602 l }
+....\pdfliteral origin{0.23302 -3.51978 m }
+....\pdfliteral origin{0.6893 -17.39072 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{-26.32991 -47.84692 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{-7.72743 -44.8267 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -765,20 +719,11 @@ TEST 1: multi-1
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{64.03076 -31.20523 m }
-....\pdfliteral origin{57.0288 -45.04645 l }
-....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{66.80374 -72.73187 m }
-....\pdfliteral origin{76.62457 -58.89064 l }
+....\pdfliteral origin{7.89822 -74.6608 m }
+....\pdfliteral origin{29.61728 -56.42998 l }
 ....\pdfliteral origin{S }
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, direction TLT
@@ -786,8 +731,91 @@ TEST 1: multi-1
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{66.80374 -72.73187 m }
-......\pdfliteral origin{57.95311 -58.89064 l }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-4.26212 -74.92651 m }
+......\pdfliteral origin{-26.32991 -57.36836 l }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-1.74258 -72.73094 m }
+......\pdfliteral origin{-8.64134 -59.10909 l }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{5.33504 -72.73094 m }
+......\pdfliteral origin{12.2583 -58.88991 l }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{10.78604 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.91641 -31.20485 m }
+....\pdfliteral origin{29.61728 -48.7226 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{7.25577 0.57614 m }
+....\pdfliteral origin{60.13531 -21.23576 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{64.02995 -31.20485 m }
+....\pdfliteral origin{57.02808 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{66.8029 -72.73094 m }
+....\pdfliteral origin{76.6236 -58.88991 l }
+....\pdfliteral origin{S }
+....\hbox(0.0+0.0)x0.0, direction TLT
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{66.8029 -72.73094 m }
+......\pdfliteral origin{57.95238 -58.88991 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -797,8 +825,8 @@ TEST 1: multi-1
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{71.03206 -31.20523 m }
-....\pdfliteral origin{78.03401 -45.04645 l }
+....\pdfliteral origin{71.03116 -31.20485 m }
+....\pdfliteral origin{78.03302 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -822,7 +850,7 @@ TEST 2: multi-2
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -850,7 +878,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -889,7 +919,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.08, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 B
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -947,7 +979,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.64, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 D
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -986,7 +1020,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1025,7 +1061,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 E
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1064,7 +1102,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.8+0.0)x6.53, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 F
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1103,7 +1143,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.85, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 G
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1142,7 +1184,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x3.61, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 I
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1181,7 +1225,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 H
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1220,7 +1266,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x5.14, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 J
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1259,7 +1307,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.78, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 K
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1298,7 +1348,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x6.25, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 L
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1337,7 +1389,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 N
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1376,7 +1430,9 @@ TEST 2: multi-2
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x9.17, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 M
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1393,10 +1449,10 @@ TEST 2: multi-2
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -3.5198 m }
-....\pdfliteral origin{0.0 -8.50119 l }
-....\pdfliteral origin{-59.45677 -8.50119 l }
-....\pdfliteral origin{-59.45677 -17.36104 l }
+....\pdfliteral origin{0.0 -3.51978 m }
+....\pdfliteral origin{0.0 -8.5011 l }
+....\pdfliteral origin{-59.45602 -8.5011 l }
+....\pdfliteral origin{-59.45602 -17.36082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1409,112 +1465,51 @@ TEST 2: multi-2
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-45.76764 -45.04645 m }
-....\pdfliteral origin{-45.76764 -45.04645 m }
-....\pdfliteral origin{-45.76764 -36.18661 l }
-....\pdfliteral origin{-59.45677 -36.18661 l }
-....\pdfliteral origin{-59.45677 -31.20523 l }
-....\pdfliteral origin{-45.76764 -45.04645 m }
-....\pdfliteral origin{-45.76764 -36.40579 l }
-....\pdfliteral origin{-32.00803 -36.40579 l }
-....\pdfliteral origin{-32.00803 -31.42441 l }
+....\pdfliteral origin{-45.76707 -45.04588 m }
+....\pdfliteral origin{-45.76707 -45.04588 m }
+....\pdfliteral origin{-45.76707 -36.18616 l }
+....\pdfliteral origin{-59.45602 -36.18616 l }
+....\pdfliteral origin{-59.45602 -31.20485 l }
+....\pdfliteral origin{-45.76707 -45.04588 m }
+....\pdfliteral origin{-45.76707 -36.40535 l }
+....\pdfliteral origin{-32.00763 -36.40535 l }
+....\pdfliteral origin{-32.00763 -31.42403 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -3.5198 m }
-....\pdfliteral origin{0.0 -8.50119 l }
-....\pdfliteral origin{-32.00803 -8.50119 l }
-....\pdfliteral origin{-32.00803 -17.14185 l }
+....\pdfliteral origin{0.0 -3.51978 m }
+....\pdfliteral origin{0.0 -8.5011 l }
+....\pdfliteral origin{-32.00763 -8.5011 l }
+....\pdfliteral origin{-32.00763 -17.14165 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -3.5198 m }
-....\pdfliteral origin{0.0 -8.50119 l }
-....\pdfliteral origin{-3.93983 -8.50119 l }
-....\pdfliteral origin{-3.93983 -17.39091 l }
+....\pdfliteral origin{0.0 -3.51978 m }
+....\pdfliteral origin{0.0 -8.5011 l }
+....\pdfliteral origin{-3.93979 -8.5011 l }
+....\pdfliteral origin{-3.93979 -17.39072 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-3.93983 -31.20523 m }
-....\pdfliteral origin{-3.93983 -36.18661 l }
-....\pdfliteral origin{-25.02826 -36.18661 l }
-....\pdfliteral origin{-25.02826 -45.07634 l }
+....\pdfliteral origin{-3.93979 -31.20485 m }
+....\pdfliteral origin{-3.93979 -36.18616 l }
+....\pdfliteral origin{-25.02795 -36.18616 l }
+....\pdfliteral origin{-25.02795 -45.07578 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-3.93983 -31.20523 m }
-....\pdfliteral origin{-3.93983 -36.18661 l }
-....\pdfliteral origin{-4.18309 -36.18661 l }
-....\pdfliteral origin{-4.18309 -44.82727 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-4.18309 -72.73187 m }
-....\pdfliteral origin{-4.18309 -72.73187 m }
-....\pdfliteral origin{-4.18309 -63.87202 l }
-....\pdfliteral origin{-25.02826 -63.87202 l }
-....\pdfliteral origin{-25.02826 -58.89064 l }
-....\pdfliteral origin{-4.18309 -72.73187 m }
-....\pdfliteral origin{-4.18309 -64.09122 l }
-....\pdfliteral origin{-4.18309 -64.09122 l }
-....\pdfliteral origin{-4.18309 -59.10983 l }
-....\pdfliteral origin{-4.18309 -72.73187 m }
-....\pdfliteral origin{-4.18309 -63.87202 l }
-....\pdfliteral origin{17.14857 -63.87202 l }
-....\pdfliteral origin{17.14857 -58.89064 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-3.93983 -31.20523 m }
-....\pdfliteral origin{-3.93983 -36.18661 l }
-....\pdfliteral origin{17.14857 -36.18661 l }
-....\pdfliteral origin{17.14857 -45.04645 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -3.5198 m }
-....\pdfliteral origin{0.0 -8.50119 l }
-....\pdfliteral origin{59.45677 -8.50119 l }
-....\pdfliteral origin{59.45677 -17.36104 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{59.45677 -31.42441 m }
-....\pdfliteral origin{59.45677 -36.40579 l }
-....\pdfliteral origin{38.4409 -36.40579 l }
-....\pdfliteral origin{38.4409 -45.04645 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{59.45677 -31.42441 m }
-....\pdfliteral origin{59.45677 -36.40579 l }
-....\pdfliteral origin{59.11057 -36.40579 l }
-....\pdfliteral origin{59.11057 -45.04645 l }
+....\pdfliteral origin{-3.93979 -31.20485 m }
+....\pdfliteral origin{-3.93979 -36.18616 l }
+....\pdfliteral origin{-4.18304 -36.18616 l }
+....\pdfliteral origin{-4.18304 -44.8267 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1527,28 +1522,89 @@ TEST 2: multi-2
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{59.11057 -72.73187 m }
-....\pdfliteral origin{59.11057 -72.73187 m }
-....\pdfliteral origin{59.11057 -63.87202 l }
-....\pdfliteral origin{38.4409 -63.87202 l }
-....\pdfliteral origin{38.4409 -58.89064 l }
-....\pdfliteral origin{59.11057 -72.73187 m }
-....\pdfliteral origin{59.11057 -63.87202 l }
-....\pdfliteral origin{59.11057 -63.87202 l }
-....\pdfliteral origin{59.11057 -58.89064 l }
-....\pdfliteral origin{59.11057 -72.73187 m }
-....\pdfliteral origin{59.11057 -63.87202 l }
-....\pdfliteral origin{80.47263 -63.87202 l }
-....\pdfliteral origin{80.47263 -58.89064 l }
+....\pdfliteral origin{-4.18304 -72.73094 m }
+....\pdfliteral origin{-4.18304 -72.73094 m }
+....\pdfliteral origin{-4.18304 -63.87123 l }
+....\pdfliteral origin{-25.02795 -63.87123 l }
+....\pdfliteral origin{-25.02795 -58.88991 l }
+....\pdfliteral origin{-4.18304 -72.73094 m }
+....\pdfliteral origin{-4.18304 -64.09041 l }
+....\pdfliteral origin{-4.18304 -64.09041 l }
+....\pdfliteral origin{-4.18304 -59.10909 l }
+....\pdfliteral origin{-4.18304 -72.73094 m }
+....\pdfliteral origin{-4.18304 -63.87123 l }
+....\pdfliteral origin{17.14836 -63.87123 l }
+....\pdfliteral origin{17.14836 -58.88991 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{59.45677 -31.42441 m }
-....\pdfliteral origin{59.45677 -36.40579 l }
-....\pdfliteral origin{80.47263 -36.40579 l }
-....\pdfliteral origin{80.47263 -45.04645 l }
+....\pdfliteral origin{-3.93979 -31.20485 m }
+....\pdfliteral origin{-3.93979 -36.18616 l }
+....\pdfliteral origin{17.14836 -36.18616 l }
+....\pdfliteral origin{17.14836 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.0 -3.51978 m }
+....\pdfliteral origin{0.0 -8.5011 l }
+....\pdfliteral origin{59.45602 -8.5011 l }
+....\pdfliteral origin{59.45602 -17.36082 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{59.45602 -31.42403 m }
+....\pdfliteral origin{59.45602 -36.40535 l }
+....\pdfliteral origin{38.44041 -36.40535 l }
+....\pdfliteral origin{38.44041 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{59.45602 -31.42403 m }
+....\pdfliteral origin{59.45602 -36.40535 l }
+....\pdfliteral origin{59.10982 -36.40535 l }
+....\pdfliteral origin{59.10982 -45.04588 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{59.10982 -72.73094 m }
+....\pdfliteral origin{59.10982 -72.73094 m }
+....\pdfliteral origin{59.10982 -63.87123 l }
+....\pdfliteral origin{38.44041 -63.87123 l }
+....\pdfliteral origin{38.44041 -58.88991 l }
+....\pdfliteral origin{59.10982 -72.73094 m }
+....\pdfliteral origin{59.10982 -63.87123 l }
+....\pdfliteral origin{59.10982 -63.87123 l }
+....\pdfliteral origin{59.10982 -58.88991 l }
+....\pdfliteral origin{59.10982 -72.73094 m }
+....\pdfliteral origin{59.10982 -63.87123 l }
+....\pdfliteral origin{80.4716 -63.87123 l }
+....\pdfliteral origin{80.4716 -58.88991 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{59.45602 -31.42403 m }
+....\pdfliteral origin{59.45602 -36.40535 l }
+....\pdfliteral origin{80.4716 -36.40535 l }
+....\pdfliteral origin{80.4716 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1572,7 +1628,7 @@ TEST 3: multi-3
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -1600,7 +1656,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x7.78, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 O
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1639,7 +1697,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x6.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 P
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1678,7 +1738,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+1.94)x7.78, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 Q
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1736,7 +1798,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x5.56, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 S
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1775,7 +1839,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x7.36, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 R
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1814,7 +1880,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.77+0.0)x7.22, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 T
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1853,7 +1921,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 U
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1892,7 +1962,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 V
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1931,7 +2003,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x10.28, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 W
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -1970,7 +2044,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x6.11, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 Z
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2009,7 +2085,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 X
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2048,7 +2126,9 @@ TEST 3: multi-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x7.5, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 Y
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2065,16 +2145,16 @@ TEST 3: multi-3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -3.739 m }
-....\pdfliteral origin{-39.35553 -17.36104 l }
+....\pdfliteral origin{0.0 -3.73897 m }
+....\pdfliteral origin{-39.35504 -17.36082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-39.35553 -31.20523 m }
-....\pdfliteral origin{-48.1366 -44.82727 l }
+....\pdfliteral origin{-39.35504 -31.20485 m }
+....\pdfliteral origin{-48.136 -44.8267 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2084,8 +2164,8 @@ TEST 3: multi-3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-39.25146 -72.51268 m }
-....\pdfliteral origin{-30.18016 -59.10983 l }
+....\pdfliteral origin{-39.25098 -72.51176 m }
+....\pdfliteral origin{-30.1798 -59.10909 l }
 ....\pdfliteral origin{S }
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, direction TLT
@@ -2093,8 +2173,8 @@ TEST 3: multi-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-39.25146 -72.51268 m }
-......\pdfliteral origin{-47.5873 -60.82343 l }
+......\pdfliteral origin{-39.25098 -72.51176 m }
+......\pdfliteral origin{-47.5867 -60.82266 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2103,42 +2183,42 @@ TEST 3: multi-3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-39.35553 -31.20523 m }
-....\pdfliteral origin{-30.11546 -45.04645 l }
+....\pdfliteral origin{-39.35504 -31.20485 m }
+....\pdfliteral origin{-30.11508 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.0 -3.739 m }
-....\pdfliteral origin{39.35553 -17.4208 l }
+....\pdfliteral origin{0.0 -3.73897 m }
+....\pdfliteral origin{39.35504 -17.4206 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{39.35553 -31.20523 m }
-....\pdfliteral origin{39.35553 -41.168 l }
-....\pdfliteral origin{-4.33842 -41.168 l }
-....\pdfliteral origin{-4.33842 -45.04645 l }
+....\pdfliteral origin{39.35504 -31.20485 m }
+....\pdfliteral origin{39.35504 -41.16748 l }
+....\pdfliteral origin{-4.33838 -41.16748 l }
+....\pdfliteral origin{-4.33838 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{39.35553 -31.20523 m }
-....\pdfliteral origin{39.35553 -41.168 l }
-....\pdfliteral origin{16.8144 -41.168 l }
-....\pdfliteral origin{16.8144 -45.04645 l }
+....\pdfliteral origin{39.35504 -31.20485 m }
+....\pdfliteral origin{39.35504 -41.16748 l }
+....\pdfliteral origin{16.81421 -41.16748 l }
+....\pdfliteral origin{16.81421 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{39.35553 -31.20523 m }
-....\pdfliteral origin{39.35553 -41.168 l }
-....\pdfliteral origin{39.3521 -41.168 l }
-....\pdfliteral origin{39.3521 -45.04645 l }
+....\pdfliteral origin{39.35504 -31.20485 m }
+....\pdfliteral origin{39.35504 -41.16748 l }
+....\pdfliteral origin{39.3516 -41.16748 l }
+....\pdfliteral origin{39.3516 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2157,45 +2237,45 @@ TEST 3: multi-3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{39.3521 -72.73187 m }
-....\pdfliteral origin{39.3521 -72.73187 m }
-....\pdfliteral origin{39.3521 -69.0726 l }
-....\pdfliteral origin{-4.33842 -69.0726 l }
-....\pdfliteral origin{-4.33842 -59.10983 l }
-....\pdfliteral origin{39.3521 -72.73187 m }
-....\pdfliteral origin{39.3521 -69.0726 l }
-....\pdfliteral origin{16.8144 -69.0726 l }
-....\pdfliteral origin{16.8144 -59.10983 l }
-....\pdfliteral origin{39.3521 -72.73187 m }
-....\pdfliteral origin{39.3521 -69.0726 l }
-....\pdfliteral origin{39.3521 -69.0726 l }
-....\pdfliteral origin{39.3521 -59.10983 l }
-....\pdfliteral origin{39.3521 -72.73187 m }
-....\pdfliteral origin{39.3521 -68.85341 l }
-....\pdfliteral origin{61.89664 -68.85341 l }
-....\pdfliteral origin{61.89664 -58.89064 l }
-....\pdfliteral origin{39.3521 -72.73187 m }
-....\pdfliteral origin{39.3521 -68.85341 l }
-....\pdfliteral origin{83.0495 -68.85341 l }
-....\pdfliteral origin{83.0495 -58.89064 l }
+....\pdfliteral origin{39.3516 -72.73094 m }
+....\pdfliteral origin{39.3516 -72.73094 m }
+....\pdfliteral origin{39.3516 -69.07172 l }
+....\pdfliteral origin{-4.33838 -69.07172 l }
+....\pdfliteral origin{-4.33838 -59.10909 l }
+....\pdfliteral origin{39.3516 -72.73094 m }
+....\pdfliteral origin{39.3516 -69.07172 l }
+....\pdfliteral origin{16.81421 -69.07172 l }
+....\pdfliteral origin{16.81421 -59.10909 l }
+....\pdfliteral origin{39.3516 -72.73094 m }
+....\pdfliteral origin{39.3516 -69.07172 l }
+....\pdfliteral origin{39.3516 -69.07172 l }
+....\pdfliteral origin{39.3516 -59.10909 l }
+....\pdfliteral origin{39.3516 -72.73094 m }
+....\pdfliteral origin{39.3516 -68.85254 l }
+....\pdfliteral origin{61.89586 -68.85254 l }
+....\pdfliteral origin{61.89586 -58.88991 l }
+....\pdfliteral origin{39.3516 -72.73094 m }
+....\pdfliteral origin{39.3516 -68.85254 l }
+....\pdfliteral origin{83.04845 -68.85254 l }
+....\pdfliteral origin{83.04845 -58.88991 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{39.35553 -31.20523 m }
-....\pdfliteral origin{39.35553 -41.168 l }
-....\pdfliteral origin{61.89664 -41.168 l }
-....\pdfliteral origin{61.89664 -45.04645 l }
+....\pdfliteral origin{39.35504 -31.20485 m }
+....\pdfliteral origin{39.35504 -41.16748 l }
+....\pdfliteral origin{61.89586 -41.16748 l }
+....\pdfliteral origin{61.89586 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{39.35553 -31.20523 m }
-....\pdfliteral origin{39.35553 -41.168 l }
-....\pdfliteral origin{83.0495 -41.168 l }
-....\pdfliteral origin{83.0495 -45.04645 l }
+....\pdfliteral origin{39.35504 -31.20485 m }
+....\pdfliteral origin{39.35504 -41.16748 l }
+....\pdfliteral origin{83.04845 -41.16748 l }
+....\pdfliteral origin{83.04845 -45.04588 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2222,7 +2302,7 @@ ext.multi test: Child's parent: 9: P3
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -2250,7 +2330,9 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x7.36, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 R
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2289,8 +2371,10 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x11.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 P
 ..............\TU/lmr/m/n/10 1
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2329,8 +2413,10 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.0)x11.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 P
 ..............\TU/lmr/m/n/10 2
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2369,11 +2455,13 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x23.9, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
 ..............\TU/lmr/m/n/10 h
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 l
 ..............\TU/lmr/m/n/10 d
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2412,8 +2500,10 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(6.83+0.22)x11.81, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 P
 ..............\TU/lmr/m/n/10 3
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2452,12 +2542,14 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.16+0.11)x21.95, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 A
 ..............\kern-0.28 (font)
 ..............\TU/lmr/m/n/10 u
 ..............\TU/lmr/m/n/10 n
 ..............\kern-0.28 (font)
 ..............\TU/lmr/m/n/10 t
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2496,6 +2588,7 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x38.39, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 u
@@ -2504,6 +2597,7 @@ ext.multi test: Child's parent: 9: P3
 ..............\TU/lmr/m/n/10 n
 ..............\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ..............\TU/lmr/m/n/10 1
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2542,6 +2636,7 @@ ext.multi test: Child's parent: 9: P3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(7.05+0.22)x38.39, direction TLT
+..............\begindir TLT
 ..............\TU/lmr/m/n/10 C
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 u
@@ -2550,6 +2645,7 @@ ext.multi test: Child's parent: 9: P3
 ..............\TU/lmr/m/n/10 n
 ..............\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ..............\TU/lmr/m/n/10 2
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2568,8 +2664,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-7.18611 -0.82845 m }
-....\pdfliteral origin{-38.65742 -18.8903 l }
+....\pdfliteral origin{-7.18602 -0.82845 m }
+....\pdfliteral origin{-38.65694 -18.89008 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2577,8 +2673,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-5.76634 -3.739 m }
-....\pdfliteral origin{-16.93877 -17.36104 l }
+....\pdfliteral origin{-5.76628 -3.73897 m }
+....\pdfliteral origin{-16.93857 -17.36082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2586,8 +2682,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-16.02278 -44.82727 m }
-....\pdfliteral origin{-3.65247 -31.42441 l }
+....\pdfliteral origin{-16.0226 -44.8267 m }
+....\pdfliteral origin{-3.65244 -31.42403 l }
 ....\pdfliteral origin{S }
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, direction TLT
@@ -2597,8 +2693,8 @@ ext.multi test: Child's parent: 9: P3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-29.17633 -44.82727 m }
-......\pdfliteral origin{-41.69891 -31.20523 l }
+......\pdfliteral origin{-29.17596 -44.8267 m }
+......\pdfliteral origin{-41.6984 -31.20485 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2609,8 +2705,8 @@ ext.multi test: Child's parent: 9: P3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-22.61345 -44.82727 m }
-......\pdfliteral origin{-22.61345 -31.20523 l }
+......\pdfliteral origin{-22.61317 -44.8267 m }
+......\pdfliteral origin{-22.61317 -31.20485 l }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2620,8 +2716,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{0.71992 -3.739 m }
-....\pdfliteral origin{2.11485 -17.36104 l }
+....\pdfliteral origin{0.71994 -3.73897 m }
+....\pdfliteral origin{2.11484 -17.36082 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2629,8 +2725,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{7.18611 -0.8121 m }
-....\pdfliteral origin{35.56541 -17.03224 l }
+....\pdfliteral origin{7.18602 -0.8121 m }
+....\pdfliteral origin{35.56497 -17.03204 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2638,8 +2734,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{41.39006 -31.3148 m }
-....\pdfliteral origin{28.76698 -44.82727 l }
+....\pdfliteral origin{41.38954 -31.31442 m }
+....\pdfliteral origin{28.76663 -44.8267 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2647,8 +2743,8 @@ ext.multi test: Child's parent: 9: P3
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{54.73045 -31.3148 m }
-....\pdfliteral origin{67.35353 -44.82727 l }
+....\pdfliteral origin{54.72977 -31.31442 m }
+....\pdfliteral origin{67.35268 -44.8267 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -2704,7 +2800,7 @@ ext.multi test: foster parents of Liza Tillerman
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -2751,12 +2847,14 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x20.56, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 C
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 l
 ..............\TU/lmr/m/n/10 l
 ..............\TU/lmr/m/n/10 a
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2795,6 +2893,7 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x29.59, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 E
 ..............\TU/lmr/m/n/10 u
@@ -2804,6 +2903,7 @@ ext.multi test: foster parents of Liza Tillerman
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 c
 ..............\TU/lmr/m/n/10 e
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2842,6 +2942,7 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x77.54, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 A
 ..............\TU/lmr/m/n/10 b
@@ -2864,6 +2965,7 @@ ext.multi test: foster parents of Liza Tillerman
 ..............\TU/lmr/m/n/10 m
 ..............\TU/lmr/m/n/10 a
 ..............\TU/lmr/m/n/10 n
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2902,11 +3004,13 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x21.26, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 J
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 h
 ..............\TU/lmr/m/n/10 n
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2945,11 +3049,13 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x18.47, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 L
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 z
 ..............\TU/lmr/m/n/10 a
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -2988,12 +3094,14 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x24.58, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 D
 ..............\TU/lmr/m/n/10 i
 ..............\TU/lmr/m/n/10 c
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 y
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3032,12 +3140,14 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x26.85, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 J
 ..............\TU/lmr/m/n/10 a
 ..............\TU/lmr/m/n/10 m
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 s
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3076,6 +3186,7 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x38.9, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 M
 ..............\TU/lmr/m/n/10 a
@@ -3088,6 +3199,7 @@ ext.multi test: foster parents of Liza Tillerman
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 t
 ..............\TU/lmr/m/n/10 h
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3126,6 +3238,7 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x32.22, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 S
 ..............\TU/lmr/m/n/10 a
@@ -3133,6 +3246,7 @@ ext.multi test: foster parents of Liza Tillerman
 ..............\TU/lmr/m/n/10 m
 ..............\kern-0.28 (font)
 ..............\TU/lmr/m/n/10 y
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3171,6 +3285,7 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x73.92, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 F
 ..............\kern-0.83 (font)
@@ -3197,6 +3312,7 @@ ext.multi test: foster parents of Liza Tillerman
 ..............\kern-0.28 (font)
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 r
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3311,6 +3427,7 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x31.39, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 S
 ..............\TU/lmr/m/n/10 a
@@ -3319,6 +3436,7 @@ ext.multi test: foster parents of Liza Tillerman
 ..............\TU/lmr/m/n/10 u
 ..............\TU/lmr/m/n/10 e
 ..............\TU/lmr/m/n/10 l
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3357,11 +3475,13 @@ ext.multi test: foster parents of Liza Tillerman
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(8.39996+3.60004)x21.26, direction TLT
+..............\begindir TLT
 ..............\rule(8.39996+3.60004)x0.0
 ..............\TU/lmr/m/n/10 J
 ..............\TU/lmr/m/n/10 o
 ..............\TU/lmr/m/n/10 h
 ..............\TU/lmr/m/n/10 n
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -3435,125 +3555,80 @@ ext.multi test: foster parents of Liza Tillerman
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{0.0 -4.98138 l }
-....\pdfliteral origin{-73.83228 -4.98138 l }
-....\pdfliteral origin{-73.83228 -15.7969 l }
+....\pdfliteral origin{0.0 -4.98132 l }
+....\pdfliteral origin{-73.83134 -4.98132 l }
+....\pdfliteral origin{-73.83134 -15.7967 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-73.83228 -34.79187 m }
-....\pdfliteral origin{-73.83228 -39.77325 l }
-....\pdfliteral origin{-73.83228 -39.77325 l }
-....\pdfliteral origin{-73.83228 -46.48112 l }
+....\pdfliteral origin{-73.83134 -34.79143 m }
+....\pdfliteral origin{-73.83134 -39.77275 l }
+....\pdfliteral origin{-73.83134 -39.77275 l }
+....\pdfliteral origin{-73.83134 -46.48053 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{0.0 -4.98138 l }
-....\pdfliteral origin{73.83228 -4.98138 l }
-....\pdfliteral origin{73.83228 -15.7969 l }
+....\pdfliteral origin{0.0 -4.98132 l }
+....\pdfliteral origin{73.83134 -4.98132 l }
+....\pdfliteral origin{73.83134 -15.7967 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{73.83228 -34.79187 m }
-....\pdfliteral origin{73.83228 -39.77325 l }
-....\pdfliteral origin{-34.82117 -39.77325 l }
-....\pdfliteral origin{-34.82117 -46.48112 l }
+....\pdfliteral origin{73.83134 -34.79143 m }
+....\pdfliteral origin{73.83134 -39.77275 l }
+....\pdfliteral origin{-34.82074 -39.77275 l }
+....\pdfliteral origin{-34.82074 -46.48053 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{73.83228 -34.79187 m }
-....\pdfliteral origin{73.83228 -39.77325 l }
-....\pdfliteral origin{-1.34937 -39.77325 l }
-....\pdfliteral origin{-1.34937 -46.48112 l }
+....\pdfliteral origin{73.83134 -34.79143 m }
+....\pdfliteral origin{73.83134 -39.77275 l }
+....\pdfliteral origin{-1.34937 -39.77275 l }
+....\pdfliteral origin{-1.34937 -46.48053 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{-68.77026 -70.45747 l }
-....\pdfliteral origin{-68.77026 -77.16534 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{-68.7694 -70.45657 l }
+....\pdfliteral origin{-68.7694 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{-29.47023 -70.45747 l }
-....\pdfliteral origin{-29.47023 -77.16534 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{-29.46986 -70.45657 l }
+....\pdfliteral origin{-29.46986 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{16.96313 -70.45747 l }
-....\pdfliteral origin{16.96313 -77.16534 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{16.96294 -70.45657 l }
+....\pdfliteral origin{16.96294 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -65.47609 m }
-....\pdfliteral origin{-1.34937 -70.45747 l }
-....\pdfliteral origin{66.07152 -70.45747 l }
-....\pdfliteral origin{66.07152 -77.16534 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-68.77026 -77.16534 m }
-....\pdfliteral origin{-68.77026 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-29.47023 -77.16534 m }
-....\pdfliteral origin{-29.47023 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{16.96313 -77.16534 m }
-....\pdfliteral origin{16.96313 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{66.07152 -77.16534 m }
-....\pdfliteral origin{66.07152 -70.45747 l }
-....\pdfliteral origin{116.34601 -70.45747 l }
-....\pdfliteral origin{116.34601 -65.47609 l }
-....\pdfliteral origin{S }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\pdfliteral origin{73.83228 -34.79187 m }
-....\pdfliteral origin{73.83228 -39.77325 l }
-....\pdfliteral origin{182.48573 -39.77325 l }
-....\pdfliteral origin{182.48573 -46.48112 l }
+....\pdfliteral origin{-1.34937 -65.47525 m }
+....\pdfliteral origin{-1.34937 -70.45657 l }
+....\pdfliteral origin{66.07068 -70.45657 l }
+....\pdfliteral origin{66.07068 -77.16437 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -3561,26 +3636,71 @@ ext.multi test: foster parents of Liza Tillerman
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-34.82117 -46.48112 m }
-....\pdfliteral origin{-34.82117 -39.77325 l }
-....\pdfliteral origin{225.53535 -39.77325 l }
-....\pdfliteral origin{225.53535 -34.79187 l }
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{-68.7694 -77.16437 m }
+....\pdfliteral origin{-68.7694 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{-1.34937 -46.48112 m }
-....\pdfliteral origin{-1.34937 -39.77325 l }
-....\pdfliteral origin{225.53535 -39.77325 l }
-....\pdfliteral origin{225.53535 -34.79187 l }
+....\pdfliteral origin{-29.46986 -77.16437 m }
+....\pdfliteral origin{-29.46986 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{182.48573 -46.48112 m }
-....\pdfliteral origin{182.48573 -39.77325 l }
-....\pdfliteral origin{225.53535 -39.77325 l }
-....\pdfliteral origin{225.53535 -34.79187 l }
+....\pdfliteral origin{16.96294 -77.16437 m }
+....\pdfliteral origin{16.96294 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{66.07068 -77.16437 m }
+....\pdfliteral origin{66.07068 -70.45657 l }
+....\pdfliteral origin{116.34453 -70.45657 l }
+....\pdfliteral origin{116.34453 -65.47525 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{73.83134 -34.79143 m }
+....\pdfliteral origin{73.83134 -39.77275 l }
+....\pdfliteral origin{182.48338 -39.77275 l }
+....\pdfliteral origin{182.48338 -46.48053 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{-34.82074 -46.48053 m }
+....\pdfliteral origin{-34.82074 -39.77275 l }
+....\pdfliteral origin{225.53247 -39.77275 l }
+....\pdfliteral origin{225.53247 -34.79143 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{-1.34937 -46.48053 m }
+....\pdfliteral origin{-1.34937 -39.77275 l }
+....\pdfliteral origin{225.53247 -39.77275 l }
+....\pdfliteral origin{225.53247 -34.79143 l }
+....\pdfliteral origin{S }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{182.48338 -46.48053 m }
+....\pdfliteral origin{182.48338 -39.77275 l }
+....\pdfliteral origin{225.53247 -39.77275 l }
+....\pdfliteral origin{225.53247 -34.79143 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
