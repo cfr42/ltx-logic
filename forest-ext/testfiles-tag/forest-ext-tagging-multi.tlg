@@ -9,11 +9,11 @@ TEST 1: Show PDF Tags
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.05"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.06"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -38,8 +38,8 @@ TEST 1: Show PDF Tags
       <?MarkedContent page="1" ?>CillaEuniceAbigail TillermanJohnLizaDiceyJamesMaybethSammyFrancis VerrickerSamuelJohn
      </Figure>
      <?MarkedContent page="1" ?>
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
@@ -884,7 +884,7 @@ Overfull \hbox (169.07574pt too wide) in paragraph at lines ...
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\pdfliteral page{EMC}
 .\write1{\new@label@record{mcid-3}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{3}{tagmcid}{\__property_code_tagmcid: }}}
-.\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
+.\pdfliteral shipout page{/text-block <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .\glue 3.33252 plus 1.66626 minus 1.11084
 .\pdfliteral page{EMC}
 .\pdfsavepos
@@ -1805,7 +1805,7 @@ Overfull \hbox (169.07574pt too wide) in paragraph at lines ...
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\pdfliteral page{EMC}
 .\write1{\new@label@record{mcid-5}{{tagabspage}{\__property_code_tagabspage: }{tagmcabs}{5}{tagmcid}{\__property_code_tagmcid: }}}
-.\pdfliteral shipout page{/text <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
+.\pdfliteral shipout page{/text-block <</MCID \flag_height:n {__tag/mcid}\flag_raise:n {__tag/mcid} >> BDC}
 .\pdfliteral page{EMC}
 .\penalty 10000
 .\glue(\parfillskip) 0.0 plus 1.0fil
