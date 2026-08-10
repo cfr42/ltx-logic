@@ -11,7 +11,7 @@ on:
     - cron: '14 8 * * *'
   push:
     branches: 
-      - "*"
+      - "latex-dev"
     paths:
       - '.github/workflows/forest-ext-autochecks-dev.yml'
   # Allows you to run this workflow manually from the Actions tab
@@ -45,6 +45,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v7
+        with:
+          ref: latex-dev
       - name: Build ctan dev
         id: build-dev 
         # uses: cfr42/nfssext/.github/actions/nfssext-autocheck-action@eeab7fc024553e35584805f40af881812b7e09a6
