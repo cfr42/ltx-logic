@@ -247,11 +247,11 @@ TEST 2: Show PDF Tags
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.05"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.06"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -267,8 +267,8 @@ TEST 2: Show PDF Tags
       <?MarkedContent page="1" ?>{P∨ (Q∨¬R),P→¬R,Q→¬R}¬R1.2.3.4.5.6.7.8.P∨ (Q∨¬R)✓P→¬R✓Q→¬R✓¬¬RP¬P⊗5,6¬R⊗4,6Q∨¬RQ¬Q⊗7,8¬R⊗4,8¬R⊗4,7AssAssAss¬ Conc1∨ Elim2→ Elim5∨ Elim3→ Elim
      </Figure>
      <?MarkedContent page="1" ?>
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
