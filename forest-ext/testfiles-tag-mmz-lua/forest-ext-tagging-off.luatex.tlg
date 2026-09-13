@@ -5,7 +5,8 @@ TEST 1: tagforest-off-mem-mmz
 ============================================================
 forest-ext-tagging-off.mmz:
 -------- forest-ext-tagging-off.mmz (start) ---------
-(forest-ext-tagging-off.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging-off.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/5B9A93C71D94F6F1F0D5100720E3B168.memo}[nl]
 \mmzUsedExtern {memos/5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -40,7 +41,8 @@ TEST 4: tagforest-off-mem-cmemo
 ============================================================
 memos/5B9A93C71D94F6F1F0D5100720E3B168.memo:
 -------- memos/5B9A93C71D94F6F1F0D5100720E3B168.memo (start) ---------
-(memos/5B9A93C71D94F6F1F0D5100720E3B168.memo) \mmzMemo[nl]
+(memos/5B9A93C71D94F6F1F0D5100720E3B168.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -52,7 +54,8 @@ TEST 5: tagforest-off-mem-ccmemo
 ============================================================
 memos/5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{5B9A93C71D94F6F1F0D5100720E3B168-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \quitvmode \mmzIncludeExtern {0}\hbox {148.44272pt}{124.76146pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {49}%[nl]
 \mmzThisContext[nl]

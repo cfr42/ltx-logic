@@ -5,7 +5,8 @@ TEST 1: tagforest-mem-mmz
 ============================================================
 forest-ext-tagging.mmz:
 -------- forest-ext-tagging.mmz (start) ---------
-(forest-ext-tagging.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/B8428D66B5BDCA85CAF25F87CE509C22.memo}[nl]
 \mmzUsedExtern {memos/B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -76,7 +77,8 @@ TEST 4: tagforest-mem-cmemo
 ============================================================
 memos/B8428D66B5BDCA85CAF25F87CE509C22.memo:
 -------- memos/B8428D66B5BDCA85CAF25F87CE509C22.memo (start) ---------
-(memos/B8428D66B5BDCA85CAF25F87CE509C22.memo) \mmzMemo[nl]
+(memos/B8428D66B5BDCA85CAF25F87CE509C22.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -88,7 +90,8 @@ TEST 5: tagforest-mem-ccmemo
 ============================================================
 memos/B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{B8428D66B5BDCA85CAF25F87CE509C22-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={VP 2 children :  DP:  child John;  V prime V:  child sent;  DP:  child Mary;  DP 2 children :  D:  child a;  NP:  child letter;  }\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {148.44272pt}{124.76146pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {49}%[nl]
 \mmzThisContext[nl]

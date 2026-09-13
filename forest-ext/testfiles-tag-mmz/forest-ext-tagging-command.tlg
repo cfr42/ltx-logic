@@ -5,7 +5,8 @@ TEST 1: tagforest-command-mem-mmz
 ============================================================
 forest-ext-tagging-command.mmz:
 -------- forest-ext-tagging-command.mmz (start) ---------
-(forest-ext-tagging-command.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging-command.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/8EFE00A634B30622E87412A9491717FA.memo}[nl]
 \mmzUsedExtern {memos/8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -75,7 +76,8 @@ TEST 4: tagforest-command-mem-cmemo
 ============================================================
 memos/8EFE00A634B30622E87412A9491717FA.memo:
 -------- memos/8EFE00A634B30622E87412A9491717FA.memo (start) ---------
-(memos/8EFE00A634B30622E87412A9491717FA.memo) \mmzMemo[nl]
+(memos/8EFE00A634B30622E87412A9491717FA.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -87,7 +89,8 @@ TEST 5: tagforest-command-mem-ccmemo
 ============================================================
 memos/8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{8EFE00A634B30622E87412A9491717FA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={VP 2 children :  DP:  child John;  V prime V:  child sent;  DP:  child Mary;  DP 2 children :  D:  child a;  NP:  child letter;  }\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {148.39047pt}{124.06189pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {49}%[nl]
 \mmzThisContext[nl]

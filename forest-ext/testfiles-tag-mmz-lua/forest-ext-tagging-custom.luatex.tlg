@@ -5,7 +5,8 @@ TEST 1: tagforest-custom-mem-mmz
 ============================================================
 forest-ext-tagging-custom.mmz:
 -------- forest-ext-tagging-custom.mmz (start) ---------
-(forest-ext-tagging-custom.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging-custom.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/196C5922B9450860A40FA74361E8D839.memo}[nl]
 \endinput[nl]
 -------- forest-ext-tagging-custom.mmz (end) -----------
@@ -432,7 +433,8 @@ TEST 4: tagforest-custom-mem-cmemo
 ============================================================
 memos/196C5922B9450860A40FA74361E8D839.memo:
 -------- memos/196C5922B9450860A40FA74361E8D839.memo (start) ---------
-(memos/196C5922B9450860A40FA74361E8D839.memo) \mmzMemo[nl]
+(memos/196C5922B9450860A40FA74361E8D839.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 \global \mmzUnmemoizabletrue %[nl]
 \mmzSource[nl]
