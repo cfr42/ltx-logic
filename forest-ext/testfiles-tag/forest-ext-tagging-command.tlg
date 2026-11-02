@@ -130,11 +130,11 @@ TEST 2: Show PDF Tags
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.05"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.06"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -150,8 +150,8 @@ TEST 2: Show PDF Tags
       <?MarkedContent page="1" ?>VPDPJohnV’VsentDPMaryDPDaNPletter
      </Figure>
      <?MarkedContent page="1" ?>ABC apple ba-nana pear
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
@@ -212,9 +212,9 @@ The structure has the following kids:
 =========================
 The structure 5 contains:
 >  Type  =>  /StructElem
->  S  =>  /text-unit
+>  S  =>  /semantic-para
 >  NS  =>  latex
->  tag  =>  {text-unit}{latex}
+>  tag  =>  {semantic-para}{latex}
 >  rolemap  =>  {Part}{pdf2}
 >  parentrole  =>  {Document}{pdf2}
 >  parentnum  =>  2 = /Document
@@ -225,12 +225,12 @@ The structure has the following kids:
 The structure 6 contains:
 >  Type  =>  /StructElem
 >  C  =>  /justify
->  S  =>  /text
+>  S  =>  /text-block
 >  NS  =>  latex
->  tag  =>  {text}{latex}
+>  tag  =>  {text-block}{latex}
 >  rolemap  =>  {P}{pdf2}
 >  parentrole  =>  {P}{pdf2}
->  parentnum  =>  5 = /text-unit
+>  parentnum  =>  5 = /semantic-para
 The structure has the following kids:
 >  MC 1
 >  Struct 7
@@ -245,7 +245,7 @@ The structure 7 contains:
 >  tag  =>  {Figure}{pdf2}
 >  rolemap  =>  {Figure}{pdf2}
 >  parentrole  =>  {Figure}{pdf2}
->  parentnum  =>  6 = /text
+>  parentnum  =>  6 = /text-block
 The structure has the following kids:
 >  MC 2
 =========================

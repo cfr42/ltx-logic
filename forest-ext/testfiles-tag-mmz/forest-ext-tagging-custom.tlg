@@ -5,7 +5,8 @@ TEST 1: tagforest-custom-mem-mmz
 ============================================================
 forest-ext-tagging-custom.mmz:
 -------- forest-ext-tagging-custom.mmz (start) ---------
-(forest-ext-tagging-custom.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging-custom.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/FFDF38B558BB4F3291DF2C42AFADC935.memo}[nl]
 \endinput[nl]
 -------- forest-ext-tagging-custom.mmz (end) -----------
@@ -414,11 +415,11 @@ TEST 3: Show PDF Tags
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.05"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.06"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -467,8 +468,8 @@ TEST 3: Show PDF Tags
      <?MarkedContent page="1" ?>letter
      <?MarkedContent page="1" ?>
      <?MarkedContent page="1" ?>
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
@@ -481,7 +482,8 @@ TEST 4: tagforest-custom-mem-cmemo
 ============================================================
 memos/FFDF38B558BB4F3291DF2C42AFADC935.memo:
 -------- memos/FFDF38B558BB4F3291DF2C42AFADC935.memo (start) ---------
-(memos/FFDF38B558BB4F3291DF2C42AFADC935.memo) \mmzMemo[nl]
+(memos/FFDF38B558BB4F3291DF2C42AFADC935.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 \global \mmzUnmemoizabletrue %[nl]
 \mmzSource[nl]

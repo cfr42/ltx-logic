@@ -5,7 +5,8 @@ TEST 1: tagforest-iso-mem-mmz
 ============================================================
 forest-ext-tagging-iso.mmz:
 -------- forest-ext-tagging-iso.mmz (start) ---------
-(forest-ext-tagging-iso.mmz) \mmzPrefix {memos/}[nl]
+(forest-ext-tagging-iso.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/FBFC866F404685E826525B61DD8B30EA.memo}[nl]
 \mmzUsedExtern {memos/FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -41,11 +42,11 @@ TEST 3: Show PDF Tags
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.06"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.07"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -59,8 +60,8 @@ TEST 3: Show PDF Tags
        >
       <?MarkedContent page="1" ?>
      </Figure>
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
@@ -73,7 +74,8 @@ TEST 4: tagforest-iso-mem-cmemo
 ============================================================
 memos/FBFC866F404685E826525B61DD8B30EA.memo:
 -------- memos/FBFC866F404685E826525B61DD8B30EA.memo (start) ---------
-(memos/FBFC866F404685E826525B61DD8B30EA.memo) \mmzMemo[nl]
+(memos/FBFC866F404685E826525B61DD8B30EA.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -85,7 +87,8 @@ TEST 5: tagforest-iso-mem-ccmemo
 ============================================================
 memos/FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{FBFC866F404685E826525B61DD8B30EA-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={a 2 children :  b;  c;  }\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {30.39867pt}{39.04483pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {5}%[nl]
 \mmzThisContext[nl]
