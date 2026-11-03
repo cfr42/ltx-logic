@@ -11,7 +11,8 @@ on:
     - cron: '18 3 * * *'
   push:
     branches: 
-      - "latex-dev"
+      # - "latex-dev"
+      - "devel"
     paths:
       - '.github/workflows/prooftrees-autochecks-dev.yml'
   # Allows you to run this workflow manually from the Actions tab
