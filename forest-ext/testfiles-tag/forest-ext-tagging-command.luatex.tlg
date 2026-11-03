@@ -125,7 +125,7 @@ tagpdf: mc-current: abscnt=2==2 =>tag=Figure=30
 TEST 2: Show PDF Tags
 ============================================================
 -------- forest-ext-tagging-command.xml (start) ---------
-<PDF>
+<PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"

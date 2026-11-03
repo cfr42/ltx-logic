@@ -20,7 +20,7 @@ tagging register should be 0:
 TEST 2: Show PDF Tags
 ============================================================
 -------- forest-ext-tagging-no-metadata.xml (start) ---------
-<PDF>
+<PDF version="1.7">
  <StructTreeRoot>
  </StructTreeRoot>
 </PDF>
