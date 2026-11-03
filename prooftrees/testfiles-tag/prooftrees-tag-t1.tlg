@@ -116,7 +116,7 @@ Package tagpdf Info: current MC: abscnt=2, tag=Figure
 TEST 2: Show PDF Tags
 ============================================================
 -------- prooftrees-tag-t1.xml (start) ---------
-<PDF>
+<PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.02"
