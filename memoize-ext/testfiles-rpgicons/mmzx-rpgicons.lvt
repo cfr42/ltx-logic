@@ -30,7 +30,7 @@
   tagging=on,
 }
 \RequirePackage{svn-prov}
-\ProvidesFileSVN{$Id: mmzx-rpgicons.lvt 11922 2026-06-02 14:31:53Z cfrees $}[v0.0 \revinfo][\filebase: test]
+\ProvidesFileSVN{$Id: mmzx-rpgicons.lvt 12190 2026-11-04 14:48:29Z cfrees $}[v0.0 \revinfo][\filebase: test]
 \input regression-test.tex\relax
 \documentclass{article}
 \ExplSyntaxOn
@@ -52,7 +52,7 @@
   }
 }{}
 \ExplSyntaxOff
-\usepackage[extract=python]{memoize}
+\usepackage{memoize}
 \ExplSyntaxOn
 \tl_set:Ne \mmzpdfmajorverion { \pdf_version_major: }
 \tl_set:Ne \mmzpdfminorverion { \pdf_version_minor: }
