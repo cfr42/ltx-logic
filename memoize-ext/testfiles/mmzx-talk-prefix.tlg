@@ -2,7 +2,8 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 mmzx-talk-prefix.mmz:
 -------- mmzx-talk-prefix.mmz (start) ---------
-(mmzx-talk-prefix.mmz) \mmzPrefix {memos/projector-}[nl]
+(mmzx-talk-prefix.mmz)
+\mmzPrefix {memos/projector-}[nl]
 \mmzUsedCMemo {memos/projector-B711C402DF18690D3E41D74D81D207B2.memo}[nl]
 \mmzUsedExtern {memos/projector-B711C402DF18690D3E41D74D81D207B2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/projector-B711C402DF18690D3E41D74D81D207B2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]

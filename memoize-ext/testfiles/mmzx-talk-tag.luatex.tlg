@@ -2,7 +2,8 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 mmzx-talk-tag.mmz:
 -------- mmzx-talk-tag.mmz (start) ---------
-(mmzx-talk-tag.mmz) \mmzPrefix {memos/projector-}[nl]
+(mmzx-talk-tag.mmz)
+\mmzPrefix {memos/projector-}[nl]
 \mmzUsedCMemo {memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB.memo}[nl]
 \mmzUsedExtern {memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -40,7 +41,8 @@ TEST 1: tikzpicture-alt-cmemo
 ============================================================
 memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB.memo:
 -------- memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB.memo (start) ---------
-(memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB.memo) \mmzMemo[nl]
+(memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -52,7 +54,8 @@ TEST 2: tikzpicture-alt-ccmemo
 ============================================================
 memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{projector-3CED1657A3A4B22E0BC6AA14B1AA9ADB-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={start of alphabet}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {23.39569pt}{15.01895pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -65,7 +68,8 @@ TEST 3: tikzpicture-ts-cmemo
 ============================================================
 memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54.memo:
 -------- memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54.memo (start) ---------
-(memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54.memo) \mmzMemo[nl]
+(memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -77,7 +81,8 @@ TEST 4: tikzpicture-ts-ccmemo
 ============================================================
 memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{projector-52C90F767A8ECCFBF4D5E43EC85F7E54-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/projector-52C90F767A8ECCFBF4D5E43EC85F7E54-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{projector-52C90F767A8ECCFBF4D5E43EC85F7E54-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={beginning of alphabet}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {23.39569pt}{15.01895pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -90,7 +95,8 @@ TEST 5: tikzpicture-actualtext-cmemo
 ============================================================
 memos/projector-F74816F1E6D67A160F5738F2330A70A0.memo:
 -------- memos/projector-F74816F1E6D67A160F5738F2330A70A0.memo (start) ---------
-(memos/projector-F74816F1E6D67A160F5738F2330A70A0.memo) \mmzMemo[nl]
+(memos/projector-F74816F1E6D67A160F5738F2330A70A0.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -102,7 +108,8 @@ TEST 6: tikzpicture-actualtext-ccmemo
 ============================================================
 memos/projector-F74816F1E6D67A160F5738F2330A70A0-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/projector-F74816F1E6D67A160F5738F2330A70A0-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/projector-F74816F1E6D67A160F5738F2330A70A0-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{projector-F74816F1E6D67A160F5738F2330A70A0-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/projector-F74816F1E6D67A160F5738F2330A70A0-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{projector-F74816F1E6D67A160F5738F2330A70A0-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={abc}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/actualtext}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/actualtext}\mmzIncludeExtern {0}\hbox {23.39569pt}{15.01895pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -115,7 +122,8 @@ TEST 7: tikzpicture-artifact-cmemo
 ============================================================
 memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6.memo:
 -------- memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6.memo (start) ---------
-(memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6.memo) \mmzMemo[nl]
+(memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -127,7 +135,8 @@ TEST 8: tikzpicture-artifact-ccmemo
 ============================================================
 memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{projector-B89AAA28FED6CD49103CBAE34D83FAF6-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/projector-B89AAA28FED6CD49103CBAE34D83FAF6-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{projector-B89AAA28FED6CD49103CBAE34D83FAF6-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/artifact}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/artifact}\mmzIncludeExtern {0}\hbox {28.85274pt}{28.85274pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -140,7 +149,8 @@ TEST 9: tikzpicture~2slides-alt-cmemo-ccmemo
 ============================================================
 memos/projector-43F076D3B62F28AB2376430B884D13BD.memo:
 -------- memos/projector-43F076D3B62F28AB2376430B884D13BD.memo (start) ---------
-(memos/projector-43F076D3B62F28AB2376430B884D13BD.memo) \mmzMemo[nl]
+(memos/projector-43F076D3B62F28AB2376430B884D13BD.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {overlay=\csname theslide\endcsname ,pauses=\ifmemoizing \mmzxTalkPauses \else \expandafter \the \csname c@pauses\endcsname \fi ,opacity=1}%[nl]
 \mmzxSetTalkOverlays {0}{2}%[nl]
 \mmzSource[nl]
@@ -148,7 +158,8 @@ memos/projector-43F076D3B62F28AB2376430B884D13BD.memo:
 -------- memos/projector-43F076D3B62F28AB2376430B884D13BD.memo (end) -----------
 memos/projector-43F076D3B62F28AB2376430B884D13BD-AEFF2CC68190653E36972708E91F0A94.memo:
 -------- memos/projector-43F076D3B62F28AB2376430B884D13BD-AEFF2CC68190653E36972708E91F0A94.memo (start) ---------
-(memos/projector-43F076D3B62F28AB2376430B884D13BD-AEFF2CC68190653E36972708E91F0A94.memo) \mmzResource{projector-43F076D3B62F28AB2376430B884D13BD-AEFF2CC68190653E36972708E91F0A94.pdf}%[nl]
+(memos/projector-43F076D3B62F28AB2376430B884D13BD-AEFF2CC68190653E36972708E91F0A94.memo)
+\mmzResource{projector-43F076D3B62F28AB2376430B884D13BD-AEFF2CC68190653E36972708E91F0A94.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \only <all:\mmzxTalkOverlays >{}\mmzIncludeExtern {0}\hbox {23.39569pt}{15.13937pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -161,7 +172,8 @@ TEST 10: tikzpicture~2slides-alt-cmemo-ccmemo
 ============================================================
 memos/projector-2BD0358797AFC1E1C567EB0F5A958026.memo:
 -------- memos/projector-2BD0358797AFC1E1C567EB0F5A958026.memo (start) ---------
-(memos/projector-2BD0358797AFC1E1C567EB0F5A958026.memo) \mmzMemo[nl]
+(memos/projector-2BD0358797AFC1E1C567EB0F5A958026.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {overlay=\csname theslide\endcsname ,pauses=\ifmemoizing \mmzxTalkPauses \else \expandafter \the \csname c@pauses\endcsname \fi ,opacity=1}%[nl]
 \mmzxSetTalkOverlays {0}{2}\mmzxSetTalkOverlays {0}{1}%[nl]
 \mmzSource[nl]
@@ -169,7 +181,8 @@ memos/projector-2BD0358797AFC1E1C567EB0F5A958026.memo:
 -------- memos/projector-2BD0358797AFC1E1C567EB0F5A958026.memo (end) -----------
 memos/projector-2BD0358797AFC1E1C567EB0F5A958026-9217518737811BC763FDBFDF005C790B.memo:
 -------- memos/projector-2BD0358797AFC1E1C567EB0F5A958026-9217518737811BC763FDBFDF005C790B.memo (start) ---------
-(memos/projector-2BD0358797AFC1E1C567EB0F5A958026-9217518737811BC763FDBFDF005C790B.memo) \mmzResource{projector-2BD0358797AFC1E1C567EB0F5A958026-9217518737811BC763FDBFDF005C790B.pdf}%[nl]
+(memos/projector-2BD0358797AFC1E1C567EB0F5A958026-9217518737811BC763FDBFDF005C790B.memo)
+\mmzResource{projector-2BD0358797AFC1E1C567EB0F5A958026-9217518737811BC763FDBFDF005C790B.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={a through f}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\only <all:\mmzxTalkOverlays >{}\mmzIncludeExtern {0}\hbox {23.39569pt}{15.13937pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -182,7 +195,8 @@ TEST 11: tikzpicture~2slides-pauses-alt-cmemo-ccmemo
 ============================================================
 memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo (start) ---------
-(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo) \mmzMemo[nl]
+(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {opacity=1}%[nl]
 \mmzxSetTalkOverlays {1}{4}%[nl]
 \mmzSource[nl]
@@ -190,7 +204,8 @@ memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo (end) -----------
 memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-DA4D7C081B295C1EA99F0D0084A95B1F.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-DA4D7C081B295C1EA99F0D0084A95B1F.memo (start) ---------
-(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-DA4D7C081B295C1EA99F0D0084A95B1F.memo) \mmzResource{projector-D90368024C0E909F4C8D1DFAD7F95ECF-DA4D7C081B295C1EA99F0D0084A95B1F.pdf}%[nl]
+(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-DA4D7C081B295C1EA99F0D0084A95B1F.memo)
+\mmzResource{projector-D90368024C0E909F4C8D1DFAD7F95ECF-DA4D7C081B295C1EA99F0D0084A95B1F.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \only <all:\mmzxTalkOverlays >{}\quitvmode \mmzIncludeExtern {0}\hbox {23.39569pt}{15.13937pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\setcounter {pauses}{1}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -203,7 +218,8 @@ TEST 12: tikzpicture~2slides-pauses-alt-cmemo-ccmemo
 ============================================================
 memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo (start) ---------
-(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo) \mmzMemo[nl]
+(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {opacity=1}%[nl]
 \mmzxSetTalkOverlays {1}{4}%[nl]
 \mmzSource[nl]
@@ -211,7 +227,8 @@ memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo (end) -----------
 memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-78A9C122F849D5AD59FF9D1E96A9D842.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-78A9C122F849D5AD59FF9D1E96A9D842.memo (start) ---------
-(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-78A9C122F849D5AD59FF9D1E96A9D842.memo) \mmzResource{projector-D90368024C0E909F4C8D1DFAD7F95ECF-78A9C122F849D5AD59FF9D1E96A9D842.pdf}%[nl]
+(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-78A9C122F849D5AD59FF9D1E96A9D842.memo)
+\mmzResource{projector-D90368024C0E909F4C8D1DFAD7F95ECF-78A9C122F849D5AD59FF9D1E96A9D842.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \only <all:\mmzxTalkOverlays >{}\quitvmode \mmzIncludeExtern {0}\hbox {23.39569pt}{15.13937pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\setcounter {pauses}{1}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -224,7 +241,8 @@ TEST 13: tikzpicture~2slides-pauses-alt-cmemo-ccmemo
 ============================================================
 memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo (start) ---------
-(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo) \mmzMemo[nl]
+(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {opacity=1}%[nl]
 \mmzxSetTalkOverlays {1}{4}%[nl]
 \mmzSource[nl]
@@ -232,7 +250,8 @@ memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF.memo (end) -----------
 memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-A6C7E15CC4B8D6FB4B72A7E54CD66CBD.memo:
 -------- memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-A6C7E15CC4B8D6FB4B72A7E54CD66CBD.memo (start) ---------
-(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-A6C7E15CC4B8D6FB4B72A7E54CD66CBD.memo) \mmzResource{projector-D90368024C0E909F4C8D1DFAD7F95ECF-A6C7E15CC4B8D6FB4B72A7E54CD66CBD.pdf}%[nl]
+(memos/projector-D90368024C0E909F4C8D1DFAD7F95ECF-A6C7E15CC4B8D6FB4B72A7E54CD66CBD.memo)
+\mmzResource{projector-D90368024C0E909F4C8D1DFAD7F95ECF-A6C7E15CC4B8D6FB4B72A7E54CD66CBD.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \only <all:\mmzxTalkOverlays >{}\quitvmode \mmzIncludeExtern {0}\hbox {23.39569pt}{15.13937pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\setcounter {pauses}{1}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -245,7 +264,8 @@ TEST 14: tikzpicture~2slides-pauses-alt-cmemo-ccmemo
 ============================================================
 memos/projector-376C4E0D9441C13C77AED37129895A22.memo:
 -------- memos/projector-376C4E0D9441C13C77AED37129895A22.memo (start) ---------
-(memos/projector-376C4E0D9441C13C77AED37129895A22.memo) \mmzMemo[nl]
+(memos/projector-376C4E0D9441C13C77AED37129895A22.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {opacity=1}%[nl]
 \mmzxSetTalkOverlays {1}{3}\mmzxSetTalkOverlays {1}{4}%[nl]
 \mmzSource[nl]
@@ -253,7 +273,8 @@ memos/projector-376C4E0D9441C13C77AED37129895A22.memo:
 -------- memos/projector-376C4E0D9441C13C77AED37129895A22.memo (end) -----------
 memos/projector-376C4E0D9441C13C77AED37129895A22-BA0A7486D8FA913A9F64ADCBDBBBF2DC.memo:
 -------- memos/projector-376C4E0D9441C13C77AED37129895A22-BA0A7486D8FA913A9F64ADCBDBBBF2DC.memo (start) ---------
-(memos/projector-376C4E0D9441C13C77AED37129895A22-BA0A7486D8FA913A9F64ADCBDBBBF2DC.memo) \mmzResource{projector-376C4E0D9441C13C77AED37129895A22-BA0A7486D8FA913A9F64ADCBDBBBF2DC.pdf}%[nl]
+(memos/projector-376C4E0D9441C13C77AED37129895A22-BA0A7486D8FA913A9F64ADCBDBBBF2DC.memo)
+\mmzResource{projector-376C4E0D9441C13C77AED37129895A22-BA0A7486D8FA913A9F64ADCBDBBBF2DC.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \only <all:\mmzxTalkOverlays >{}\quitvmode \mmzxtagtoks ={abc def}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {23.39569pt}{15.13937pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\setcounter {pauses}{1}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -265,7 +286,7 @@ padding=(1in,1in,1in,1in),overlay=4,pauses=1,opacity=1[nl]
 TEST 15: Show PDF Tags
 ============================================================
 -------- mmzx-talk-tag.xml (start) ---------
-<PDF>
+<PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.002"
@@ -281,11 +302,11 @@ TEST 15: Show PDF Tags
       >
      <?MarkedContent page="1" ?>Frame 1
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.007"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.008"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
@@ -299,8 +320,8 @@ TEST 15: Show PDF Tags
         >
        <?MarkedContent page="1" ?>
       </Figure>
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
    <frame xmlns="https://www.latex-project.org/ns/local/ltx-talk"
       id="ID.011"
@@ -313,11 +334,11 @@ TEST 15: Show PDF Tags
       >
      <?MarkedContent page="2" ?>Frame 2
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.012"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.013"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
@@ -331,8 +352,8 @@ TEST 15: Show PDF Tags
         >
        <?MarkedContent page="2" ?>
       </Figure>
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
    <frame xmlns="https://www.latex-project.org/ns/local/ltx-talk"
       id="ID.016"
@@ -345,11 +366,11 @@ TEST 15: Show PDF Tags
       >
      <?MarkedContent page="3" ?>Frame 3
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.017"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.018"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
@@ -361,8 +382,8 @@ TEST 15: Show PDF Tags
         >
        <?MarkedContent page="3" ?>
       </Span>
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
    <frame xmlns="https://www.latex-project.org/ns/local/ltx-talk"
       id="ID.021"
@@ -375,18 +396,18 @@ TEST 15: Show PDF Tags
       >
      <?MarkedContent page="4" ?>Frame 4
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.022"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.023"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
    <frame xmlns="https://www.latex-project.org/ns/local/ltx-talk"
       id="ID.025"
@@ -399,11 +420,11 @@ TEST 15: Show PDF Tags
       >
      <?MarkedContent page="6" ?>Frame 5
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.026"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.027"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
@@ -417,8 +438,8 @@ TEST 15: Show PDF Tags
         >
        <?MarkedContent page="6" ?>
       </Figure>
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
    <frame xmlns="https://www.latex-project.org/ns/local/ltx-talk"
       id="ID.030"
@@ -431,11 +452,11 @@ TEST 15: Show PDF Tags
       >
      <?MarkedContent page="10" ?>Frame 6
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.031"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.032"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
@@ -450,32 +471,14 @@ TEST 15: Show PDF Tags
         >
        <?MarkedContent page="10" ?>
       </Figure>
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
   </Document>
  </StructTreeRoot>
 </PDF>
 -------- mmzx-talk-tag.xml (end) -----------
 ============================================================
-MathML statistic
-================
-==> 0 MathML fragments read
-==> 0 different MathML fragments
-==> 0 math fragments found
-==> 0 fitting MathML AF found
-==> 0 MathML AF attached
-Package tagpdf Info: Finalizing the tagging structure:
-(tagpdf)             Writing out ~34 structure objects
-(tagpdf)             with ~54 'MC' leaf nodes.
-(tagpdf)             Be patient if there are lots of objects!
-Package tagpdf Info: writing ParentTree
-Package tagpdf Info: writing IDTree
-Package tagpdf Info: writing RoleMap
-Package tagpdf Info: writing ClassMap
-Package tagpdf Info: writing NameSpaces
-Package tagpdf Info: writing StructElems
-Package tagpdf Info: writing Root
 ***************
 Compilation 1 of test file completed with exit status 0
 Compilation 2 of test file completed with exit status 0

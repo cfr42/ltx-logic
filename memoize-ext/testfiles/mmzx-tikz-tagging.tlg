@@ -3,7 +3,8 @@ Don't change this file in any respect.
 memoize
 mmzx-tikz-tagging.mmz:
 -------- mmzx-tikz-tagging.mmz (start) ---------
-(mmzx-tikz-tagging.mmz) \mmzPrefix {memos/}[nl]
+(mmzx-tikz-tagging.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/9157C04F9B106328F14B4EE146DEE170.memo}[nl]
 \mmzUsedExtern {memos/9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -23,7 +24,8 @@ TEST 1: mmzx-tikz-tagging-1-cmemo
 ============================================================
 memos/9157C04F9B106328F14B4EE146DEE170.memo:
 -------- memos/9157C04F9B106328F14B4EE146DEE170.memo (start) ---------
-(memos/9157C04F9B106328F14B4EE146DEE170.memo) \mmzMemo[nl]
+(memos/9157C04F9B106328F14B4EE146DEE170.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -35,7 +37,8 @@ TEST 2: mmzx-tikz-tagging-1-ccmemo
 ============================================================
 memos/9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{9157C04F9B106328F14B4EE146DEE170-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={Alt 1}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {116.48053pt}{15.49548pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzEndMemo[nl]
@@ -46,7 +49,8 @@ TEST 3: mmzx-tikz-tagging-2-cmemo
 ============================================================
 memos/7485557BB944CF2077126D402A57E590.memo:
 -------- memos/7485557BB944CF2077126D402A57E590.memo (start) ---------
-(memos/7485557BB944CF2077126D402A57E590.memo) \mmzMemo[nl]
+(memos/7485557BB944CF2077126D402A57E590.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -58,7 +62,8 @@ TEST 4: mmzx-tikz-tagging-2-ccmemo
 ============================================================
 memos/7485557BB944CF2077126D402A57E590-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/7485557BB944CF2077126D402A57E590-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/7485557BB944CF2077126D402A57E590-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{7485557BB944CF2077126D402A57E590-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/7485557BB944CF2077126D402A57E590-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{7485557BB944CF2077126D402A57E590-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={Alt 2}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {116.48053pt}{15.49548pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzEndMemo[nl]
@@ -69,7 +74,8 @@ TEST 5: mmzx-tikz-tagging-3-cmemo
 ============================================================
 memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250.memo:
 -------- memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250.memo (start) ---------
-(memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250.memo) \mmzMemo[nl]
+(memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -81,7 +87,8 @@ TEST 6: mmzx-tikz-tagging-3-ccmemo
 ============================================================
 memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{B1E7A1E8F0FA7BBBEFBCF9DE3CC63250-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/B1E7A1E8F0FA7BBBEFBCF9DE3CC63250-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{B1E7A1E8F0FA7BBBEFBCF9DE3CC63250-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={Alt 3}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {116.48053pt}{36.40048pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzEndMemo[nl]
@@ -92,7 +99,8 @@ TEST 7: mmzx-tikz-tagging-4-cmemo
 ============================================================
 memos/1D63C460BFFA08BC2557A68A569245C3.memo:
 -------- memos/1D63C460BFFA08BC2557A68A569245C3.memo (start) ---------
-(memos/1D63C460BFFA08BC2557A68A569245C3.memo) \mmzMemo[nl]
+(memos/1D63C460BFFA08BC2557A68A569245C3.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -104,7 +112,8 @@ TEST 8: mmzx-tikz-tagging-4-ccmemo
 ============================================================
 memos/1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={Alt 4}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {120.98157pt}{4.72107pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzEndMemo[nl]
@@ -114,16 +123,16 @@ memos/1D63C460BFFA08BC2557A68A569245C3-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 TEST 9: Show PDF Tags
 ============================================================
 -------- mmzx-tikz-tagging.xml (start) ---------
-<PDF>
+<PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.002"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.005"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.006"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -166,24 +175,13 @@ TEST 9: Show PDF Tags
       <?MarkedContent page="1" ?>
      </Figure>
      <?MarkedContent page="1" ?>
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
 -------- mmzx-tikz-tagging.xml (end) -----------
 ============================================================
-Package tagpdf Info: Finalizing the tagging structure:
-(tagpdf)             Writing out ~10 structure objects
-(tagpdf)             with ~11 'MC' leaf nodes.
-(tagpdf)             Be patient if there are lots of objects!
-Package tagpdf Info: writing ParentTree
-Package tagpdf Info: writing IDTree
-Package tagpdf Info: writing RoleMap
-Package tagpdf Info: writing ClassMap
-Package tagpdf Info: writing NameSpaces
-Package tagpdf Info: writing StructElems
-Package tagpdf Info: writing Root
 ***************
 Compilation 1 of test file completed with exit status 0
 Compilation 2 of test file completed with exit status 0

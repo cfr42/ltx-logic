@@ -2,7 +2,8 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 mmzx-draw.mmz:
 -------- mmzx-draw.mmz (start) ---------
-(mmzx-draw.mmz) \mmzPrefix {memos/}[nl]
+(mmzx-draw.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/DB3DF2CFE73A0A2392A75694B4569E3C.memo}[nl]
 \mmzUsedExtern {memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -13,7 +14,8 @@ TEST 1: l3draw-cmemo
 ============================================================
 memos/DB3DF2CFE73A0A2392A75694B4569E3C.memo:
 -------- memos/DB3DF2CFE73A0A2392A75694B4569E3C.memo (start) ---------
-(memos/DB3DF2CFE73A0A2392A75694B4569E3C.memo) \mmzMemo \global \mmzContextExtra {}% % \mmzSource \draw_begin: \draw_path_moveto:n {0cm,\l_mypos_dim }\draw_path_lineto:n {1cm,\l_mypos_dim }\dim_set:Nn \l_mypos_dim {1cm}\draw_path_lineto:n {1cm,\l_mypos_dim }\draw_path_close: \draw_path_use_clear:n {stroke}\draw_end: 
+(memos/DB3DF2CFE73A0A2392A75694B4569E3C.memo)
+\mmzMemo \global \mmzContextExtra {}% % \mmzSource \draw_begin: \draw_path_moveto:n {0cm,\l_mypos_dim }\draw_path_lineto:n {1cm,\l_mypos_dim }\dim_set:Nn \l_mypos_dim {1cm}\draw_path_lineto:n {1cm,\l_mypos_dim }\draw_path_close: \draw_path_use_clear:n {stroke}\draw_end: 
 -------- memos/DB3DF2CFE73A0A2392A75694B4569E3C.memo (end) -----------
 ============================================================
 ============================================================
@@ -21,7 +23,8 @@ TEST 2: l3draw-ccmemo
 ============================================================
 memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}% \mmzMemo \csname __mmzx_expl_at_begin:\endcsname \UseName {int_gincr:c}{g_draw_id_int}\quitvmode \__draw_record_origin: \mmzIncludeExtern {0}\hbox {28.85275pt}{28.85274pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\csname __mmzx_cctab_end:\endcsname % \mmzThisContext padding=(1in,1in,1in,1in), \mmzEndMemo 
+(memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}% \mmzMemo \csname __mmzx_expl_at_begin:\endcsname \UseName {int_gincr:c}{g_draw_id_int}\quitvmode \__draw_record_origin: \mmzIncludeExtern {0}\hbox {28.85275pt}{28.85274pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\csname __mmzx_cctab_end:\endcsname % \mmzThisContext padding=(1in,1in,1in,1in), \mmzEndMemo 
 -------- memos/DB3DF2CFE73A0A2392A75694B4569E3C-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (end) -----------
 ============================================================
 ***************

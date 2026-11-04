@@ -3,7 +3,8 @@ Don't change this file in any respect.
 memoize
 mmzx-tag.mmz:
 -------- mmzx-tag.mmz (start) ---------
-(mmzx-tag.mmz) \mmzPrefix {memos/}[nl]
+(mmzx-tag.mmz)
+\mmzPrefix {memos/}[nl]
 \mmzUsedCMemo {memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2.memo}[nl]
 \mmzUsedExtern {memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8-1.pdf}[nl]
 \mmzUsedCCMemo {memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo}[nl]
@@ -20,7 +21,8 @@ TEST 1: alt-cmemo
 ============================================================
 memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2.memo:
 -------- memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2.memo (start) ---------
-(memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2.memo) \mmzMemo[nl]
+(memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -32,7 +34,8 @@ TEST 2: alt-ccmemo
 ============================================================
 memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{6DD43B0C4FEBE24347AA1C9D4C0D1DB2-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={ABC}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {21.94595pt}{13.71594pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -45,7 +48,8 @@ TEST 3: alt-cmemo
 ============================================================
 memos/64A2FA9CB5CFE7F59480F84BE8DA30C4.memo:
 -------- memos/64A2FA9CB5CFE7F59480F84BE8DA30C4.memo (start) ---------
-(memos/64A2FA9CB5CFE7F59480F84BE8DA30C4.memo) \mmzMemo[nl]
+(memos/64A2FA9CB5CFE7F59480F84BE8DA30C4.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -57,7 +61,8 @@ TEST 4: alt-ccmemo
 ============================================================
 memos/64A2FA9CB5CFE7F59480F84BE8DA30C4-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/64A2FA9CB5CFE7F59480F84BE8DA30C4-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/64A2FA9CB5CFE7F59480F84BE8DA30C4-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{64A2FA9CB5CFE7F59480F84BE8DA30C4-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/64A2FA9CB5CFE7F59480F84BE8DA30C4-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{64A2FA9CB5CFE7F59480F84BE8DA30C4-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={DEF}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {21.94595pt}{13.71594pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -70,7 +75,8 @@ TEST 5: alt-cmemo
 ============================================================
 memos/ACD4D99724684E14C345EBB9B904B430.memo:
 -------- memos/ACD4D99724684E14C345EBB9B904B430.memo (start) ---------
-(memos/ACD4D99724684E14C345EBB9B904B430.memo) \mmzMemo[nl]
+(memos/ACD4D99724684E14C345EBB9B904B430.memo)
+\mmzMemo[nl]
 \global \mmzContextExtra {}%[nl]
 %[nl]
 \mmzSource[nl]
@@ -82,7 +88,8 @@ TEST 6: alt-ccmemo
 ============================================================
 memos/ACD4D99724684E14C345EBB9B904B430-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo:
 -------- memos/ACD4D99724684E14C345EBB9B904B430-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo (start) ---------
-(memos/ACD4D99724684E14C345EBB9B904B430-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo) \mmzResource{ACD4D99724684E14C345EBB9B904B430-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
+(memos/ACD4D99724684E14C345EBB9B904B430-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.memo)
+\mmzResource{ACD4D99724684E14C345EBB9B904B430-E778DCCCB8AAB0BBD3F6CFEEFD2421F8.pdf}%[nl]
 \mmzMemo[nl]
 \let \mmzxIncludeExternOrig \mmzIncludeExtern \let \mmzIncludeExtern \mmzxIncludeExtern \quitvmode \mmzxtagtoks ={DEF}\AssignSocketPlug {tagsupport/memoize/include/extern/before}{mmzx/alt}\AssignSocketPlug {tagsupport/memoize/include/extern/after}{mmzx/alt}\mmzIncludeExtern {0}\hbox {19.72595pt}{13.82596pt}{0.0pt}{72.26999pt}{72.26999pt}{72.26999pt}{72.26999pt}\mmzStepPgfPictureId {1}%[nl]
 \mmzThisContext[nl]
@@ -94,16 +101,16 @@ padding=(1in,1in,1in,1in),[nl]
 TEST 7: Show PDF Tags
 ============================================================
 -------- mmzx-tag.xml (start) ---------
-<PDF>
+<PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.002"
     >
-   <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+   <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
       id="ID.006"
       rolemaps-to="Part"
      >
-    <text xmlns="https://www.latex-project.org/ns/dflt"
+    <text-block xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.007"
        xmlns:Layout="http://iso.org/pdf/ssn/Layout"
        Layout:TextAlign="Justify"
@@ -133,24 +140,13 @@ TEST 7: Show PDF Tags
        >
       <?MarkedContent page="1" ?>
      </Figure>
-    </text>
-   </text-unit>
+    </text-block>
+   </semantic-para>
   </Document>
  </StructTreeRoot>
 </PDF>
 -------- mmzx-tag.xml (end) -----------
 ============================================================
-Package tagpdf Info: Finalizing the tagging structure:
-(tagpdf)             Writing out ~10 structure objects
-(tagpdf)             with ~9 'MC' leaf nodes.
-(tagpdf)             Be patient if there are lots of objects!
-Package tagpdf Info: writing ParentTree
-Package tagpdf Info: writing IDTree
-Package tagpdf Info: writing RoleMap
-Package tagpdf Info: writing ClassMap
-Package tagpdf Info: writing NameSpaces
-Package tagpdf Info: writing StructElems
-Package tagpdf Info: writing Root
 ***************
 Compilation 1 of test file completed with exit status 0
 Compilation 2 of test file completed with exit status 0

@@ -2,7 +2,8 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 mmzx-talk-tag-abort.mmz:
 -------- mmzx-talk-tag-abort.mmz (start) ---------
-(mmzx-talk-tag-abort.mmz) \mmzPrefix {memos/projector-}[nl]
+(mmzx-talk-tag-abort.mmz)
+\mmzPrefix {memos/projector-}[nl]
 \mmzUsedCMemo {memos/projector-4EADD6CE44B2E1BF5CBE2830010B7ACA.memo}[nl]
 \mmzUsedCMemo {memos/projector-D603C7C4CD777BF469A7713B74A45CCA.memo}[nl]
 \mmzNewCMemo {memos/projector-D603C7C4CD777BF469A7713B74A45CCA.memo}[nl]
@@ -55,7 +56,7 @@ warning  (pdf backend): pop empty color page stack 1
 TEST 3: Show PDF Tags
 ============================================================
 -------- mmzx-talk-tag-abort.xml (start) ---------
-<PDF>
+<PDF version="2.0">
  <StructTreeRoot>
   <Document xmlns="http://iso.org/pdf2/ssn"
      id="ID.002"
@@ -71,11 +72,11 @@ TEST 3: Show PDF Tags
       >
      <?MarkedContent page="1" ?>Frame 1
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.007"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.008"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
@@ -83,8 +84,8 @@ TEST 3: Show PDF Tags
        >
       <?MarkedContent page="1" ?>Memoization should abort
       <?MarkedContent page="1" ?>
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
    <frame xmlns="https://www.latex-project.org/ns/local/ltx-talk"
       id="ID.010"
@@ -97,42 +98,24 @@ TEST 3: Show PDF Tags
       >
      <?MarkedContent page="2" ?>Frame 2
     </frametitle>
-    <text-unit xmlns="https://www.latex-project.org/ns/dflt"
+    <semantic-para xmlns="https://www.latex-project.org/ns/dflt"
        id="ID.011"
        rolemaps-to="Part"
       >
-     <text xmlns="https://www.latex-project.org/ns/dflt"
+     <text-block xmlns="https://www.latex-project.org/ns/dflt"
         id="ID.012"
         xmlns:Layout="http://iso.org/pdf/ssn/Layout"
         Layout:TextAlign="Start"
         rolemaps-to="P"
        >
-     </text>
-    </text-unit>
+     </text-block>
+    </semantic-para>
    </frame>
   </Document>
  </StructTreeRoot>
 </PDF>
 -------- mmzx-talk-tag-abort.xml (end) -----------
 ============================================================
-MathML statistic
-================
-==> 0 MathML fragments read
-==> 0 different MathML fragments
-==> 0 math fragments found
-==> 0 fitting MathML AF found
-==> 0 MathML AF attached
-Package tagpdf Info: Finalizing the tagging structure:
-(tagpdf)             Writing out ~13 structure objects
-(tagpdf)             with ~16 'MC' leaf nodes.
-(tagpdf)             Be patient if there are lots of objects!
-Package tagpdf Info: writing ParentTree
-Package tagpdf Info: writing IDTree
-Package tagpdf Info: writing RoleMap
-Package tagpdf Info: writing ClassMap
-Package tagpdf Info: writing NameSpaces
-Package tagpdf Info: writing StructElems
-Package tagpdf Info: writing Root
 ***************
 Compilation 1 of test file completed with exit status 0
 Compilation 2 of test file completed with exit status 0
