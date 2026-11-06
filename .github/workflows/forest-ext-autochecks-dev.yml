@@ -47,7 +47,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v7
         with:
-          ref: latex-dev
+          # ref: latex-dev
+          ref: devel
       - name: Build ctan dev
         id: build-dev 
         # uses: cfr42/nfssext/.github/actions/nfssext-autocheck-action@eeab7fc024553e35584805f40af881812b7e09a6
